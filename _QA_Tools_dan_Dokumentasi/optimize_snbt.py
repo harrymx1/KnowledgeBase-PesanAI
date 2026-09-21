@@ -1,4 +1,6 @@
-# Panduan dan Jadwal Registrasi Administrasi Mahasiswa Baru Jalur SNBT UM 2026/2027
+# Re-structure Registrasi Administrasi SNBT Reguler for optimal Mekari chunking (<500-600 chars per block)
+
+content = """# Panduan dan Jadwal Registrasi Administrasi Mahasiswa Baru Jalur SNBT UM 2026/2027
 > **Sumber Dokumen:** `Registrasi Administrasi Calon Mahasiswa Baru Universitas Negeri Malang (UM) Jalur SNBT Tahun Akademik 2026_2027.pdf`  
 > **Kategori:** `01_PMB_Penerimaan_Mahasiswa_Baru`
 
@@ -62,3 +64,9 @@ Jika mengalami kendala teknis dalam proses pendaftaran dan registrasi online:
 - **WhatsApp Helpdesk PMB:** `0813-3344-400` (hanya melayani chat teks pada hari dan jam kerja).
 - **Portal Registrasi:** `http://registrasi.um.ac.id`
 - **Portal Seleksi UM:** `https://seleksi.um.ac.id`
+"""
+
+with open("Knowledge_Base_Clean_Categorized/01_PMB_Penerimaan_Mahasiswa_Baru/Registrasi Administrasi Calon Mahasiswa Baru Universitas Negeri Malang (UM) Jalur SNBT Tahun Akademik 2026_2027.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("File SNBT successfully updated with optimized chunks!")
