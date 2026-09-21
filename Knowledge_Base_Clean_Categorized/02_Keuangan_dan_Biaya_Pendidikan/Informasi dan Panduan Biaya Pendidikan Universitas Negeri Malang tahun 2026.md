@@ -48,7 +48,7 @@ Berikut adalah daftar lengkap besaran tarif biaya kuliah Uang Kuliah Tunggal (UK
 
 ## Biaya UKT Fakultas Ilmu Pendidikan (FIP)
 
-### Biaya UKT S1 Bimbingan dan Konseling (FIP UM)
+### Biaya UKT dan IPI S1 Bimbingan dan Konseling (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Bimbingan dan Konseling? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Bimbingan dan Konseling di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -57,8 +57,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Bimbingan dan Konseling? Besar
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Teknologi Pendidikan (FIP UM)
+### Biaya UKT dan IPI S1 Teknologi Pendidikan (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknologi Pendidikan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknologi Pendidikan di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -67,8 +69,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknologi Pendidikan? Besaran 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Manajemen Pendidikan (FIP UM)
+### Biaya UKT dan IPI S1 Manajemen Pendidikan (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Manajemen Pendidikan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Manajemen Pendidikan di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -77,8 +81,12 @@ Berapa biaya UKT untuk jurusan / program studi S1 Manajemen Pendidikan? Besaran 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp27.500.000
+- **IPI 2 (Jalur Mandiri):** Rp32.500.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Nonformal (FIP UM)
+### Biaya UKT dan IPI S1 Pendidikan Nonformal (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Nonformal? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Nonformal di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -87,8 +95,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Nonformal? Besaran 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Guru Sekolah Dasar (PGSD) (FIP UM)
+### Biaya UKT dan IPI S1 Pendidikan Guru Sekolah Dasar (PGSD) (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Guru Sekolah Dasar (PGSD)? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Guru Sekolah Dasar (PGSD) di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -97,8 +107,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Guru Sekolah Dasar 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Guru PAUD (PG PAUD) (FIP UM)
+### Biaya UKT dan IPI S1 Pendidikan Guru PAUD (PG PAUD) (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Guru PAUD (PG PAUD)? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Guru PAUD (PG PAUD) di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -107,8 +119,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Guru PAUD (PG PAUD)
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Khusus (FIP UM)
+### Biaya UKT dan IPI S1 Pendidikan Khusus (FIP UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Khusus? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Khusus di Fakultas Ilmu Pendidikan (FIP) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -117,13 +131,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Khusus? Besaran tar
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Sastra (FS)
 
-### Biaya UKT S1 Pendidikan Bahasa, Sastra Indonesia dan Daerah (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Bahasa, Sastra Indonesia dan Daerah (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa, Sastra Indonesia dan Daerah? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bahasa, Sastra Indonesia dan Daerah di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -132,8 +148,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa, Sastra Indo
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.500.000
+- **IPI 1 (Jalur Mandiri):** Rp22.000.000
+- **IPI 2 (Jalur Mandiri):** Rp27.000.000
 
-### Biaya UKT S1 Bahasa dan Sastra Indonesia (FS UM)
+### Biaya UKT dan IPI S1 Bahasa dan Sastra Indonesia (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Bahasa dan Sastra Indonesia? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Bahasa dan Sastra Indonesia di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -142,8 +160,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Bahasa dan Sastra Indonesia? B
 - **UKT 5:** Rp4.650.000
 - **UKT 6:** Rp5.050.000
 - **UKT 7:** Rp5.500.000
+- **IPI 1 (Jalur Mandiri):** Rp18.000.000
+- **IPI 2 (Jalur Mandiri):** Rp23.000.000
 
-### Biaya UKT S1 Ilmu Perpustakaan (FS UM)
+### Biaya UKT dan IPI S1 Ilmu Perpustakaan (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Perpustakaan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Ilmu Perpustakaan di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -152,8 +172,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Perpustakaan? Besaran tar
 - **UKT 5:** Rp4.700.000
 - **UKT 6:** Rp5.150.000
 - **UKT 7:** Rp5.400.000
+- **IPI 1 (Jalur Mandiri):** Rp17.000.000
+- **IPI 2 (Jalur Mandiri):** Rp22.000.000
 
-### Biaya UKT S1 Pendidikan Bahasa Inggris (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Bahasa Inggris (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Inggris? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bahasa Inggris di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -162,8 +184,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Inggris? Bes
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp5.700.000
+- **IPI 1 (Jalur Mandiri):** Rp23.000.000
+- **IPI 2 (Jalur Mandiri):** Rp28.000.000
 
-### Biaya UKT S1 Bahasa dan Sastra Inggris (FS UM)
+### Biaya UKT dan IPI S1 Bahasa dan Sastra Inggris (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Bahasa dan Sastra Inggris? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Bahasa dan Sastra Inggris di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -172,8 +196,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Bahasa dan Sastra Inggris? Bes
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.700.000
+- **IPI 1 (Jalur Mandiri):** Rp22.000.000
+- **IPI 2 (Jalur Mandiri):** Rp27.000.000
 
-### Biaya UKT S1 Pendidikan Bahasa Arab (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Bahasa Arab (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Arab? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bahasa Arab di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -182,8 +208,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Arab? Besara
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.000.000
 - **UKT 7:** Rp5.400.000
+- **IPI 1 (Jalur Mandiri):** Rp18.000.000
+- **IPI 2 (Jalur Mandiri):** Rp23.000.000
 
-### Biaya UKT S1 Pendidikan Bahasa Jerman (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Bahasa Jerman (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Jerman? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bahasa Jerman di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -192,8 +220,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Jerman? Besa
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.500.000
+- **IPI 1 (Jalur Mandiri):** Rp18.000.000
+- **IPI 2 (Jalur Mandiri):** Rp23.000.000
 
-### Biaya UKT S1 Pendidikan Bahasa Mandarin (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Bahasa Mandarin (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Mandarin? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bahasa Mandarin di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -202,8 +232,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bahasa Mandarin? Be
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.500.000
+- **IPI 1 (Jalur Mandiri):** Rp18.000.000
+- **IPI 2 (Jalur Mandiri):** Rp23.000.000
 
-### Biaya UKT S1 Pendidikan Seni Rupa (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Seni Rupa (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Seni Rupa? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Seni Rupa di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -212,8 +244,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Seni Rupa? Besaran 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.700.000
+- **IPI 1 (Jalur Mandiri):** Rp22.000.000
+- **IPI 2 (Jalur Mandiri):** Rp27.000.000
 
-### Biaya UKT S1 Pendidikan Seni Pertunjukan (FS UM)
+### Biaya UKT dan IPI S1 Pendidikan Seni Pertunjukan (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Seni Pertunjukan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Seni Pertunjukan di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -222,8 +256,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Seni Pertunjukan? B
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.350.000
 - **UKT 7:** Rp5.700.000
+- **IPI 1 (Jalur Mandiri):** Rp22.000.000
+- **IPI 2 (Jalur Mandiri):** Rp27.000.000
 
-### Biaya UKT S1 Desain Komunikasi Visual (DKV) (FS UM)
+### Biaya UKT dan IPI S1 Desain Komunikasi Visual (DKV) (FS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Desain Komunikasi Visual (DKV)? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Desain Komunikasi Visual (DKV) di Fakultas Sastra (FS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -232,13 +268,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Desain Komunikasi Visual (DKV)
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp5.800.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Matematika dan IPA (FMIPA)
 
-### Biaya UKT S1 Pendidikan Matematika (FMIPA UM)
+### Biaya UKT dan IPI S1 Pendidikan Matematika (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Matematika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Matematika di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -247,8 +285,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Matematika? Besaran
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Matematika (FMIPA UM)
+### Biaya UKT dan IPI S1 Matematika (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Matematika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Matematika di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -257,8 +297,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Matematika? Besaran tarif biay
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Pendidikan Fisika (FMIPA UM)
+### Biaya UKT dan IPI S1 Pendidikan Fisika (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Fisika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Fisika di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -267,8 +309,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Fisika? Besaran tar
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Fisika (FMIPA UM)
+### Biaya UKT dan IPI S1 Fisika (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Fisika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Fisika di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -277,8 +321,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Fisika? Besaran tarif biaya ku
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Pendidikan Kimia (FMIPA UM)
+### Biaya UKT dan IPI S1 Pendidikan Kimia (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Kimia? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Kimia di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -287,8 +333,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Kimia? Besaran tari
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Kimia (FMIPA UM)
+### Biaya UKT dan IPI S1 Kimia (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Kimia? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Kimia di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -297,8 +345,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Kimia? Besaran tarif biaya kul
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Pendidikan Biologi (FMIPA UM)
+### Biaya UKT dan IPI S1 Pendidikan Biologi (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Biologi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Biologi di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -307,8 +357,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Biologi? Besaran ta
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Biologi (FMIPA UM)
+### Biaya UKT dan IPI S1 Biologi (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Biologi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Biologi di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -317,8 +369,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Biologi? Besaran tarif biaya k
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Bioteknologi (FMIPA UM)
+### Biaya UKT dan IPI S1 Bioteknologi (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Bioteknologi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Bioteknologi di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -327,8 +381,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Bioteknologi? Besaran tarif bi
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Gizi (FMIPA UM)
+### Biaya UKT dan IPI S1 Gizi (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Gizi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Gizi di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -337,8 +393,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Gizi? Besaran tarif biaya kuli
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.750.000
 - **UKT 7:** Rp7.000.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Pendidikan IPA (FMIPA UM)
+### Biaya UKT dan IPI S1 Pendidikan IPA (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan IPA? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan IPA di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -347,8 +405,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan IPA? Besaran tarif 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.000.000
 - **UKT 7:** Rp5.250.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Sains Aktuaria (FMIPA UM)
+### Biaya UKT dan IPI S1 Sains Aktuaria (FMIPA UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Sains Aktuaria? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Sains Aktuaria di Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -357,13 +417,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Sains Aktuaria? Besaran tarif 
 - **UKT 5:** Rp5.500.000
 - **UKT 6:** Rp7.050.000
 - **UKT 7:** Rp8.600.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Ekonomi dan Bisnis (FEB)
 
-### Biaya UKT S1 Pendidikan Bisnis (FEB UM)
+### Biaya UKT dan IPI S1 Pendidikan Bisnis (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bisnis? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Bisnis di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -372,8 +434,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Bisnis? Besaran tar
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp22.000.000
+- **IPI 2 (Jalur Mandiri):** Rp27.000.000
 
-### Biaya UKT S1 Pendidikan Administrasi Perkantoran (FEB UM)
+### Biaya UKT dan IPI S1 Pendidikan Administrasi Perkantoran (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Administrasi Perkantoran? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Administrasi Perkantoran di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -382,8 +446,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Administrasi Perkan
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp24.500.000
+- **IPI 2 (Jalur Mandiri):** Rp29.500.000
 
-### Biaya UKT S1 Manajemen (FEB UM)
+### Biaya UKT dan IPI S1 Manajemen (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Manajemen? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Manajemen di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -392,8 +458,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Manajemen? Besaran tarif biaya
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.850.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp27.500.000
+- **IPI 2 (Jalur Mandiri):** Rp32.500.000
 
-### Biaya UKT S1 Pendidikan Akuntansi (FEB UM)
+### Biaya UKT dan IPI S1 Pendidikan Akuntansi (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Akuntansi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Akuntansi di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -402,8 +470,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Akuntansi? Besaran 
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp24.500.000
+- **IPI 2 (Jalur Mandiri):** Rp29.500.000
 
-### Biaya UKT S1 Akuntansi (FEB UM)
+### Biaya UKT dan IPI S1 Akuntansi (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Akuntansi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Akuntansi di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -412,8 +482,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Akuntansi? Besaran tarif biaya
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp6.950.000
+- **IPI 1 (Jalur Mandiri):** Rp27.500.000
+- **IPI 2 (Jalur Mandiri):** Rp32.500.000
 
-### Biaya UKT S1 Pendidikan Ekonomi (FEB UM)
+### Biaya UKT dan IPI S1 Pendidikan Ekonomi (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Ekonomi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Ekonomi di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -422,8 +494,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Ekonomi? Besaran ta
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp24.500.000
+- **IPI 2 (Jalur Mandiri):** Rp29.500.000
 
-### Biaya UKT S1 Ekonomi Pembangunan (FEB UM)
+### Biaya UKT dan IPI S1 Ekonomi Pembangunan (FEB UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Ekonomi Pembangunan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Ekonomi Pembangunan di Fakultas Ekonomi dan Bisnis (FEB) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -432,13 +506,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Ekonomi Pembangunan? Besaran t
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.850.000
 - **UKT 7:** Rp6.750.000
+- **IPI 1 (Jalur Mandiri):** Rp27.500.000
+- **IPI 2 (Jalur Mandiri):** Rp32.500.000
 
 
 ---
 
 ## Biaya UKT Fakultas Teknik (FT)
 
-### Biaya UKT S1 Pendidikan Teknik Mesin (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Teknik Mesin (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Mesin? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Teknik Mesin di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -447,8 +523,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Mesin? Besar
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Mesin (FT UM)
+### Biaya UKT dan IPI S1 Teknik Mesin (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Mesin? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Mesin di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -457,8 +535,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Mesin? Besaran tarif bi
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.000.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pendidikan Teknik Otomotif (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Teknik Otomotif (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Otomotif? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Teknik Otomotif di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -467,8 +547,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Otomotif? Be
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Industri (FT UM)
+### Biaya UKT dan IPI S1 Teknik Industri (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Industri? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Industri di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -477,8 +559,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Industri? Besaran tarif
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.500.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pendidikan Teknik Bangunan (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Teknik Bangunan (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Bangunan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Teknik Bangunan di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -487,8 +571,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Bangunan? Be
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Sipil (FT UM)
+### Biaya UKT dan IPI S1 Teknik Sipil (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Sipil? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Sipil di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -497,8 +583,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Sipil? Besaran tarif bi
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.500.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pendidikan Teknik Informatika (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Teknik Informatika (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Informatika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Teknik Informatika di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -507,8 +595,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Informatika?
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Informatika (FT UM)
+### Biaya UKT dan IPI S1 Teknik Informatika (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Informatika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Informatika di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -517,8 +607,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Informatika? Besaran ta
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.500.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pendidikan Teknik Elektro (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Teknik Elektro (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Elektro? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Teknik Elektro di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -527,8 +619,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Teknik Elektro? Bes
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Elektro (FT UM)
+### Biaya UKT dan IPI S1 Teknik Elektro (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Elektro? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Elektro di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -537,8 +631,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Elektro? Besaran tarif 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.500.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pendidikan Tata Boga (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Tata Boga (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Tata Boga? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Tata Boga di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -547,8 +643,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Tata Boga? Besaran 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Pendidikan Tata Busana (FT UM)
+### Biaya UKT dan IPI S1 Pendidikan Tata Busana (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Tata Busana? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Tata Busana di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -557,8 +655,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Tata Busana? Besara
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT S1 Teknik Lingkungan (FT UM)
+### Biaya UKT dan IPI S1 Teknik Lingkungan (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Teknik Lingkungan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Teknik Lingkungan di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -567,8 +667,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Teknik Lingkungan? Besaran tar
 - **UKT 5:** Rp5.200.000
 - **UKT 6:** Rp6.600.000
 - **UKT 7:** Rp8.000.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Arsitektur (FT UM)
+### Biaya UKT dan IPI S1 Arsitektur (FT UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Arsitektur? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Arsitektur di Fakultas Teknik (FT) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -577,13 +679,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Arsitektur? Besaran tarif biay
 - **UKT 5:** Rp5.200.000
 - **UKT 6:** Rp6.600.000
 - **UKT 7:** Rp8.000.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Ilmu Keolahragaan (FIK)
 
-### Biaya UKT S1 Pendidikan Jasmani, Kesehatan, dan Rekreasi (FIK UM)
+### Biaya UKT dan IPI S1 Pendidikan Jasmani, Kesehatan, dan Rekreasi (FIK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Jasmani, Kesehatan, dan Rekreasi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Jasmani, Kesehatan, dan Rekreasi di Fakultas Ilmu Keolahragaan (FIK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -592,8 +696,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Jasmani, Kesehatan,
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Pendidikan Kepelatihan Olahraga (FIK UM)
+### Biaya UKT dan IPI S1 Pendidikan Kepelatihan Olahraga (FIK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Kepelatihan Olahraga? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Kepelatihan Olahraga di Fakultas Ilmu Keolahragaan (FIK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -602,8 +708,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Kepelatihan Olahrag
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Ilmu Keolahragaan (FIK UM)
+### Biaya UKT dan IPI S1 Ilmu Keolahragaan (FIK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Keolahragaan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Ilmu Keolahragaan di Fakultas Ilmu Keolahragaan (FIK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -612,8 +720,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Keolahragaan? Besaran tar
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp22.500.000
+- **IPI 2 (Jalur Mandiri):** Rp27.500.000
 
-### Biaya UKT S1 Kesehatan Masyarakat (FIK UM)
+### Biaya UKT dan IPI S1 Kesehatan Masyarakat (FIK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Kesehatan Masyarakat? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Kesehatan Masyarakat di Fakultas Ilmu Keolahragaan (FIK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -622,13 +732,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Kesehatan Masyarakat? Besaran 
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Ilmu Sosial (FIS)
 
-### Biaya UKT S1 Pendidikan Pancasila dan Kewarganegaraan (PPKn) (FIS UM)
+### Biaya UKT dan IPI S1 Pendidikan Pancasila dan Kewarganegaraan (PPKn) (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Pancasila dan Kewarganegaraan (PPKn)? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Pancasila dan Kewarganegaraan (PPKn) di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -637,8 +749,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Pancasila dan Kewar
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Pendidikan Geografi (FIS UM)
+### Biaya UKT dan IPI S1 Pendidikan Geografi (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Geografi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Geografi di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -647,8 +761,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Geografi? Besaran t
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Geografi (FIS UM)
+### Biaya UKT dan IPI S1 Geografi (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Geografi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Geografi di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -657,8 +773,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Geografi? Besaran tarif biaya 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Sejarah (FIS UM)
+### Biaya UKT dan IPI S1 Pendidikan Sejarah (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Sejarah? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Sejarah di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -667,8 +785,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Sejarah? Besaran ta
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Sejarah (FIS UM)
+### Biaya UKT dan IPI S1 Sejarah (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Sejarah? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Sejarah di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -677,8 +797,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Sejarah? Besaran tarif biaya k
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.250.000
 - **UKT 7:** Rp5.750.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Pendidikan Sosiologi (FIS UM)
+### Biaya UKT dan IPI S1 Pendidikan Sosiologi (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Sosiologi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Sosiologi di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -687,8 +809,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Sosiologi? Besaran 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.000.000
 - **UKT 7:** Rp5.500.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Ilmu Komunikasi (FIS UM)
+### Biaya UKT dan IPI S1 Ilmu Komunikasi (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Komunikasi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Ilmu Komunikasi di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -697,8 +821,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Komunikasi? Besaran tarif
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.000.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT S1 Pendidikan Ilmu Pengetahuan Sosial (IPS) (FIS UM)
+### Biaya UKT dan IPI S1 Pendidikan Ilmu Pengetahuan Sosial (IPS) (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Ilmu Pengetahuan Sosial (IPS)? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pendidikan Ilmu Pengetahuan Sosial (IPS) di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -707,8 +833,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pendidikan Ilmu Pengetahuan So
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp4.800.000
 - **UKT 7:** Rp5.000.000
+- **IPI 1 (Jalur Mandiri):** Rp17.500.000
+- **IPI 2 (Jalur Mandiri):** Rp22.500.000
 
-### Biaya UKT S1 Ilmu Hukum (FIS UM)
+### Biaya UKT dan IPI S1 Ilmu Hukum (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Hukum? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Ilmu Hukum di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -717,8 +845,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Ilmu Hukum? Besaran tarif biay
 - **UKT 5:** Rp5.200.000
 - **UKT 6:** Rp6.600.000
 - **UKT 7:** Rp8.000.000
+- **IPI 1 (Jalur Mandiri):** Rp30.000.000
+- **IPI 2 (Jalur Mandiri):** Rp35.000.000
 
-### Biaya UKT S1 Pariwisata (FIS UM)
+### Biaya UKT dan IPI S1 Pariwisata (FIS UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Pariwisata? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Pariwisata di Fakultas Ilmu Sosial (FIS) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -727,13 +857,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Pariwisata? Besaran tarif biay
 - **UKT 5:** Rp5.200.000
 - **UKT 6:** Rp6.600.000
 - **UKT 7:** Rp8.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Psikologi (FPsi)
 
-### Biaya UKT S1 Psikologi (FPsi UM)
+### Biaya UKT dan IPI S1 Psikologi (FPsi UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Psikologi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Psikologi di Fakultas Psikologi (FPsi) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -742,13 +874,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Psikologi? Besaran tarif biaya
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Kedokteran (FK)
 
-### Biaya UKT S1 Kedokteran (FK UM)
+### Biaya UKT dan IPI S1 Kedokteran (FK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Kedokteran? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Kedokteran di Fakultas Kedokteran (FK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -757,8 +891,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Kedokteran? Besaran tarif biay
 - **UKT 5:** Rp17.500.000
 - **UKT 6:** Rp20.000.000
 - **UKT 7:** Rp23.500.000
+- **IPI 1 (Jalur Mandiri):** Rp200.000.000
+- **IPI 2 (Jalur Mandiri):** Rp225.000.000
 
-### Biaya UKT S1 Keperawatan (FK UM)
+### Biaya UKT dan IPI S1 Keperawatan (FK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Keperawatan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Keperawatan di Fakultas Kedokteran (FK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -767,8 +903,10 @@ Berapa biaya UKT untuk jurusan / program studi S1 Keperawatan? Besaran tarif bia
 - **UKT 5:** Rp8.000.000
 - **UKT 6:** Rp10.000.000
 - **UKT 7:** Rp12.500.000
+- **IPI 1 (Jalur Mandiri):** Rp35.000.000
+- **IPI 2 (Jalur Mandiri):** Rp40.000.000
 
-### Biaya UKT S1 Kebidanan (FK UM)
+### Biaya UKT dan IPI S1 Kebidanan (FK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Kebidanan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Kebidanan di Fakultas Kedokteran (FK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -777,13 +915,15 @@ Berapa biaya UKT untuk jurusan / program studi S1 Kebidanan? Besaran tarif biaya
 - **UKT 5:** Rp8.000.000
 - **UKT 6:** Rp10.000.000
 - **UKT 7:** Rp12.500.000
+- **IPI 1 (Jalur Mandiri):** Rp35.000.000
+- **IPI 2 (Jalur Mandiri):** Rp40.000.000
 
 
 ---
 
 ## Biaya UKT Fakultas Vokasi (Diploma IV / D4)
 
-### Biaya UKT D4 Akuntansi (Vokasi UM)
+### Biaya UKT dan IPI D4 Akuntansi (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Akuntansi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Akuntansi di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -792,8 +932,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Akuntansi? Besaran tarif biaya
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp6.950.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT D4 Manajemen Pemasaran (Vokasi UM)
+### Biaya UKT dan IPI D4 Manajemen Pemasaran (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Manajemen Pemasaran? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Manajemen Pemasaran di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -802,8 +944,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Manajemen Pemasaran? Besaran t
 - **UKT 5:** Rp5.000.000
 - **UKT 6:** Rp5.850.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT D4 Animasi (Vokasi UM)
+### Biaya UKT dan IPI D4 Animasi (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Animasi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Animasi di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -812,8 +956,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Animasi? Besaran tarif biaya k
 - **UKT 5:** Rp4.750.000
 - **UKT 6:** Rp5.400.000
 - **UKT 7:** Rp5.800.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 Perpustakaan Digital (Vokasi UM)
+### Biaya UKT dan IPI D4 Perpustakaan Digital (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Perpustakaan Digital? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Perpustakaan Digital di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -822,8 +968,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Perpustakaan Digital? Besaran 
 - **UKT 5:** Rp4.700.000
 - **UKT 6:** Rp5.150.000
 - **UKT 7:** Rp5.400.000
+- **IPI 1 (Jalur Mandiri):** Rp20.000.000
+- **IPI 2 (Jalur Mandiri):** Rp25.000.000
 
-### Biaya UKT D4 Tata Boga (Vokasi UM)
+### Biaya UKT dan IPI D4 Tata Boga (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Tata Boga? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Tata Boga di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -832,8 +980,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Tata Boga? Besaran tarif biaya
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 Desain Mode (Vokasi UM)
+### Biaya UKT dan IPI D4 Desain Mode (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Desain Mode? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Desain Mode di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -842,8 +992,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Desain Mode? Besaran tarif bia
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 TRP Pengelolaan Bangunan Sipil (Vokasi UM)
+### Biaya UKT dan IPI D4 TRP Pengelolaan Bangunan Sipil (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 TRP Pengelolaan Bangunan Sipil? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 TRP Pengelolaan Bangunan Sipil di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -852,8 +1004,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 TRP Pengelolaan Bangunan Sipil
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 Teknologi Rekayasa Manufaktur (Vokasi UM)
+### Biaya UKT dan IPI D4 Teknologi Rekayasa Manufaktur (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Teknologi Rekayasa Manufaktur? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Teknologi Rekayasa Manufaktur di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -862,8 +1016,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Teknologi Rekayasa Manufaktur?
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 Teknologi Rekayasa Otomotif (Vokasi UM)
+### Biaya UKT dan IPI D4 Teknologi Rekayasa Otomotif (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 Teknologi Rekayasa Otomotif? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 Teknologi Rekayasa Otomotif di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -872,8 +1028,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 Teknologi Rekayasa Otomotif? B
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 TR Pembangkit Energi (Vokasi UM)
+### Biaya UKT dan IPI D4 TR Pembangkit Energi (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 TR Pembangkit Energi? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 TR Pembangkit Energi di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -882,8 +1040,10 @@ Berapa biaya UKT untuk jurusan / program studi D4 TR Pembangkit Energi? Besaran 
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp6.000.000
 - **UKT 7:** Rp7.000.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
-### Biaya UKT D4 TR Sistem Elektronika (Vokasi UM)
+### Biaya UKT dan IPI D4 TR Sistem Elektronika (Vokasi UM)
 Berapa biaya UKT untuk jurusan / program studi D4 TR Sistem Elektronika? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester D4 TR Sistem Elektronika di Fakultas Vokasi (Diploma IV / Sarjana Terapan) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
 - **UKT 1:** Rp500.000
 - **UKT 2:** Rp1.000.000
@@ -892,6 +1052,8 @@ Berapa biaya UKT untuk jurusan / program studi D4 TR Sistem Elektronika? Besaran
 - **UKT 5:** Rp4.500.000
 - **UKT 6:** Rp5.500.000
 - **UKT 7:** Rp6.500.000
+- **IPI 1 (Jalur Mandiri):** Rp25.000.000
+- **IPI 2 (Jalur Mandiri):** Rp30.000.000
 
 ---
 

@@ -67,15 +67,33 @@ Jalur Seleksi Mandiri di Universitas Negeri Malang **tidak menggunakan beasiswa 
 ## 4. Ketentuan Kelompok Kategori & Besaran Tarif UKT
 
 ### Berapa kategori kelompok UKT untuk mahasiswa program S1 dan D4 di Universitas Negeri Malang?
-Besaran tarif Uang Kuliah Tunggal (UKT) untuk Program Sarjana (S1) dan Sarjana Terapan (D4) di Universitas Negeri Malang terbagi ke dalam **7 (tujuh) sampai dengan 10 (sepuluh) kategori kelompok UKT** (mulai dari UKT Kategori 1 hingga UKT Kategori 7/10) untuk jalur SNBP, SNBT, dan Seleksi Mandiri, serta **1 kategori UKT** untuk jalur kemitraan/internasional:
-- **UKT Kategori 1:** Rp500.000 per semester (berlaku seragam untuk seluruh program studi).
-- **UKT Kategori 2:** Rp1.000.000 per semester (berlaku seragam untuk seluruh program studi).
-- **UKT Kategori 3 sampai 10:** Menyesuaikan tarif resmi masing-masing fakultas dan program studi (mulai dari Rp3.500.000 ke atas).
+Besaran tarif Uang Kuliah Tunggal (UKT) untuk Program Sarjana (S1) dan Sarjana Terapan (D4) di Universitas Negeri Malang terbagi ke dalam **7 (tujuh) kategori kelompok UKT** (UKT 1 hingga UKT 7) untuk jalur reguler SNBP, SNBT, dan Seleksi Mandiri:
+- **UKT 1:** Rp500.000 per semester (berlaku seragam untuk seluruh program studi).
+- **UKT 2:** Rp1.000.000 per semester (berlaku seragam untuk seluruh program studi).
+- **UKT 3 sampai UKT 7:** Menyesuaikan tarif resmi masing-masing program studi (berkisar Rp3.500.000 s.d. Rp23.500.000).
 
 ### Berapa biaya UKT 1 dan UKT 2 di Universitas Negeri Malang?
-Di Universitas Negeri Malang, tarif biaya UKT pada kelompok terendah berlaku seragam untuk semua jurusan dan fakultas:
-- **Biaya UKT 1:** Rp500.000 (lima ratus ribu rupiah) per semester.
-- **Biaya UKT 2:** Rp1.000.000 (satu juta rupiah) per semester.
+Besaran tarif Uang Kuliah Tunggal (UKT) kelompok 1 dan 2 berlaku flat dan seragam untuk seluruh jurusan dan program studi jenjang S1 dan D4 di Universitas Negeri Malang:
+- **Biaya UKT 1:** Rp500.000 per semester.
+- **Biaya UKT 2:** Rp1.000.000 per semester.
+
+---
+
+## 5. FAQ Prosedur Keringanan, Tagihan & Pembayaran Khusus
+
+### Apakah mahasiswa baru bisa mengajukan banding atau keringanan UKT?
+**Tidak bisa pada semester 1 dan semester 2.**  
+Pengajuan banding atau keringanan/penurunan UKT bagi mahasiswa Universitas Negeri Malang baru dapat diajukan **mulai Semester 3 (tiga)** melalui sistem resmi https://siukt.um.ac.id pada menu Penundaan/Penurunan UKT dengan melampirkan persyaratan dan bukti kondisi sosial ekonomi terbaru.
+
+### Bagaimana jika tidak bisa membayar UKT karena tagihan tidak muncul di bank atau ATM?
+Pembayaran UKT tidak dapat diproses oleh teller bank atau mobile banking apabila tagihan belum dibuat/diaktifkan di sistem UM.  
+**Solusi:** Mahasiswa wajib membuat atau mengaktifkan kode pembayaran tagihan UKT terlebih dahulu melalui tautan resmi: **https://bit.um.ac.id/create_tagihan_UKT**. Setelah tagihan aktif, silakan lakukan pembayaran menggunakan kode bayar tersebut melalui kanal bank mitra.
+
+### Bagaimana cara pengaktifan semester bagi mahasiswa yang mendapat beasiswa bebas UKT?
+Bagi mahasiswa penerima beasiswa bebas UKT (misalnya KIP-Kuliah atau beasiswa internal tertentu), proses registrasi semester akan **tercatat secara otomatis oleh sistem**. Mahasiswa cukup memeriksa status registrasi secara berkala di portal SIAKAD (https://siakad.um.ac.id) tanpa perlu melakukan pembayaran manual di bank.
+
+### Bagaimana cara membayar tiket event atau kegiatan resmi di Universitas Negeri Malang?
+Tata cara pembelian dan pembayaran tiket event di lingkungan UM dapat diakses langsung pada laman resmi **https://event.um.ac.id** pada menu Panduan Pembayaran.
 
 ---
 
