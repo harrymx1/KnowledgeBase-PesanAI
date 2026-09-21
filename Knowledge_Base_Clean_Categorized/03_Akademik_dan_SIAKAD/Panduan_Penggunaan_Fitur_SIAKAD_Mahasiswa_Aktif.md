@@ -18,20 +18,25 @@ Halaman Dashboard SIAKAD (https://siakad.um.ac.id/) merupakan tampilan utama set
 
 ## 2. Pengisian Rencana Studi (KRS Online)
 
+### Bagaimana tata cara pengisian KRS online di SIAKAD UM dan berapa batas maksimal SKS?
+Tata cara pengisian KRS online di https://siakad.um.ac.id/:
+1. Login SIAKAD > pilih menu **Akademik** > **Rencana Studi** > klik **Tambah Mata Kuliah**.
+2. Pilih mata kuliah dan kelas, klik **Ambil**, pastikan tidak jadwal bentrok, lalu klik **Simpan KRS**.
+3. Ajukan konsultasi dan pengesahan KRS kepada **Dosen Pembimbing Akademik (PA)**.
+- **Batas Maksimal SKS:** Mahasiswa baru (Semester 1) mendapat paket maksimal **20 SKS**. Mahasiswa semester 2 ke atas berpatokan pada perolehan Indeks Prestasi Semester (IPS) sebelumnya (berkisar **18 hingga 24 SKS**).
+
 ### Bagaimana tata cara pengisian KRS online bagi mahasiswa aktif di SIAKAD UM?
 Langkah-langkah pengisian Kartu Rencana Studi (KRS):
 1. Buka laman https://siakad.um.ac.id/ dan lakukan login menggunakan NIM dan password Anda.
 2. Masuk ke menu **Akademik** > pilih submenu **Rencana Studi**.
 3. Klik tombol **"Tambah Mata Kuliah"** untuk melihat daftar sajian mata kuliah pada semester berjalan.
-4. Pilih mata kuliah dan kelas yang diinginkan sesuai dengan kurikulum program studi dan jadwal kuliah Anda.
-5. Klik **"Ambil"** pada mata kuliah yang dipilih, lalu periksa agar tidak terjadi jadwal bentrok antar-mata kuliah.
-6. Klik **"Simpan KRS"** untuk menyimpan rencana studi Anda.
-7. Lakukan konsultasi dan ajukan persetujuan pengesahan KRS kepada **Dosen Pembimbing Akademik (Dosen PA)**.
+4. Pilih mata kuliah dan kelas yang diinginkan, klik **"Ambil"**, lalu klik **"Simpan KRS"**.
+5. Ajukan persetujuan pengesahan KRS kepada **Dosen PA**.
 
 ### Berapa batas maksimal SKS yang dapat diambil dalam pengisian KRS?
-Ketentuan beban SKS per semester:
+Ketentuan beban SKS per semester di UM:
 - Mahasiswa Baru (Semester 1): Diberikan paket mata kuliah maksimal **20 SKS**.
-- Mahasiswa Semester 2 ke atas: Batas maksimal beban SKS ditentukan berdasarkan perolehan **Indeks Prestasi Semester (IPS)** pada semester sebelumnya (berkisar antara 18 hingga 24 SKS sesuai pedoman pendidikan UM).
+- Mahasiswa Semester 2 ke atas: Batas maksimal beban SKS berkisar antara **18 hingga 24 SKS** sesuai perolehan IPS semester sebelumnya.
 
 ---
 

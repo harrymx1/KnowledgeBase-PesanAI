@@ -23,6 +23,12 @@ Tahapan pengajuan legalisir elektronik (e-Legalisir):
 
 ## 2. Ketentuan Berkas Scan, Tarif Biaya & Masa Berlaku
 
+### Berapa biaya legalisir ijazah online di UM, berapa masa berlakunya, dan apakah bisa legalisir secara offline?
+Biaya, masa berlaku, dan layanan offline legalisir di Universitas Negeri Malang (UM):
+- **Biaya e-Legalisir:** Ijazah Rp50.000 | Transkrip Nilai Rp50.000 | Akta Mengajar Rp30.000 per dokumen via https://legalisir.um.ac.id/.
+- **Masa Berlaku:** Dokumen e-Legalisir berlaku selama **6 (enam) bulan** sejak tanda tangan digital terbit (keaslian dapat dipindai via aplikasi Peruri Code Scanner).
+- **Legalisir Langsung (Offline):** BISA. Alumni dapat datang langsung dengan membawa dokumen asli dan fotokopi ke Loket Subag Registrasi & Statistik, **Gedung Graha Rektorat Lantai 2 UM** (Senin–Jumat pukul 08.00–15.00 WIB).
+
 ### Apa ketentuan format dan ukuran dokumen scan untuk legalisir?
 - **Wajib Mesin Scanner:** Seluruh dokumen wajib dipindai menggunakan **mesin scanner flatbed/dokumen**. DILARANG menggunakan foto kamera ponsel atau aplikasi scanner HP.
 - **Format File:** Wajib berformat **JPG atau JPEG** (tidak diperkenankan berformat PDF).

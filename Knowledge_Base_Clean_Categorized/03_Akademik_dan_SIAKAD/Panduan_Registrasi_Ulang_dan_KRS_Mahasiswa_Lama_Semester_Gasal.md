@@ -21,6 +21,12 @@ Universitas Negeri Malang membagi mahasiswa lama ke dalam dua kategori administr
 
 ## 2. Alur Pembayaran UKT & Pengisian KRS Online Mahasiswa Lama
 
+### Bagaimana prosedur registrasi ulang semester gasal bagi mahasiswa lama dan apa sanksinya jika terlambat?
+Prosedur registrasi ulang semester gasal mahasiswa lama di Universitas Negeri Malang (UM):
+1. Cek tagihan di https://siakad.um.ac.id/ dan bayar UKT via bank mitra UM (BNI, BRI, BTN, Mandiri, Bank Jatim, CIMB Niaga, BSI) memakai Kode Bayar.
+2. Setelah status otomatis aktif di SIAKAD, isi KRS online dan minta pengesahan Dosen PA.
+- **Sanksi Jika Terlambat:** Mahasiswa yang melewati batas jadwal kalender akademik dinyatakan **TIDAK TERDAFTAR SEBAGAI MAHASISWA AKTIF**, tidak berhak memperoleh perkuliahan maupun bimbingan, dan semester tersebut tetap dihitung dalam batas masa studi.
+
 ### Bagaimana prosedur registrasi administrasi dan KRS online mahasiswa lama?
 Tahapan registrasi semester gasal:
 1. **Cek Tagihan Pembayaran:** Buka menu keuangan di portal https://siakad.um.ac.id/ untuk melihat rincian tagihan UKT semester berjalan.
