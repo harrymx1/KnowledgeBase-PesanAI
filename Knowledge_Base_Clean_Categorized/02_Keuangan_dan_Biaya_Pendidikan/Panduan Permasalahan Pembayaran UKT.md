@@ -28,15 +28,17 @@ Kondisi ini terjadi ketika pembayaran telah dilakukan (dana terdebet), namun sta
 ---
 
 ## 3. Ketentuan Kode Bayar UKT, Masa Berlaku & Prosedur jika Kedaluwarsa
-Ketentuan resmi pembayaran UKT dan biaya pendidikan Universitas Negeri Malang menggunakan sistem **Kode Bayar**:
-1. **Sistem Kode Bayar:** Pembayaran UKT tidak menggunakan transfer manual ke nomor rekening perorangan, melainkan menggunakan **Kode Bayar unik** yang digenerate otomatis melalui portal SIAKAD atau sistem e-payment UM.
-2. **Berapa Lama Masa Berlaku Kode Bayar UKT?**  
-   Masa aktif / masa berlaku Kode Bayar UKT UM adalah selama **48 jam** sejak digenerate/diterbitkan oleh sistem.
-3. **Apa yang Harus Dilakukan Jika Kode Bayar Kedaluwarsa?**  
-   Apabila Kode Bayar UKT sudah kedaluwarsa sebelum sempat dibayarkan di bank:
-   - Mahasiswa **tidak perlu panik dan tidak dikenakan denda**.
-   - Silakan melakukan **generate ulang / mengaktifkan kembali** kode bayar tagihan UKT yang baru melalui portal SIAKAD pada menu pembayaran atau melalui tautan resmi: **https://bit.um.ac.id/create_tagihan_UKT**.
-   - Setelah kode bayar baru yang aktif muncul, segera lakukan pembayaran di bank mitra sebelum batas waktu 48 jam berakhir.
-4. **Kanal Bank Mitra Resmi Pembayaran:**  
-   Pembayaran dapat dilakukan melalui teller, ATM, maupun Mobile/Internet Banking di Bank Mitra Resmi UM: **BNI, BRI, BTN, Bank Mandiri, Bank Jatim, CIMB Niaga, dan BSI** dengan memilih menu tagihan pendidikan Universitas Negeri Malang. Panduan teknis: https://support.um.ac.id/topic/epayment/.
+
+### Berapa lama masa berlaku Kode Bayar UKT UM setelah digenerate dan apa yang harus dilakukan jika kadaluarsa?
+Berikut adalah ketentuan resmi pembayaran tagihan UKT Universitas Negeri Malang menggunakan sistem **Kode Bayar**:
+1. **Berapa Lama Masa Berlaku Kode Bayar UKT Setelah Digenerate?**  
+   Masa aktif / masa berlaku Kode Bayar UKT UM adalah selama **48 jam** sejak digenerate / diterbitkan oleh sistem e-payment atau portal SIAKAD.
+2. **Apa yang Harus Dilakukan Jika Kode Bayar Kadaluarsa (Kedaluwarsa)?**  
+   Apabila Kode Bayar UKT sudah kadaluarsa (kedaluwarsa) sebelum sempat dibayarkan di bank:
+   - Mahasiswa **tidak perlu panik dan tidak dikenakan denda keterlambatan**.
+   - Mahasiswa cukup melakukan **generate ulang / mengaktifkan kembali** kode bayar tagihan UKT yang baru melalui portal SIAKAD pada menu pembayaran atau melalui tautan resmi: **https://bit.um.ac.id/create_tagihan_UKT**.
+   - Setelah kode bayar baru yang aktif muncul, silakan segera lakukan pembayaran di bank mitra sebelum batas waktu 48 jam berakhir.
+3. **Kanal Bank Mitra Resmi Pembayaran:**  
+   Pembayaran dapat dilakukan melalui teller, ATM, maupun Mobile/Internet Banking di Bank Mitra Resmi UM: **BNI, BRI, BTN, Bank Mandiri, Bank Jatim, CIMB Niaga, dan BSI** dengan memilih menu pembayaran pendidikan Universitas Negeri Malang. Panduan teknis e-payment: https://support.um.ac.id/topic/epayment/.
+
 
