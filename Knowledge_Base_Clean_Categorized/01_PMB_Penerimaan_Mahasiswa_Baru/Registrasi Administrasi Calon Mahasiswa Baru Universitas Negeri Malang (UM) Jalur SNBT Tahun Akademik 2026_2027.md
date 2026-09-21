@@ -18,7 +18,7 @@
 
 ---
 
-### Apa saja berkas yang wajib diunggah saat registrasi online jalur SNBT UM?
+### Apa saja berkas yang harus disiapkan atau wajib diunggah saat registrasi online mahasiswa baru jalur SNBT UM?
 Calon mahasiswa baru jalur SNBT wajib mengunggah berkas asli di `http://registrasi.um.ac.id`:
 - **Akademik & Identitas:** Ijazah/SKL asli, Kartu Keluarga (KK), Akta Kelahiran, dan Kartu Peserta SNBT 2026.
 - **Finansial & Tempat Tinggal:** Slip gaji/penghasilan ortu (atau SPT 2025), PBB terbaru, bukti listrik/air, serta foto GPS Camera depan rumah, ruang tamu, dan dapur.

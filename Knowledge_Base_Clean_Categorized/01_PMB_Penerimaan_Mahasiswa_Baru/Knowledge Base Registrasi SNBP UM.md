@@ -38,6 +38,19 @@ Pembayaran dapat dilakukan melalui teller, ATM, mobile banking, atau internet ba
 
 ## 2. Ketentuan Berkas Dokumen & Substitusi Dokumen Finansial
 
+### Apa saja berkas yang harus diunggah saat registrasi online mahasiswa baru jalur SNBP UM?
+Dokumen berkas asli yang wajib diunggah saat proses registrasi online mahasiswa baru jalur SNBP di portal `http://registrasi.um.ac.id`:
+1. **Ijazah Terakhir atau Surat Keterangan Lulus (SKL)** asli (dapat diganti Surat Keterangan Kelas XII jika belum terbit).
+2. **Kartu Keluarga (KK)** asli dan **Akta Kelahiran / Akta Kenal Lahir** asli.
+3. **Surat Keterangan Penghasilan Orang Tua / Daftar Gaji** (atau Bukti SPT Tahunan 2025 bagi pegawai instansi/BUMN; surat keterangan RT/RW bagi sektor informal).
+4. **Foto Kondisi Rumah:** Foto diri tampak depan rumah, ruang tamu, dan dapur menggunakan GPS camera.
+5. **Bukti Finansial Pendukung:** Bukti pembayaran PBB terbaru, rekening listrik/token, dan rekening air.
+6. **Kartu Tanda Peserta Jalur SNBP Tahun 2026.**
+7. **Surat Pernyataan Mahasiswa (SPM)** bermaterai Rp10.000 yang dicetak dari sistem registrasi.
+8. **Pasfoto Formal:** Ukuran 3x4 cm (format JPG, maksimal 200 KB) dengan kemeja putih polos berkerah, berdasi hitam (kerudung putih bagi putri), dan latar belakang merah.
+9. *Khusus Calon Mahasiswa Fakultas Kedokteran (FK):* Wajib melengkapi persyaratan tes kesehatan khusus.
+
+
 ### Substitusi Dokumen Akademik:
 - **Kendala:** Ijazah atau Surat Keterangan Lulus (SKL) belum terbit dari sekolah.
 - **Solusi:** Dapat diganti sementara menggunakan **Surat Keterangan Kelas XII** resmi yang ditandatangani kepala sekolah.

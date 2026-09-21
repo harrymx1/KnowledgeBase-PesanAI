@@ -19,7 +19,7 @@ Berikut adalah agenda resmi kegiatan registrasi administrasi khusus bagi calon m
 
 ---
 
-### Bagaimana tahapan dan berkas registrasi online bagi pendaftar KIP-K SNBT UM?
+### Apa saja berkas yang harus diunggah bagi calon mahasiswa penerima KIP-K jalur SNBT UM?
 Calon mahasiswa baru calon penerima KIP-K jalur SNBT wajib melakukan registrasi online pada **26 Mei – 4 Juni 2026** (mulai pukul 08.00 WIB) melalui laman `http://registrasi.um.ac.id`.
 
 **Ketentuan dan Berkas Wajib Unggah:**
