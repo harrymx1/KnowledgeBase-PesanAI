@@ -20,30 +20,11 @@ Berikut adalah agenda resmi kegiatan registrasi administrasi khusus bagi calon m
 ---
 
 ### Apa saja berkas yang harus diunggah bagi calon mahasiswa penerima KIP-K jalur SNBT UM?
-Calon mahasiswa baru calon penerima KIP-K jalur SNBT wajib melakukan registrasi online pada **26 Mei – 4 Juni 2026** (mulai pukul 08.00 WIB) melalui laman `http://registrasi.um.ac.id`.
+Calon mahasiswa penerima KIP-K jalur SNBT wajib mengunggah scan berkas asli di `http://registrasi.um.ac.id` (26 Mei – 4 Juni 2026):
+- **Akademik & Identitas:** Ijazah/SKL asli, Kartu Keluarga (KK), Akta Kelahiran, dan Kartu Tanda Peserta Jalur SNBT 2026.
+- **Ekonomi & Rumah:** Bukti SPT Tahunan 2025 / Surat Keterangan Penghasilan Orang Tua/Daftar Gaji, bukti bayar PBB terbaru, rekening listrik/token, rekening air, serta foto GPS Camera tampak depan rumah, ruang tamu, dan dapur.
+- **Administrasi:** Surat Pernyataan Mahasiswa (SPM) bermaterai Rp10.000 dan pasfoto 3x4 latar merah kemeja putih polos berkerah dan dasi hitam (atau kerudung putih).
 
-**Ketentuan dan Berkas Wajib Unggah:**
-1. **Pembuatan Akun & Biodata:** Mengisi Form Biodata Mahasiswa Baru UM secara daring.
-2. **Ijazah Terakhir atau Surat Keterangan Lulus (SKL)** asli.
-3. **Kartu Keluarga (KK)** asli.
-4. **Akta Kelahiran / Akta Kenal Lahir** asli.
-5. **Surat Keterangan Penghasilan Orang Tua / Daftar Gaji:**
-   - Bagi pegawai instansi, lembaga, atau perusahaan berbadan hukum: Wajib mengunggah Bukti SPT Tahunan Tahun 2025 melalui tautan `https://bit.um.ac.id/SPT-Tahunan_Pribadi`.
-   - Bagi non-pegawai: Surat keterangan penghasilan resmi dari kelurahan/desa setempat.
-6. **Foto Lokasi Rumah Menggunakan GPS Camera:**
-   - Foto tampak depan rumah.
-   - Foto ruang tamu.
-   - Foto dapur.
-7. **Bukti Pendukung Ekonomi:**
-   - Bukti pembayaran PBB terbaru.
-   - Bukti pembayaran rekening listrik atau bukti pembelian token listrik.
-   - Bukti pembayaran rekening air.
-8. **Kartu Tanda Peserta Jalur SNBT Tahun 2026.**
-9. **Surat Pernyataan Mahasiswa UM:** Dicetak melalui laman registrasi dan dibubuhi materai Rp10.000.
-10. **Pasfoto Formal:**
-    - Dimensi 3×4 cm dengan ukuran berkas maksimal 200 KB.
-    - Berlatar belakang merah, tidak berkacamata.
-    - Mengenakan kemeja putih polos berkerah dan berdasi hitam (laki-laki) atau kerudung putih (perempuan yang berkerudung).
 
 > [!WARNING]
 > Calon mahasiswa yang tidak melakukan registrasi online sesuai jadwal (paling lambat 4 Juni 2026) dinyatakan **mengundurkan diri**.
