@@ -34,6 +34,34 @@ Berikut adalah rincian daya tampung resmi program studi jenjang S1 dan D4 di Uni
    - **S1 Keperawatan:** Total 50 mahasiswa (SNBP: 11, SNBT: 16, Mandiri: 23 | Keketatan: 2,3%).
    - **S1 Kebidanan:** Total 50 mahasiswa (SNBP: 11, SNBT: 16, Mandiri: 23 | Keketatan: 5,9%).
    - **S1 Kesehatan Masyarakat:** Total 415 mahasiswa (SNBP: 110, SNBT: 130, Mandiri: 175 | Keketatan: 9,0%).
+
+---
+
+### Berapa kuota daya tampung untuk Program Studi S1 Ilmu Komunikasi dan S1 Manajemen di UM tahun 2026?
+Berikut adalah rincian daya tampung resmi untuk program studi S1 Manajemen dan S1 Ilmu Komunikasi di Universitas Negeri Malang (UM) Tahun 2026:
+1. **S1 Manajemen (Fakultas Ekonomi dan Bisnis - FEB):**
+   - **Total Daya Tampung 2026:** **335 mahasiswa**
+   - **Kuota SNBP:** 81 mahasiswa
+   - **Kuota SNBT:** 105 mahasiswa
+   - **Kuota Seleksi Mandiri:** 149 mahasiswa
+   - **Keketatan Seleksi 2025:** 6,2%
+2. **S1 Ilmu Komunikasi (Fakultas Ilmu Sosial - FIS):**
+   - **Total Daya Tampung 2026:** **195 mahasiswa**
+   - **Kuota SNBP:** 48 mahasiswa
+   - **Kuota SNBT:** 61 mahasiswa
+   - **Kuota Seleksi Mandiri:** 86 mahasiswa
+   - **Keketatan Seleksi 2025:** 5,2%
+
+### Berapa rincian kuota daya tampung prodi favorit saintek dan soshum UM 2026?
+- **S1 Manajemen (FEB):** Total 335 mahasiswa (SNBP: 81, SNBT: 105, Mandiri: 149 | Keketatan: 6,2%).
+- **S1 Akuntansi (FEB):** Total 295 mahasiswa (SNBP: 68, SNBT: 94, Mandiri: 133 | Keketatan: 8,6%).
+- **S1 Ilmu Komunikasi (FIS):** Total 195 mahasiswa (SNBP: 48, SNBT: 61, Mandiri: 86 | Keketatan: 5,2%).
+- **S1 Ilmu Hukum (FIS):** Total 200 mahasiswa (SNBP: 47, SNBT: 63, Mandiri: 90 | Keketatan: 8,2%).
+- **S1 Teknik Informatika (FT):** Total 135 mahasiswa (SNBP: 32, SNBT: 43, Mandiri: 60 | Keketatan: 3,5%).
+- **S1 Psikologi (FPsi):** Total 415 mahasiswa (SNBP: 100, SNBT: 130, Mandiri: 185 | Keketatan: 7,7%).
+- **S1 Kedokteran (FK):** Total 50 mahasiswa (SNBP: 11, SNBT: 16, Mandiri: 23 | Keketatan: 2,4%).
+- **S1 PGSD (FIP):** Total 435 mahasiswa (SNBP: 118, SNBT: 140, Mandiri: 177 | Keketatan: 12,2%).
+
 Total daya tampung Universitas Negeri Malang tahun 2026 secara keseluruhan adalah **13.101 mahasiswa**. Rincian lengkap seluruh 80 program studi per fakultas disajikan pada tabel di bawah ini.
 
 ---
