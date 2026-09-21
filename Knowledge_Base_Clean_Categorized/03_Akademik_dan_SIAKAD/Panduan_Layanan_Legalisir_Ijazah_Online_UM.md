@@ -7,17 +7,28 @@
 
 ---
 
-## 1. Alur Prosedur Pengajuan e-Legalisir Online
+## 1. Alur Prosedur Pengajuan & Tarif Biaya e-Legalisir Online
+
+### Bagaimana prosedur pengajuan legalisir ijazah online di UM dan berapa biayanya?
+Pengajuan legalisir ijazah dan transkrip secara online (e-Legalisir) di Universitas Negeri Malang dilakukan melalui portal resmi **https://legalisir.um.ac.id/** dengan rincian prosedur dan biaya sebagai berikut:
+
+**Rincian Tarif Biaya Legalisir Online:**
+- **Ijazah:** Rp50.000 per permohonan dokumen.
+- **Transkrip Nilai:** Rp50.000 per permohonan dokumen.
+- **Akta Mengajar:** Rp30.000 per permohonan dokumen.
+- **Masa Berlaku e-Legalisir:** Dokumen e-Legalisir berlaku selama **6 (enam) bulan** dan keaslian tanda tangan digital Peruri dapat dipindai via aplikasi *Peruri Code Scanner*.
+
+**Tahapan Prosedur Pengajuan e-Legalisir:**
+1. **Persiapan Berkas:** Siapkan dokumen ijazah asli, transkrip nilai asli, dan akta mengajar asli (jika ada) yang dipindai menggunakan mesin scanner (format JPG/JPEG, maksimal 2 MB per berkas).
+2. **Buat Akun di Portal:** Akses portal resmi **https://legalisir.um.ac.id/** dan buat akun permohonan menggunakan NIM yang terdaftar di database UM dan email aktif.
+3. **Verifikasi Email:** Buka email dan klik tautan aktivasi akun legalisir.
+4. **Unggah Scan Berkas Asli:** Login ke akun dan unggah hasil scan dokumen asli berformat JPG/JPEG.
+5. **Verifikasi Admin:** Tunggu proses verifikasi keabsahan dokumen oleh admin Subag Registrasi & Statistik UM.
+6. **Pembayaran Biaya Legalisir:** Lakukan pembayaran biaya sesuai Kode Bayar yang muncul di sistem melalui bank mitra resmi UM (BNI, Mandiri, BRI, BTN, Bank Jatim, CIMB Niaga, BSI) atau Tokopedia.
+7. **Unduh Dokumen e-Legalisir:** Setelah disahkan secara digital oleh Peruri, unduh file PDF legalisir resmi ber-QR Code dari akun Anda.
 
 ### Bagaimana cara mengajukan legalisir ijazah dan transkrip secara online di UM?
-Tahapan pengajuan legalisir elektronik (e-Legalisir):
-1. **Persiapan Berkas:** Siapkan dokumen ijazah asli, transkrip nilai asli, dan akta mengajar asli (jika ada).
-2. **Buat Akun di Portal:** Akses portal resmi https://legalisir.um.ac.id/ dan buat akun permohonan menggunakan NIM yang terdaftar di database UM dan email aktif.
-3. **Verifikasi Email:** Buka email dan klik tautan aktivasi akun legalisir.
-4. **Unggah Scan Berkas Asli:** Unggah hasil scan dokumen asli berformat JPG/JPEG (maksimal 2 MB per berkas).
-5. **Verifikasi Admin:** Tunggu proses verifikasi keabsahan dokumen oleh admin Subag Registrasi & Statistik UM.
-6. **Pembayaran Biaya Legalisir:** Lakukan pembayaran sesuai Kode Bayar yang muncul di sistem.
-7. **Unduh Dokumen e-Legalisir:** Setelah disahkan secara digital oleh Peruri, unduh file PDF legalisir resmi ber-QR Code dari akun Anda.
+Tahapan pengajuan legalisir elektronik (e-Legalisir) dilakukan via https://legalisir.um.ac.id/ mengikuti alur persiapan scan berkas asli (JPG/JPEG maks 2 MB), pembuatan akun dengan NIM, verifikasi email, unggah berkas, verifikasi admin, pembayaran via kode bayar bank mitra/Tokopedia (biaya Ijazah Rp50.000, Transkrip Rp50.000, Akta Rp30.000), dan pengunduhan dokumen resmi ber-QR Code Peruri.
 
 ---
 
