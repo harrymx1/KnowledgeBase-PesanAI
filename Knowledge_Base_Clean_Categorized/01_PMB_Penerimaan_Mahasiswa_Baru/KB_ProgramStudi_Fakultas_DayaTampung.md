@@ -16,6 +16,28 @@ Dokumen ini memuat daftar resmi seluruh program studi (S1 dan Sarjana Terapan D4
 
 ---
 
+### Berapa daya tampung prodi S1 Psikologi dan S1 Kedokteran di UM tahun 2026?
+Berikut adalah rincian daya tampung resmi program studi jenjang S1 dan D4 di Universitas Negeri Malang (UM) Tahun 2026 lintas jalur (SNBP, SNBT, dan Seleksi Mandiri):
+1. **S1 Psikologi (Fakultas Psikologi):**
+   - **Total Daya Tampung 2026:** **415 mahasiswa**
+   - **Kuota SNBP:** 100 mahasiswa
+   - **Kuota SNBT:** 130 mahasiswa
+   - **Kuota Seleksi Mandiri:** 185 mahasiswa
+   - **Keketatan Seleksi 2025:** 7,7%
+2. **S1 Kedokteran (Fakultas Kedokteran):**
+   - **Total Daya Tampung 2026:** **50 mahasiswa**
+   - **Kuota SNBP:** 11 mahasiswa
+   - **Kuota SNBT:** 16 mahasiswa
+   - **Kuota Seleksi Mandiri:** 23 mahasiswa
+   - **Keketatan Seleksi 2025:** 2,4%
+3. **Prodi Kesehatan Terkait:**
+   - **S1 Keperawatan:** Total 50 mahasiswa (SNBP: 11, SNBT: 16, Mandiri: 23 | Keketatan: 2,3%).
+   - **S1 Kebidanan:** Total 50 mahasiswa (SNBP: 11, SNBT: 16, Mandiri: 23 | Keketatan: 5,9%).
+   - **S1 Kesehatan Masyarakat:** Total 415 mahasiswa (SNBP: 110, SNBT: 130, Mandiri: 175 | Keketatan: 9,0%).
+Total daya tampung Universitas Negeri Malang tahun 2026 secara keseluruhan adalah **13.101 mahasiswa**. Rincian lengkap seluruh 80 program studi per fakultas disajikan pada tabel di bawah ini.
+
+---
+
 ### 1. Fakultas Ilmu Pendidikan (FIP)
 | No | Program Studi | Jenjang | Daya Tampung 2026 | Kuota SNBP | Kuota SNBT | Kuota Mandiri | Keketatan 2025 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |

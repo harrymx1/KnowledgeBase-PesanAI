@@ -53,13 +53,11 @@ Jika Anda mengalami kendala saat mencetak (*print*) dokumen kartu peserta atau f
 ### Untuk kolom Alamat di Malang jika belum ada tempat tinggal/kos bagaimana ya?
 Jika saat ini calon pendaftar belum memiliki tempat tinggal, kontrakan, atau tempat kos di Kota Malang, kolom Alamat di Malang dapat diisikan dengan **alamat tempat tinggal atau domisili asal saat ini**. Pembaruan alamat kos di Malang dapat dilakukan setelah resmi diterima dan her-registrasi.
 
-### Bagaimana jika pekerjaan orang tua tidak ada pada pilihan menu dropdown?
-Pilihlah opsi jenis pekerjaan yang **paling mendekati atau serupa** dengan jenis pekerjaan orang tua Anda (contoh: untuk pedagang kecil/toko dapat memilih sektor Wiraswasta/Perdagangan, untuk pekerja harian dapat memilih Buruh/Pekerja Lepas).
+### Bagaimana jika nama sekolah atau pekerjaan orang tua tidak ditemukan di form pendaftaran mandiri UM?
+Jika calon pendaftar tidak menemukan nama sekolah atau pilihan pekerjaan orang tua pada form isian pendaftaran mandiri UM:
+1. **Nama Sekolah Asal Tidak Ditemukan:** Pilih opsi **"Sekolah Lain-Lain"**, kemudian ketik dan masukkan nama sekolah asal Anda secara manual pada kolom isian yang muncul.
+2. **Pekerjaan Orang Tua Tidak Ada di Menu Dropdown:** Pilihlah jenis pekerjaan yang **paling mendekati atau serupa** dengan jenis pekerjaan orang tua Anda (contoh: untuk pedagang kecil/toko dapat memilih sektor Wiraswasta/Perdagangan, untuk pekerja harian dapat memilih Buruh/Pekerja Lepas).
 
-### Bagaimana jika nama sekolah asal saya tidak muncul dalam pilihan sistem?
-Jika nama sekolah asal tidak tercantum pada daftar pencarian sistem pendaftaran:
-1. Pilih opsi: **"Sekolah Lain-Lain"**.
-2. Kemudian ketik dan masukkan nama sekolah asal Anda secara manual pada kolom isian yang muncul.
 
 ### Bagaimana jika tempat lahir tidak tersedia atau tidak muncul dalam daftar sistem?
 Hal ini umumnya terjadi akibat adanya pemekaran wilayah administratif baru:
