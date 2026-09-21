@@ -1,4 +1,6 @@
-# Basis Pengetahuan: Program Studi, Fakultas, Daya Tampung, dan Keketatan UM 2026
+# Script to reconstruct clean KB_ProgramStudi_Fakultas_DayaTampung.md
+
+content = """# Basis Pengetahuan: Program Studi, Fakultas, Daya Tampung, dan Keketatan UM 2026
 > **Sumber Dokumen:** `KB_ProgramStudi_Fakultas_DayaTampung.pdf`  
 > **Kategori:** `01_PMB_Penerimaan_Mahasiswa_Baru`
 
@@ -160,3 +162,9 @@ Dokumen ini memuat daftar resmi seluruh program studi (S1 dan Sarjana Terapan D4
 1. **Peluang Diterima:** Jika penanya menanyakan peluang diterima di suatu program studi, AI dapat memberikan referensi angka **Keketatan 2025** dan **Daya Tampung 2026** dari tabel di atas, dengan catatan edukatif bahwa data tersebut adalah data historis/kuota resmi dan bukan jaminan kelulusan mutlak.
 2. **Program Studi Tidak Ditemukan:** Jika program studi yang ditanyakan tidak tercantum dalam tabel, jelaskan bahwa prodi tersebut belum dibuka di UM atau memiliki penamaan berbeda. Arahkan pengguna ke portal resmi `https://um.ac.id` atau `https://seleksi.um.ac.id`.
 3. **Daya Tampung Pascasarjana:** Tabel di atas mencakup seluruh program Sarjana (S1) dan Sarjana Terapan (D4). Untuk daya tampung program Magister (S2) dan Doktor (S3), silakan merujuk pada dokumen panduan Pascasarjana UM.
+"""
+
+with open("Knowledge_Base_Clean_Categorized/01_PMB_Penerimaan_Mahasiswa_Baru/KB_ProgramStudi_Fakultas_DayaTampung.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("KB_ProgramStudi_Fakultas_DayaTampung.md successfully rewritten and standardized!")
