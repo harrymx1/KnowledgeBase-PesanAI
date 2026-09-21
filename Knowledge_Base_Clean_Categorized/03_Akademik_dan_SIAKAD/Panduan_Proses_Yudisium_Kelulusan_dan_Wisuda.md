@@ -2,22 +2,33 @@
 
 > **Kategori:** `akademik`  
 > **Department:** `Akademik`  
+> **Topik:** `Wisuda, Yudisium, Kelulusan`  
 > **Target Pengguna:** Mahasiswa Tingkat Akhir (Sarjana, Magister, Doktor, Profesi) UM  
 > **Status:** Resmi Aktif  
 
 ---
 
-## 1. Alur Pasca-Ujian Akhir Menuju SK Yudisium
+## 1. Alur Pendaftaran Yudisium Online & Syarat Bebas Tanggungan
+
+### Bagaimana alur pendaftaran yudisium online dan syarat bebas tanggungan kelulusan?
+Alur pendaftaran yudisium online dan persyaratan bebas tanggungan kelulusan bagi mahasiswa Universitas Negeri Malang (UM):
+
+**Syarat Bebas Tanggungan Kelulusan:**
+1. **Bebas Tanggungan Perpustakaan:** Mengembalikan seluruh pinjaman buku perpustakaan dan menyelesaikan unggah mandiri (*upload*) laporan karya ilmiah/skripsi ke repositori perpustakaan UM untuk memperoleh Surat Bebas Pustaka.
+2. **Bebas Tanggungan Laboratorium:** Menyelesaikan administrasi dan pengembalian alat laboratorium di jurusan/fakultas masing-masing.
+3. **Bebas Tanggungan Keuangan:** Memastikan tidak ada tunggakan biaya UKT atau biaya pendidikan lainnya.
+
+**Alur Tahapan Pendaftaran Yudisium Online:**
+1. **Revisi Tugas Akhir:** Menyelesaikan revisi skripsi/tesis/disertasi sesuai arahan dosen penguji dan mendapatkan lembar pengesahan resmi.
+2. **Unggah Mandiri & Bebas Tanggungan:** Mengurus bukti bebas tanggungan perpustakaan dan laboratorium.
+3. **Verifikasi Data Akademik di SIAKAD:** Memastikan seluruh nilai mata kuliah sudah lengkap dan tidak ada nilai kosong pada Daftar Hasil Studi (DHS).
+4. **Verifikasi Data Ijazah (PISN):** Memastikan kesesuaian Nama, NIK, Tempat/Tanggal Lahir, dan data PDDIKTI sesuai KTP dan Akta Kelahiran.
+5. **Pengisian SKPI:** Mengisi portofolio prestasi kemahasiswaan pada portal SKPI di SIMAWA (https://simawa.um.ac.id/).
+6. **Pendaftaran Yudisium di SIAKAD:** Mengajukan pendaftaran yudisium online secara mandiri melalui portal resmi **SIAKAD** (https://siakad.um.ac.id/) pada menu **Yudisium**.
+7. **Penerbitan DHSY & SK Yudisium:** Fakultas memverifikasi berkas pendaftar, menerbitkan Daftar Hasil Studi Yudisium (DHSY), dan menetapkan **Surat Keputusan (SK) Yudisium Rektor**.
 
 ### Bagaimana alur proses yudisium setelah mahasiswa dinyatakan lulus ujian tugas akhir/skripsi di UM?
-Tahapan lengkap pasca-ujian tugas akhir:
-1. **Revisi Tugas Akhir:** Selesaikan revisi laporan skripsi/tesis/disertasi sesuai catatan dosen penguji dan peroleh lembar pengesahan resmi.
-2. **Bebas Tanggungan & Unggah Mandiri:** Selesaikan verifikasi bebas tanggungan perpustakaan, laboratorium, serta unggah karya ilmiah ke repositori perpustakaan UM.
-3. **Verifikasi Data Akademik di SIAKAD:** Pastikan seluruh nilai mata kuliah sudah lengkap dan tidak ada nilai kosong atau belum keluar di Daftar Hasil Studi (DHS).
-4. **Verifikasi Data Ijazah (PISN):** Verifikasi kesesuaian Nama, NIK, Tempat/Tanggal Lahir, dan Nomor Ijazah Nasional di SIAKAD sesuai KTP dan Akta Kelahiran.
-5. **Pengisian SKPI:** Lengkapi portofolio prestasi dan kegiatan kemahasiswaan pada sistem Surat Keterangan Pendamping Ijazah (SKPI) di SIMAWA (https://simawa.um.ac.id/).
-6. **Pendaftaran Yudisium Online:** Ajukan pendaftaran yudisium melalui menu yudisium di portal SIAKAD.
-7. **Penerbitan DHSY & SK Yudisium:** Fakultas memverifikasi berkas pendaftar, menerbitkan Daftar Hasil Studi Yudisium (DHSY), dan menerbitkan **Surat Keputusan (SK) Yudisium Rektor**.
+Tahapan lengkap pasca-ujian tugas akhir meliputi: menyelesaikan revisi skripsi, mengurus bebas tanggungan perpustakaan/lab, verifikasi nilai di SIAKAD, verifikasi data kependudukan PISN, melengkapi SKPI di SIMAWA, mendaftar yudisium online di portal SIAKAD, dan menunggu penerbitan SK Yudisium kelulusan resmi dari fakultas/universitas.
 
 ---
 
