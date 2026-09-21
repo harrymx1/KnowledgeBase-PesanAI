@@ -10,13 +10,20 @@
 
 ## 1. Alur & Prosedur Pengajuan Kerja Sama Mitra
 
+### Bagaimana prosedur pengajuan kerja sama (MoU atau PKS) bagi instansi mitra luar dengan Universitas Negeri Malang?
+Prosedur dan tahapan pengajuan kerja sama (MoU atau PKS) bagi instansi mitra luar dengan Universitas Negeri Malang (UM) terintegrasi melalui portal resmi **SIKARSA (https://sikarsa.um.ac.id)**:
+1. **Menyusun Dokumen Usulan (Proposal):** Calon instansi mitra luar menyusun proposal kerja sama yang mencakup profil lembaga/perusahaan mitra, maksud & tujuan, ruang lingkup kegiatan, rencana pelaksanaan, serta proyeksi manfaat bagi kedua belah pihak.
+2. **Mengirimkan Surat Permohonan Resmi:** Surat resmi permohonan kerja sama ditujukan kepada **Rektor Universitas Negeri Malang**, dapat dikirim via email resmi `rektor@um.ac.id` maupun surat fisik ke Gedung Graha Rektorat UM, Jl. Semarang No. 5 Malang 65145.
+3. **Verifikasi dan Telaah Dokumen:** Subdirektorat Humas dan Kerja Sama UM bersama unit kerja/fakultas terkait menelaah kelayakan usulan kerja sama dan menyesuaikan ruang lingkup kemitraan.
+4. **Penyusunan Naskah Kerja Sama (MoU, MoA/PKS, IA):**
+   - **Nota Kesepahaman / MoU (*Memorandum of Understanding*):** Sebagai payung kerja sama umum antar-lembaga.
+   - **Perjanjian Kerja Sama / PKS (MoA - *Memorandum of Agreement*):** Rincian operasional, hak, dan kewajiban pelaksanaan program.
+   - **IA (*Implementation Agreement*):** Pelaksanaan teknis kegiatan di tingkat fakultas/program studi/unit kerja. Seluruh proses draf naskah tercatat di sistem SIKARSA.
+5. **Penandatanganan Naskah Kerja Sama:** Dilakukan oleh pimpinan kedua belah pihak baik secara seremonial maupun *desk-to-desk*.
+6. **Pencatatan & Monitoring:** Rekam jejak kerja sama aktif dapat dipantau publik melalui portal https://sikarsa.um.ac.id/report.
+
 ### Bagaimana alur dan tahapan pengajuan kerja sama mitra dengan Universitas Negeri Malang via SIKARSA?
-Alur pengajuan dan pengelolaan kemitraan kerja sama di Universitas Negeri Malang (UM) terintegrasi melalui portal resmi **SIKARSA (https://sikarsa.um.ac.id)**:
-1. **Menyusun Dokumen Usulan:** Calon mitra menyusun proposal kerja sama yang mencakup profil lembaga, maksud & tujuan, ruang lingkup kegiatan, rencana pelaksanaan, serta manfaat kedua belah pihak.
-2. **Mengirimkan Surat Permohonan Resmi:** Surat resmi ditujukan kepada **Rektor Universitas Negeri Malang** via email `rektor@um.ac.id` atau fisik via pos ke Gedung Graha Rektorat UM, Jl. Semarang No. 5 Malang 65145.
-3. **Verifikasi Dokumen:** Subdirektorat Humas dan Kerja Sama UM bersama unit/fakultas terkait menelaah kelayakan usulan dan menyesuaikan ruang lingkup kegiatan.
-4. **Penyusunan Naskah Kerja Sama:** Menyusun dokumen resmi berupa MoU (*Memorandum of Understanding*), MoA/PKS (*Perjanjian Kerja Sama*), dan IA (*Implementation Agreement*) yang tercatat di sistem SIKARSA.
-5. **Penandatanganan Naskah:** Dilakukan secara seremonial atau *desk-to-desk*. Rekam jejak dan daftar kerja sama resmi dapat dipantau di https://sikarsa.um.ac.id/report.
+Alur pengajuan kerja sama mitra via SIKARSA: 1. Menyusun proposal usulan kerja sama. 2. Mengirimkan surat permohonan resmi ke Rektor UM. 3. Verifikasi dokumen oleh Subdirektorat Humas dan Kerja Sama. 4. Penyusunan naskah MoU, PKS (MoA), dan IA. 5. Penandatanganan naskah kerja sama. 6. Pemantauan status kerja sama di portal https://sikarsa.um.ac.id.
 
 ---
 
