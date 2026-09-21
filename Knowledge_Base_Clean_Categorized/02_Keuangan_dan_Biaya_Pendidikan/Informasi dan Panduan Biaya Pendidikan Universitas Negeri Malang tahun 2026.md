@@ -1074,7 +1074,19 @@ Besaran tarif Uang Kuliah Tunggal (UKT) per semester jalur non-reguler/khusus di
 
 ---
 
-## 6. Tautan Resmi & Kontak Layanan Keuangan
+## 6. Tata Cara Pembayaran UKT & Ketentuan Masa Berlaku Kode Bayar (48 Jam)
+
+### Bagaimana tata cara pembayaran UKT UM dan berapa lama masa aktif kode bayar?
+Pembayaran biaya pendidikan (UKT per semester maupun IPI jalur mandiri) di Universitas Negeri Malang dilakukan melalui sistem **Kode Bayar**:
+1. **Sistem Kode Bayar:** Tagihan UKT dibayarkan menggunakan kode bayar unik yang diterbitkan melalui portal SIAKAD atau sistem pendaftaran/e-payment (bukan transfer manual ke nomor rekening pribadi).
+2. **Masa Berlaku Kode Bayar:** Kode bayar UKT memiliki masa aktif selama **48 jam** sejak digenerate.
+3. **Prosedur Jika Kedaluwarsa:** Jika kode bayar kedaluwarsa sebelum sempat dibayarkan di bank, mahasiswa dapat melakukan *generate ulang* atau mengaktifkan kembali kode bayar tagihan UKT baru melalui menu tagihan SIAKAD atau tautan resmi: **https://bit.um.ac.id/create_tagihan_UKT**.
+4. **Bank Mitra Resmi:** Pembayaran dapat dilakukan melalui teller, ATM, atau mobile banking bank mitra resmi UM (BNI, BRI, BTN, Bank Mandiri, Bank Jatim, CIMB Niaga, dan BSI) dengan memilih tagihan pendidikan Universitas Negeri Malang. Panduan: https://support.um.ac.id/topic/epayment/.
+
+---
+
+## 7. Tautan Resmi & Kontak Layanan Keuangan
 - **Panduan e-Payment UM:** https://support.um.ac.id/topic/epayment/
 - **Helpdesk Keuangan & UKT:** WhatsApp **0822-1333-4445** (Senin–Jumat pukul 07.30–16.00 WIB)
 - **Helpdesk Terpusat UM:** WhatsApp **0822-1333-4445**
+

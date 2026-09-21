@@ -411,29 +411,32 @@ mengikuti UTBK-SNBT Tahun 2026.
 - Peserta dapat memilih hingga 4 (empat) program studi pilihan (tidak wajib
 sebidang dengan jurusan asal di SMA/SMK/MA).
 Jadwal Pendaftaran
-Pembagian timeline seleksi diatur dalam beberapa skema tanggal/periode pendaftaran:
-1. Pendaftaran: Dibuka dalam beberapa skema periode, antara lain:
-– Skema Periode Satu: 1 April – 29 Mei 2026
-– Skema Periode Dua: 30 Mei – 12 Juni 2026
-– Skema Periode Tiga: 29 Juni – 3 Juli 2026
+Pembagian timeline seleksi diatur dalam beberapa skema tanggal/periode pendaftaran (Gelombang 1 s.d. Gelombang 4):
+1. Pendaftaran:
+– Skema Periode Satu (Gelombang 1): 1 April – 29 Mei 2026
+– Skema Periode Dua (Gelombang 2): 30 Mei – 12 Juni 2026
+– Skema Periode Tiga (Gelombang 3): 29 Juni – 3 Juli 2026
+– Skema Periode Empat (Gelombang 4): 8 – 15 Juli 2026 (Periode pendaftaran dibuka resmi sebagai kesempatan terakhir bagi peserta UTBK-SNBT 2026; dibuka khusus untuk 17 program studi S1 dari 5 fakultas: FIP, FS, FT, FIS, dan FMIPA).
 2. Pengumuman Administrasi / Hasil Seleksi:
 – Skema Periode Satu: 3 Juni 2026
 – Skema Periode Dua: 19 Juni 2026
-– Skema Periode Tiga: 7 juli 2026
+– Skema Periode Tiga: 7 Juli 2026
+– Skema Periode Empat (Gelombang 4): Diumumkan secara resmi setelah penutupan pendaftaran melalui portal https://seleksi.um.ac.id/
 3. Masa Sanggah:
 – Skema Periode Satu: 3 – 7 Juni 2026
 – Skema Periode Dua: 19 – 23 Juni 2026
 – Skema Periode Tiga: 7 – 9 Juli 2026
+– Skema Periode Empat (Gelombang 4): Menyesuaikan pengumuman resmi kelulusan Gelombang 4
 4. Registrasi Online:
-– Skema Periode Satu:  4 – 9 Juni 2026
+– Skema Periode Satu: 4 – 9 Juni 2026
 – Skema Periode Dua: 19 – 24 Juni 2026
 – Skema Periode Tiga: 7 – 10 Juli 2026
+– Skema Periode Empat (Gelombang 4): Menyesuaikan pengumuman resmi kelulusan Gelombang 4
 5. Pembayaran IPI dan UKT:
 – Skema Periode Satu: 4 – 11 Juni 2026
 – Skema Periode Dua: 19 – 25 Juni 2026
 – Skema Periode Tiga: 7 – 10 Juli 2026
-
-–
+– Skema Periode Empat (Gelombang 4): Mengikuti jadwal pengumuman kelulusan Gelombang 4
 6. PKKMB (Bidang Kemahasiswaan): 10 Agustus 2026.
 Tahap Pendaftaran
 - TAHAP 1: Peserta melakukan pendaftaran online melalui laman pendaftaran resmi:
@@ -466,9 +469,9 @@ Pilihan Program Studi
 Seluruh pilihan program studi Sarjana (S1) dan Sarjana Terapan (D4) di lingkungan
 Universitas Negeri Malang terbuka untuk jalur ini, termasuk program D4 Akuntansi, D4
 Teknologi Rekayasa Manufaktur, D4 Teknologi Rekayasa Otomotif, D4 Teknologi Rekayasa
-
 dan Pemeliharaan Bangunan Sipil, D4 Teknologi Rekayasa Pembangkit Energi, D4
 Teknologi Rekayasa Sistem Elektronika, D4 Tata Boga, dan program S1/D4 lainnya.
+- **Catatan Khusus Pilihan Prodi Gelombang 4 (8–15 Juli 2026):** Khusus Gelombang 4, pilihan program studi lebih terbatas, yaitu hanya membuka **17 program studi jenjang S1 terpilih dari 5 fakultas (FIP, FS, FT, FIS, dan FMIPA)**. Rincian prodi yang dibuka dapat dicek pada tautan resmi: https://seleksi.um.ac.id/sm-jalur-skor-utbk/#uagb-tabs__tab6.
 Biaya Pendidikan
 - Terdiri atas Iuran Pengembangan Institusi (IPI) yang wajib dibayarkan 1 (satu) kali
 di awal perkuliahan, dan Uang Kuliah Tunggal (UKT) yang dibayarkan secara
@@ -1639,11 +1642,21 @@ dapat ditarik kembali.
 Narahubung Informasi PSPPI: Sub Direktorat Seleksi, Direktorat Pendidikan, Gedung Graha
 Rektorat Lantai 2, Jl. Semarang No. 5 Malang. Telepon: 0341-551312 (pesawat 1410, 1418),
 
-No HP/WA: 0888 5522 533 pada hari dan jam kerja. Email: seleksi@um.ac.id.## 5. Contoh
-Tanya-Jawab (Berdasarkan Kalimat Asli Pengguna)
-Contoh berikut diambil dari kalimat asli pengguna pada chat helpdesk PMB (bukan
-dikarang), supaya AI Assist mengenali gaya bahasa nyata mahasiswa/calon mahasiswa —
-termasuk yang tidak baku, disingkat, atau tidak pakai tanda baca.
+No HP/WA: 0888 5522 533 pada hari dan jam kerja. Email: seleksi@um.ac.id.
+
+---
+
+## 5. Contoh Tanya-Jawab (Berdasarkan Pertanyaan Pengguna)
+
+### Q: Kapan pendaftaran Seleksi Mandiri Jalur Skor UTBK UM Gelombang 4 dibuka dan apa saja persyaratannya?
+
+**A: Pendaftaran Seleksi Mandiri (SM) Jalur Skor UTBK Gelombang 4 dibuka pada tanggal 8 s.d. 15 Juli 2026.** Jalur ini merupakan kesempatan terakhir bagi peserta UTBK-SNBT 2026 untuk mendaftar di Universitas Negeri Malang (UM).  
+**Persyaratan pendaftaran:**
+1. Lulusan 3 tahun terakhir (2024, 2025, 2026) dari SMA/MA/SMK terakreditasi atau lulusan Paket C.
+2. Memiliki nilai/skor resmi UTBK-SNBT Tahun 2026.
+3. Tidak lulus SNBP 2026, atau bagi yang lulus SNBT belum/tidak melakukan daftar ulang di PTN tujuan.
+4. Membayar biaya pendaftaran sebesar Rp300.000 menggunakan Kode Bayar unik (aktif 48 jam) melalui bank mitra resmi UM (BNI, BRI, BTN, Mandiri, Bank Jatim, CIMB Niaga, BSI).
+5. Memilih program studi dari **17 program studi jenjang S1 terpilih** dari 5 fakultas (FIP, FS, FT, FIS, dan FMIPA). Pendaftaran online dilakukan melalui laman: https://seleksi.um.ac.id/app/.
 
 ### Q: Iya saya butuh informasi jalur seleksi mandiri
 
