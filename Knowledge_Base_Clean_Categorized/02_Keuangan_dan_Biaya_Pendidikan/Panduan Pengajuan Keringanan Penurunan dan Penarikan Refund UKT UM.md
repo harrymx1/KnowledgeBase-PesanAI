@@ -7,10 +7,15 @@
 
 ---
 
-## 1. Pembebasan, Penundaan, dan Penurunan UKT (via SIAKAD)
+## 1. Pembebasan, Penundaan, dan Penurunan UKT (via SIAKAD & SIUKT)
 
-### Bagaimana cara pengajuan pembebasan atau penurunan UKT di UM?
-Pengajuan keringanan, pembebasan, atau penundaan pembayaran Uang Kuliah Tunggal (UKT) bagi mahasiswa aktif Universitas Negeri Malang dilakukan secara online melalui portal resmi **SIAKAD** (https://siakad.um.ac.id).
+### Bagaimana prosedur pengajuan keringanan atau penurunan UKT di UM?
+Berikut adalah prosedur resmi pengajuan keringanan, penurunan, penundaan, atau pembebasan Uang Kuliah Tunggal (UKT) di Universitas Negeri Malang (UM):
+1. **Akses Portal SIAKAD:** Pengajuan keringanan atau penurunan UKT dilakukan secara online melalui portal resmi **SIAKAD** (https://siakad.um.ac.id) pada menu **Pengumuman** > klik tautan pengajuan keringanan UKT.
+2. **Ketentuan Waktu & Syarat Mahasiswa Baru:**
+   - Mahasiswa baru **tidak bisa** mengajukan permohonan keringanan/penurunan UKT pada Semester 1 dan Semester 2.
+   - Pengajuan penundaan atau penurunan UKT baru dapat diajukan **mulai Semester 3 (tiga)** melalui sistem resmi **https://siukt.um.ac.id** pada menu Penundaan/Penurunan UKT.
+3. **Persyaratan Dokumen:** Mengisi formulir online, mengunggah surat pernyataan bermeterai, serta melampirkan bukti pendukung kondisi sosial ekonomi terbaru penanggung biaya pendidikan.
 
 **Kategori Mahasiswa yang Berhak Mengajukan Keringanan/Pembebasan UKT:**
 1. **Kategori A — Mahasiswa Gagal Yudisium:**

@@ -94,9 +94,9 @@ Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester dan IPI S1 Ked
 
 ## 5. FAQ Prosedur Keringanan, Tagihan & Pembayaran Khusus
 
-### Apakah mahasiswa baru bisa mengajukan banding atau keringanan UKT?
-**Tidak bisa pada semester 1 dan semester 2.**  
-Pengajuan banding atau keringanan/penurunan UKT bagi mahasiswa Universitas Negeri Malang baru dapat diajukan **mulai Semester 3 (tiga)** melalui sistem resmi https://siukt.um.ac.id pada menu Penundaan/Penurunan UKT dengan melampirkan persyaratan dan bukti kondisi sosial ekonomi terbaru.
+### Bagaimana prosedur pengajuan keringanan atau penurunan UKT di UM dan apakah mahasiswa baru bisa mengajukan?
+**Mahasiswa baru tidak bisa mengajukan pada semester 1 dan semester 2.**  
+Pengajuan banding atau keringanan/penurunan UKT bagi mahasiswa Universitas Negeri Malang baru dapat diajukan **mulai Semester 3 (tiga)** melalui portal resmi SIAKAD (https://siakad.um.ac.id) atau sistem https://siukt.um.ac.id pada menu Penundaan/Penurunan UKT dengan melampirkan persyaratan dan bukti kondisi sosial ekonomi terbaru.
 
 ### Bagaimana jika tidak bisa membayar UKT karena tagihan tidak muncul di bank atau ATM?
 Pembayaran UKT tidak dapat diproses oleh teller bank atau mobile banking apabila tagihan belum dibuat/diaktifkan di sistem UM.  
