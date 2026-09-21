@@ -883,7 +883,7 @@ Berapa biaya UKT untuk jurusan / program studi S1 Psikologi? Besaran tarif biaya
 ## Biaya UKT Fakultas Kedokteran (FK)
 
 ### Berapa biaya UKT dan IPI untuk program studi S1 Kedokteran di Universitas Negeri Malang?
-Besaran tarif Uang Kuliah Tunggal (UKT) per semester dan IPI S1 Kedokteran (Fakultas Kedokteran UM) untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri):
+Besaran tarif Uang Kuliah Tunggal (UKT) per semester dan IPI untuk program studi S1 Kedokteran di Fakultas Kedokteran Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri):
 - **UKT 1:** Rp500.000 | **UKT 2:** Rp1.000.000
 - **UKT 3:** Rp7.500.000 | **UKT 4:** Rp12.000.000
 - **UKT 5:** Rp17.500.000 | **UKT 6:** Rp20.000.000 | **UKT 7:** Rp23.500.000

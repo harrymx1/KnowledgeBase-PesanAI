@@ -82,6 +82,14 @@ Besaran tarif Uang Kuliah Tunggal (UKT) kelompok 1 dan 2 berlaku flat dan seraga
 - **Biaya UKT 1:** Rp500.000 per semester.
 - **Biaya UKT 2:** Rp1.000.000 per semester.
 
+### Berapa biaya UKT dan IPI untuk program studi S1 Kedokteran di Universitas Negeri Malang?
+Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester dan IPI S1 Kedokteran di Universitas Negeri Malang (UM):
+- **UKT 1:** Rp500.000 | **UKT 2:** Rp1.000.000
+- **UKT 3:** Rp7.500.000 | **UKT 4:** Rp12.000.000
+- **UKT 5:** Rp17.500.000 | **UKT 6:** Rp20.000.000 | **UKT 7:** Rp23.500.000
+- **IPI Jalur Seleksi Mandiri:** IPI 1 Rp200.000.000 | IPI 2 Rp225.000.000 (dibayar 1 kali saat registrasi awal).
+*(Catatan: Mahasiswa jalur nasional SNBP dan SNBT BEBAS IPI 100% / tanpa uang gedung).*
+
 ---
 
 ## 5. FAQ Prosedur Keringanan, Tagihan & Pembayaran Khusus
