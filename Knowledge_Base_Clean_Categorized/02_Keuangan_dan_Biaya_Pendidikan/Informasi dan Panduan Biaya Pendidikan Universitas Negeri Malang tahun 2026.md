@@ -882,17 +882,13 @@ Berapa biaya UKT untuk jurusan / program studi S1 Psikologi? Besaran tarif biaya
 
 ## Biaya UKT Fakultas Kedokteran (FK)
 
-### Biaya UKT dan IPI S1 Kedokteran (FK UM)
-Berapa biaya UKT untuk jurusan / program studi S1 Kedokteran? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Kedokteran di Fakultas Kedokteran (FK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
-- **UKT 1:** Rp500.000
-- **UKT 2:** Rp1.000.000
-- **UKT 3:** Rp7.500.000
-- **UKT 4:** Rp12.000.000
-- **UKT 5:** Rp17.500.000
-- **UKT 6:** Rp20.000.000
-- **UKT 7:** Rp23.500.000
-- **IPI 1 (Jalur Mandiri):** Rp200.000.000
-- **IPI 2 (Jalur Mandiri):** Rp225.000.000
+### Berapa biaya UKT dan IPI untuk program studi S1 Kedokteran di Universitas Negeri Malang?
+Besaran tarif Uang Kuliah Tunggal (UKT) per semester dan IPI S1 Kedokteran (Fakultas Kedokteran UM) untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri):
+- **UKT 1:** Rp500.000 | **UKT 2:** Rp1.000.000
+- **UKT 3:** Rp7.500.000 | **UKT 4:** Rp12.000.000
+- **UKT 5:** Rp17.500.000 | **UKT 6:** Rp20.000.000 | **UKT 7:** Rp23.500.000
+- **IPI Jalur Mandiri:** IPI 1 Rp200.000.000 | IPI 2 Rp225.000.000
+*(Mahasiswa baru jalur SNBP dan SNBT bebas IPI / tanpa uang gedung).*
 
 ### Biaya UKT dan IPI S1 Keperawatan (FK UM)
 Berapa biaya UKT untuk jurusan / program studi S1 Keperawatan? Besaran tarif biaya kuliah Uang Kuliah Tunggal (UKT) per semester S1 Keperawatan di Fakultas Kedokteran (FK) Universitas Negeri Malang untuk jalur reguler (SNBP, SNBT, dan Seleksi Mandiri) terdiri dari 7 kelompok tarif:
@@ -1067,12 +1063,14 @@ Biaya pendidikan Pascasarjana dibayarkan setiap semester:
 ---
 
 ## 5. Tarif UKT Jalur Khusus (Kemitraan, Kelas Internasional, WNA, RPL)
-Untuk program studi tertentu yang membuka jalur khusus/non-reguler:
-- **Jalur Kemitraan:** Rp10.000.000 per semester (flat).
+
+### Berapa tarif UKT untuk jalur Kelas Internasional dan jalur RPL di UM?
+Besaran tarif Uang Kuliah Tunggal (UKT) per semester jalur non-reguler/khusus di Universitas Negeri Malang (UM):
 - **Jalur Kelas Internasional:** Rp7.500.000 s.d. Rp10.800.000 per semester.
-- **Jalur Warga Negara Asing (WNA):** Rp16.600.000 s.d. Rp25.700.000 per semester.
 - **Jalur RPL (Rekognisi Pembelajaran Lampau):** Rp5.500.000 s.d. Rp7.500.000 per semester.
-(Catatan: Program studi lain yang membuka jalur kemitraan/khusus menggunakan tarif UKT Kategori 7/tertinggi dari jalur reguler).
+- **Jalur Kemitraan:** Rp10.000.000 per semester (flat).
+- **Jalur Warga Negara Asing (WNA):** Rp16.600.000 s.d. Rp25.700.000 per semester.
+*(Catatan: Program studi lain yang membuka kemitraan/khusus menggunakan tarif UKT Kategori 7 dari jalur reguler).*
 
 ---
 

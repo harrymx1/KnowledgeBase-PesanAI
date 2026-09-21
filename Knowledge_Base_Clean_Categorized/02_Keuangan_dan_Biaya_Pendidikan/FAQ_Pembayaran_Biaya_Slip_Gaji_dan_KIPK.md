@@ -9,13 +9,12 @@
 
 ## 1. Sistem & Tata Cara Pembayaran Biaya Pendaftaran
 
-### Bagaimana cara membayar biaya pendaftaran seleksi mandiri UM?
-Pembayaran biaya pendaftaran seleksi mandiri UM dilakukan menggunakan sistem **Kode Bayar** otomatis dari sistem seleksi (bukan transfer ke nomor rekening perorangan/rekening bank biasa).
-1. Selesaikan pengisian formulir pendaftaran hingga tahap pembayaran untuk mendapatkan Kode Bayar unik.
-2. Panduan tata cara pembayaran dari masing-masing bank mitra resmi dapat diakses pada portal e-Payment resmi UM: https://support.um.ac.id/topic/epayment/.
-3. Panduan visual aktivasi kode bayar dapat diunduh pada tautan resmi: https://drive.google.com/file/d/10EAZepNXWTILkXgqO9AbKY_9D5eN55Yb/view.
-4. Masukkan Kode Bayar pada menu pembayaran tagihan pendidikan Universitas Negeri Malang di ATM/Mobile Banking/Teller.
-5. Simpan struk/bukti bayar sebagai bukti verifikasi yang sah.
+### Bagaimana tata cara membayar biaya pendaftaran atau UKT UM dan berapa lama masa aktif kode bayar?
+Tata cara bayar biaya pendaftaran dan UKT UM via sistem **Kode Bayar**:
+1. Buat kode bayar unik di sistem pendaftaran seleksi / tagihan UKT UM.
+2. Bayar di teller, ATM, atau mobile banking bank mitra resmi UM (BNI, BRI, BTN, Mandiri, Bank Jatim, CIMB Niaga, BSI). Panduan: https://support.um.ac.id/topic/epayment/.
+3. **Masa Aktif Kode Bayar:** Berlaku selama **48 jam**. Bila kedaluwarsa sebelum dibayar, silakan buat atau aktifkan kembali kode bayar baru di sistem.
+4. Simpan struk/bukti bayar sebagai bukti verifikasi yang sah.
 
 ### Pembayaran biaya pendaftaran bisa dilakukan di bank mana saja?
 Pembayaran biaya pendaftaran dan pendidikan UM dapat dilakukan di seluruh wilayah Indonesia melalui **Bank Mitra Resmi UM**:
@@ -35,6 +34,12 @@ Pembayaran biaya pendaftaran dan pendidikan UM dapat dilakukan di seluruh wilaya
 ---
 
 ## 2. Ketentuan Bukti Dokumen Finansial Orang Tua
+
+### Bagaimana jika orang tua tidak memiliki slip gaji dan bukti PBB saat pendaftaran di UM?
+Ketentuan dokumen pengganti saat pendaftaran di Universitas Negeri Malang (UM):
+1. **Tidak Ada Slip Gaji (Wiraswasta/Petani/Pekerja Informal/Buruh):** Buat Surat Pernyataan Penghasilan disahkan RT/RW atau Kelurahan. Unduh: https://docs.google.com/document/d/1mo6liEF-jDTVk8te14auGc7f6kfVVzoE/edit.
+2. **Tidak Ada Bukti PBB (Rumah Kontrak/Sewa/Menumpang):** Buat Surat Keterangan Kontrak/Sewa atau Menumpang disahkan RT/RW setempat. Unduh: https://docs.google.com/document/d/1PKWd-5-KfmkcHZ6OpOW4UFgyRyTB2o-M/edit.
+*(PNS/TNI/POLRI/BUMN/Karyawan Swasta tetap wajib melampirkan slip gaji resmi instansi).*
 
 ### Bagaimana jika orang tua saya tidak memiliki slip gaji?
 Ketentuan dokumen bukti penghasilan orang tua untuk pendaftaran seleksi UM:
