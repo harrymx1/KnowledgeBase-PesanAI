@@ -46,9 +46,12 @@ Jam operasional loket: Senin s.d. Jumat pukul 07.30–16.00 WIB.
 ### Bagaimana alur pengurusan Surat Pernyataan Masih Kuliah (SPMK) dan Surat Keterangan Mahasiswa (SKM) di UM?
 Pengurusan SKM dan SPMK dilakukan secara online di https://siakad.um.ac.id/ pada menu **Riwayat Layanan Administrasi** > **Buat Pengajuan Baru**. SKM digunakan untuk keperluan beasiswa atau lomba, sedangkan SPMK digunakan untuk tunjangan anak bagi orang tua ASN/Pensiunan. Jika ada kendala, hubungi WhatsApp Helpdesk di 0822-1333-4445.
 
+### Ke loket mana mahasiswa harus pergi untuk pengambilan ijazah asli atau cetak KTM di Graha Rektorat UM?
+Pembagian loket pelayanan mahasiswa di Gedung Graha Rektorat Lantai 2 UM:
+- **Pengambilan Ijazah Asli:** **Loket A** (melayani pengambilan ijazah asli, cetak KHS, ralat perbaikan data ijazah, dan ijazah terjemahan bahasa Inggris).
+- **Cetak KTM (Kartu Tanda Mahasiswa):** **Loket C dan D** (melayani cetak fisik KTM, surat keterangan aktif kuliah, legalisir sertifikat akreditasi, dan pengurusan cuti kuliah).
+- **Legalisir Ijazah & Transkrip Fisik:** **Loket B** (melayani legalisir fisik ijazah, transkrip nilai, sertifikat pendidik, dan surat pindah).
+Jam operasional pelayanan seluruh loket: Senin s.d. Jumat pukul 07.30–16.00 WIB.
+
 ### Ke loket mana mahasiswa harus pergi untuk pengambilan ijazah, cetak KTM, atau legalisir di UM?
-Lokasi loket di Graha Rektorat Lantai 2 UM:
-- **Pengambilan Ijazah Asli:** Loket A
-- **Legalisir Dokumen Ijazah:** Loket B
-- **Cetak KTM & Surat Aktif Kuliah:** Loket C dan D
-Pelayanan dibuka setiap hari kerja pukul 07.30–16.00 WIB.
+Lokasi loket Graha Rektorat Lantai 2 UM: Pengambilan Ijazah Asli di Loket A, Legalisir di Loket B, Cetak KTM & Surat Aktif di Loket C dan D. Buka Senin–Jumat 07.30–16.00 WIB.
