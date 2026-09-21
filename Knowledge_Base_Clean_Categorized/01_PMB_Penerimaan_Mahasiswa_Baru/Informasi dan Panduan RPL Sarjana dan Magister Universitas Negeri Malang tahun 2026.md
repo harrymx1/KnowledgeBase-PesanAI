@@ -4,36 +4,20 @@
 
 ---
 
-Seleksi Mandiri Program Rekognisi Pembelajaran Lampau (RPL)
-Semester Gasal 2026/2027
-Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang
-yang diperoleh dari pendidikan formal, nonformal, informal, dan/atau pengalaman kerja sebagai
-dasar untuk melanjutkan pendidikan formal atau untuk melakukan penyetaraan dengan
-kualifikasi tertentu. Dalam Peraturan Menteri Pendidikan, Kebudayaan, Riset dan Teknologi
-Nomor 41 Tahun 2021 tentang Rekognisi Pembelajaran Lampau, RPL dalam pendidikan tinggi
-mencakup RPL untuk melanjutkan pendidikan formal pada perguruan tinggi.
-Daftar Sekarang
-Persyaratan
-RPL Transfer sks
-1. Calon yang memiliki pengalaman pendidikan formal yang dibuktikan dengan ijazah,
-akademik, rekapitulasi nilai, atau daftar hasil belajar.
-2. Berasal dari Perguruan Tinggi/sekolah pendidikan asal dengan akreditasi minimal Sangat
-Baik atau B dengan akreditasi Program Studi pada pendidikan sebelumnya minimal Sangat
-Baik atau B.
-3. Jenis RPL tipe A transfer sks diperuntukkan bagi peserta yang pernah menempuh
-pendidikan formal yang dibuktikan dengan daftar hasil belajar dan didukung luaran
-pembelajarannya.
-4. RPL tipe A transfer sks tidak boleh berasal dari mahasiswa Universitas Negeri Malang
-dengan status dikeluarkan atau putus studi.
-RPL Perolehan sks
-1. Calon yang dimaksudkan pada RPL perolehan sks adalah mereka sudah memiliki
-pengalaman kerja atau pendidikan non formal sebelumnya.
-2. Memiliki pengalaman kerja paling sedikit 5 (lima) tahun setelah lulus sekolah menengah
-atas atau sederajat untuk input program Sarjana/Sarjana terapan, dan 3 (tiga) tahun
-setelah lulus program Sarjana/Sarjana Terapan untuk input program Magister.
-3. Atau mereka yang memiliki capaian akademik berupa publikasi pada jurnal internasional
-bereputasi atau jurnal nasional terakreditasi sinta 1-4, dan/atau buku yang memiliki ISBN
-dan diterbitkan oleh penerbit terafiliasi AKAPI atau lembaga pengindeks internasional.
+### Apakah UM membuka jalur Rekognisi Pembelajaran Lampau (RPL) untuk jenjang S1 dan S2 dan apa tujuannya?
+Universitas Negeri Malang (UM) membuka Seleksi Mandiri Program Rekognisi Pembelajaran Lampau (RPL) Semester Gasal 2026/2027 untuk jenjang Sarjana (S1), Sarjana Terapan (D4), dan Magister (S2).
+- **Definisi & Tujuan:** Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang yang diperoleh dari pendidikan formal, nonformal, informal, dan/atau pengalaman kerja sebagai dasar untuk melanjutkan pendidikan formal di perguruan tinggi (sesuai Permendikbudristek No. 41 Tahun 2021) guna memperoleh penyetaraan atau pembebasan sejumlah sks.
+
+### Apa saja persyaratan pendaftaran Seleksi Mandiri Program RPL di UM?
+1. **RPL Transfer SKS (Pendidikan Formal Sebelumnya):**
+   - Memiliki pengalaman pendidikan formal yang dibuktikan dengan ijazah, transkrip, rekapitulasi nilai, atau daftar hasil belajar.
+   - Berasal dari PT/sekolah asal dengan akreditasi minimal Sangat Baik atau B, dan prodi asal minimal Sangat Baik/B.
+   - Tidak diperkenankan bagi mantan mahasiswa UM dengan status dikeluarkan atau putus studi (drop out).
+2. **RPL Perolehan SKS (Pengalaman Kerja / Nonformal):**
+   - Memiliki pengalaman kerja minimal 5 (lima) tahun setelah lulus SMA/sederajat untuk input jenjang Sarjana / Sarjana Terapan (S1/D4).
+   - Memiliki pengalaman kerja minimal 3 (tiga) tahun setelah lulus S1/D4 untuk input program Magister (S2).
+   - ATAU memiliki capaian akademik berupa publikasi pada jurnal internasional bereputasi atau jurnal nasional terakreditasi Sinta 1-4, atau buku ber-ISBN.
+
 Batas Pengajuan dan Pengakuan SKS
 
 Jenjang Mekanisme Total
@@ -302,25 +286,25 @@ No. Kegiatan Jadwal
 7 Awal Perkuliahan 24 Agustus 2026
 - Mahasiswa yang lolos seleksi wajib berkoordinasi dengan Ketua Program Studi atau dosen PA
 yang ditunjuk sebelum masa rencana studi untuk merancang Rencana Studi Menyeluruh.
-Berkas yang Diunggah
+### Apa saja syarat berkas dan dokumen portofolio untuk pendaftaran jalur RPL di Universitas Negeri Malang?
+Dokumen berkas dan portofolio yang wajib diunggah untuk pendaftaran jalur RPL di Universitas Negeri Malang (UM) terbagi menjadi:
 
-**A. RPL Transfer Kredit**
+**A. Berkas RPL Transfer Kredit (Pendidikan Formal):**
+1. Scan Surat Keterangan Pindah/Keluar dari perguruan tinggi sebelumnya.
+2. Scan Transkrip/Rekapitulasi Nilai dari perguruan tinggi sebelumnya.
+3. Pasfoto berwarna terbaru (ukuran 4 x 6 cm).
+4. Kartu Keluarga (KK) dan Akta Kelahiran/Akta Kenal Lahir asli.
+5. Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan resmi UM.
 
-Scan Surat Keterangan/Pindah/Keluar dari perguruan tinggi sebelumnya.
-Scan Trankrip/Rekapitulasi Nilai dari perguruan tinggi sebelumnya.
-Pasfoto berwarna terbaru (4 x 6 cm).
-Kartu Keluarga (KK).
-Akta Kelahiran/Akta Kenal Lahir.
-Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan (Klik Disini)
-B. RPL Perolehan Kredit
+**B. Dokumen Portofolio RPL Perolehan Kredit (Pengalaman Kerja / Nonformal):**
+1. Daftar riwayat hidup dan riwayat pekerjaan (CV) dengan rincian uraian tugas.
+2. Sertifikat kompetensi atau lisensi profesi yang relevan (seperti operator forklift, crane, dll).
+3. Sertifikat pelatihan (disertai uraian materi dan durasi jam pelatihan).
+4. Bukti keanggotaan asosiasi profesi yang relevan.
+5. Surat referensi atau surat keterangan dari pemberi kerja/supervisor.
+6. Bukti penghargaan dari industri atau bukti penilaian kinerja resmi.
+7. Formulir Evaluasi Diri (FED) dan Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan resmi UM.
 
-Daftar riwayat pekerjaan dengan rincian tugas.
-Sertifikat kompetensi/lisensi (seperti operator forklift, crane, dll).
-Sertifikat pelatihan (disertai uraian materi dan durasi).
-Keanggotaan asosiasi profesi yang relevan.
-Referensi/Surat keterangan dari pemberi kerja/supervisor.
-Penghargaan dari industri atau penilaian kinerja.
-Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan (Klik Disini)
 Tatacara Pendaftaran
 1. Peserta melakukan pendaftaran secara online melalui laman
 https://seleksi.um.ac.id/app/login.

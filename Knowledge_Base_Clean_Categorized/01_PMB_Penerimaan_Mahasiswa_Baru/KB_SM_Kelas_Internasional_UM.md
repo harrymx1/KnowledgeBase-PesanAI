@@ -31,29 +31,29 @@ perkuliahan yang baru Agustus), sedangkan Batch 3 pendaftarannya sedang berlangs
 Juli 2026) — AI Assist harus menjawab bahwa pendaftaran Batch 3 masih dibuka, bukan "sudah berakhir"
 atau "belum mulai".
 
-B. Pengantar
+B. Pengantar & Mekanisme Program
 
-Program Sarjana Internasional (International Undergraduate Program/IUP) di Universitas Negeri Malang
-mempersiapkan mahasiswa untuk bersaing secara global melalui pendidikan kelas dunia, inovasi, dan
-kolaborasi. Program ini menawarkan beragam skema seperti Gelar Ganda (Joint/Double Degree), Gelar
-Gabungan, dan program Paparan Internasional (misalnya transfer kredit internasional atau International Credit
-Mobility).
+### Bagaimana mekanisme perkuliahan dan skema pada Program Sarjana Internasional (IUP) UM?
+Program Sarjana Internasional (International Undergraduate Program / IUP) di Universitas Negeri Malang (UM) mempersiapkan mahasiswa untuk bersaing secara global melalui pendidikan kelas dunia. Mekanisme dan skema perkuliahan yang ditawarkan meliputi:
+1. **Gelar Ganda (Joint/Double Degree):** Mahasiswa menempuh studi di UM dan perguruan tinggi mitra luar negeri (misalnya skema 2.5+1, 3+1, atau 2+2).
+2. **Mobilitas Kredit Internasional (International Credit Mobility / Transfer Kredit):** Mahasiswa mengikuti pertukaran mahasiswa dan transfer sks di universitas mitra internasional selama 1-2 semester.
+3. **Persyaratan Bahasa:** Calon mahasiswa wajib memiliki kemampuan bahasa Inggris yang memadai (TOEFL/IELTS) atau mengikuti tes penempatan bahasa Inggris. Tautan resmi: https://seleksi.um.ac.id/sm-kelas-internasional/
 
-Tautan resmi: https://seleksi.um.ac.id/sm-kelas-internasional/
+C. Persyaratan Pendaftaran
 
-C. Persyaratan
+### Apa syarat kemampuan bahasa Inggris untuk mendaftar Seleksi Mandiri Kelas Internasional di UM?
+Persyaratan kemampuan bahasa Inggris untuk mendaftar Seleksi Mandiri Kelas Internasional (IUP) di Universitas Negeri Malang (UM) adalah memiliki salah satu bukti sertifikat kemampuan bahasa berikut:
+- **TOEFL ITP:** minimal skor 450, ATAU
+- **IELTS:** minimal skor 5.5, ATAU
+- **TOAFL:** minimal skor 500 (khusus program studi non-Bahasa Inggris / Bahasa Mandarin).
+*Catatan:* Pelamar yang belum memiliki sertifikat kemampuan bahasa Inggris yang valid dapat mengikuti tes penempatan bahasa Inggris (*placement test*) yang diselenggarakan oleh universitas.
 
-1. Lulusan sekolah menengah atas (SMA/SMK/MA atau yang setara) dari angkatan 3 tahun terakhir.
-2. Memenuhi persyaratan akademik khusus yang ditetapkan oleh program studi yang dipilih.
-3. Nilai rapor minimal 75 (pada skala 100 poin) untuk semester 1-5.
-4. Persyaratan kemampuan berbahasa Inggris (salah satu dari berikut):
-- TOEFL ITP: minimal 450, ATAU
+### Apa saja kriteria umum dan syarat nilai rapor untuk pendaftaran Kelas Internasional UM?
+Persyaratan umum pendaftaran IUP UM meliputi:
+1. Lulusan sekolah menengah atas (SMA/SMK/MA atau sederajat) dari angkatan 3 tahun terakhir (2024, 2025, 2026).
+2. Memenuhi persyaratan akademik khusus program studi yang dipilih dengan nilai rapor rata-rata minimal 75 (skala 100 poin) untuk semester 1 sampai 5.
+3. Setiap pelamar dapat memilih hingga 4 (empat) program studi internasional di UM (pemilihan lintas jurusan diperbolehkan).
 
-- IELTS: minimal 5.5, ATAU
-- TOAFL (khusus program non-Inggris): minimal 500.
-- Pelamar tanpa sertifikat yang valid mungkin diharuskan mengikuti tes penempatan bahasa Inggris
-(placement test).
-5. Setiap pelamar dapat memilih hingga 4 program studi (pemilihan lintas jurusan diperbolehkan).
 
 D. Jadwal Pelaksanaan (per 7 Juli 2026)
 
