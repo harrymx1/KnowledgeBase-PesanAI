@@ -20,8 +20,15 @@ Kebijakan Car Free Day (CFD) di Universitas Negeri Malang (UM):
 
 ## 2. Ketentuan Khusus Peniadaan Sementara Car Free Day (UTBK SNBT)
 
-### Mengapa kegiatan Car Free Day di UM ditiadakan pada hari Jumat tanggal 24 April 2026?
-Kegiatan Car Free Day pada **hari Jumat, tanggal 24 April 2026** di Universitas Negeri Malang ditiadakan sementara:
+### Apakah Car Free Day (CFD) di UM ditiadakan?
+**Ya, kegiatan Car Free Day (CFD) di Universitas Negeri Malang ditiadakan sementara pada hari Jumat, tanggal 24 April 2026.**
+
+**Rincian dan Alasan Peniadaan CFD UM:**
+- **Jadwal Peniadaan:** Hari Jumat, tanggal **24 April 2026**.
 - **Alasan Peniadaan:** Bertepatan dengan pelaksanaan Ujian Tulis Berbasis Komputer Seleksi Nasional Berdasarkan Tes (UTBK SNBT) yang berlangsung pada tanggal 21 s.d. 28 April 2026 di Universitas Negeri Malang.
-- **Tujuan Kebijakan:** Memberikan kemudahan akses dan kelancaran mobilitas transportasi bagi ribuan calon mahasiswa peserta ujian UTBK, pengantar, dan panitia pelaksana ujian di lingkungan kampus UM.
+- **Tujuan Kebijakan:** Memberikan kemudahan akses dan kelancaran mobilitas transportasi bagi ribuan peserta ujian UTBK, pengantar, dan panitia pelaksana ujian di lingkungan kampus UM.
 - **Pasca Ujian:** Kegiatan Car Free Day kampus UM akan kembali dilaksanakan secara normal pada hari Jumat berikutnya setelah rangkaian kegiatan ujian seleksi selesai.
+
+### Mengapa kegiatan Car Free Day di UM ditiadakan pada hari Jumat tanggal 24 April 2026?
+Kegiatan Car Free Day (CFD) ditiadakan sementara pada Jumat, 24 April 2026 karena bertepatan dengan pelaksanaan UTBK SNBT (21–28 April 2026) di lingkungan kampus Universitas Negeri Malang.
+
