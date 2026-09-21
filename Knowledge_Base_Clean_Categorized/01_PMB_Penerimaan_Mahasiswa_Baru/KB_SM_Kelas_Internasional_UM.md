@@ -33,11 +33,16 @@ atau "belum mulai".
 
 B. Pengantar & Mekanisme Program
 
-### Bagaimana mekanisme perkuliahan dan skema pada Program Sarjana Internasional (IUP) UM?
-Program Sarjana Internasional (International Undergraduate Program / IUP) di Universitas Negeri Malang (UM) mempersiapkan mahasiswa untuk bersaing secara global melalui pendidikan kelas dunia. Mekanisme dan skema perkuliahan yang ditawarkan meliputi:
-1. **Gelar Ganda (Joint/Double Degree):** Mahasiswa menempuh studi di UM dan perguruan tinggi mitra luar negeri (misalnya skema 2.5+1, 3+1, atau 2+2).
-2. **Mobilitas Kredit Internasional (International Credit Mobility / Transfer Kredit):** Mahasiswa mengikuti pertukaran mahasiswa dan transfer sks di universitas mitra internasional selama 1-2 semester.
-3. **Persyaratan Bahasa:** Calon mahasiswa wajib memiliki kemampuan bahasa Inggris yang memadai (TOEFL/IELTS) atau mengikuti tes penempatan bahasa Inggris. Tautan resmi: https://seleksi.um.ac.id/sm-kelas-internasional/
+### Bagaimana mekanisme perkuliahan dan persyaratan bahasa untuk Seleksi Mandiri Kelas Internasional di UM?
+Mekanisme perkuliahan dan persyaratan bahasa untuk Seleksi Mandiri Kelas Internasional (International Undergraduate Program / IUP) Universitas Negeri Malang (UM) adalah sebagai berikut:
+1. **Mekanisme Perkuliahan & Skema Program:**
+   - **Gelar Ganda (Joint/Double Degree):** Mahasiswa menempuh studi di UM dan universitas mitra luar negeri (misalnya skema 2.5+1, 3+1, atau 2+2).
+   - **Mobilitas Kredit Internasional (International Credit Mobility / Transfer Kredit):** Mahasiswa mengikuti pertukaran pelajar dan transfer kredit di universitas mitra internasional selama 1-2 semester.
+2. **Persyaratan Kemampuan Bahasa Inggris:**
+   - Calon mahasiswa wajib memiliki sertifikat **TOEFL ITP minimal 450**, ATAU **IELTS minimal 5.5**, ATAU **TOAFL minimal 500** (khusus program non-Bahasa Inggris).
+   - Pelamar yang belum memiliki sertifikat kemampuan bahasa Inggris yang valid dapat mengikuti tes penempatan bahasa Inggris (*placement test*) yang diselenggarakan oleh UM.
+Sumber resmi: https://seleksi.um.ac.id/sm-kelas-internasional/
+
 
 C. Persyaratan Pendaftaran
 
