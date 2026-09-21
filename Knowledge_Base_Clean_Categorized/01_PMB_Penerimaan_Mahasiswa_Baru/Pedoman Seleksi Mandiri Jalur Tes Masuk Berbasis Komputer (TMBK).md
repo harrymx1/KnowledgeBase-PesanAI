@@ -4,88 +4,64 @@
 
 ---
 
-Pedoman Pengetahuan: Seleksi Mandiri Jalur Tes Masuk Berbasis
-Komputer (TMBK) UM
-Pedoman ini disusun sebagai sumber informasi formal bagi AI mengenai mekanisme Seleksi
-Mandiri Jalur TMBK di Universitas Negeri Malang (UM).
-1. Deskripsi Umum
-Seleksi Mandiri Jalur TMBK adalah seleksi yang dilakukan berdasarkan skor Tes Masuk Berbasis
-Komputer yang diselenggarakan secara mandiri oleh Universitas Negeri Malang.
-Sumber Utama:https://seleksi.um.ac.id/sm-tmbk/
-2. Persyaratan Pendaftaran
-Berdasarkan ketentuan resmi, calon mahasiswa harus memenuhi kriteria berikut:
-Lulusan SMA/MA/SMK atau sederajat (tahun kelulusan 2022, 2023, dan 2024).
-Lulusan paket C yang memiliki ijazah.
-Tidak dibatasi oleh usia.
-Memenuhi persyaratan kesehatan untuk kelancaran studi pada program studi yang dipilih.
-Sumber Detail:https://seleksi.um.ac.id/sm-tmbk/
-3. Jadwal Kegiatan dan Lokasi Pelaksanaan TMBK UM 2026
-Berikut adalah uraian lengkap mengenai Jadwal Kegiatan dan Lokasi Pelaksanaan Tes Mandiri
-Berbasis Komputer (TMBK) Universitas Negeri Malang (UM) tahun 2026:
-1. Jadwal Kegiatan TMBK UM 2026
-Jadwal pelaksanaan pendaftaran dan ujian bervariasi tergantung pada lokasi tes yang dipilih
-oleh peserta. Berikut adalah detailnya:
+### Apa itu Seleksi Mandiri Jalur TMBK di Universitas Negeri Malang (UM)?
+Seleksi Mandiri Jalur Tes Masuk Berbasis Komputer (TMBK) adalah seleksi penerimaan mahasiswa baru Universitas Negeri Malang (UM) yang didasarkan secara penuh pada perolehan skor ujian tulis berbasis komputer (Computer Based Test) yang diselenggarakan secara mandiri oleh UM. Pendaftar dapat mengikuti tes di beberapa kota mitra di Indonesia tanpa harus datang ke Malang. Sumber resmi: https://seleksi.um.ac.id/sm-tmbk/
 
-**A. Masa Pendaftaran**
+### Materi apa saja yang diujikan pada Seleksi Mandiri Jalur TMBK di Universitas Negeri Malang?
+Materi yang diujikan pada Seleksi Mandiri Jalur Tes Masuk Berbasis Komputer (TMBK) Universitas Negeri Malang (UM) adalah:
+1. **Tes Potensi Akademik (TPA)** berbasis komputer (Computer Based Test / CBT).
+2. Penilaian seleksi dilakukan secara objektif murni berdasarkan pemeringkatan perolehan skor nilai ujian TMBK-UM tersebut tanpa tes wawancara tambahan.
+3. Ujian dilaksanakan secara luring/offline di lokasi tes yang dipilih peserta (Kampus Pusat UM Malang atau lokasi mitra di kota-kota besar Indonesia).
 
-Jakarta & Balikpapan: 1 April – 3 Juni 2026.
-Bandung, Lombok, Yogyakarta, & Medan: 1 April – 5 Juni 2026.
-Malang (Kampus UM): 1 April – 8 Juni 2026.
-B. Pelaksanaan Ujian
-Jakarta & Balikpapan: 6 – 7 Juni 2026.
-Bandung, Lombok, Yogyakarta, & Medan: 8 – 9 Juni 2026.
-Malang (Kampus UM): 12 – 13 Juni 2026.
-C. Agenda Pasca Ujian (Berlaku untuk Semua Lokasi)
-Pengumuman Hasil Seleksi: 20 Juni 2026.
+### Apa saja persyaratan pendaftaran Seleksi Mandiri Jalur TMBK UM?
+Persyaratan calon peserta Seleksi Mandiri Jalur TMBK UM meliputi:
+1. Lulusan SMA/MA/SMK atau sederajat, atau lulusan Paket C yang memiliki ijazah.
+2. Tidak dibatasi usia pendaftar (tidak ada batasan usia maksimal).
+3. Memenuhi persyaratan kesehatan untuk kelancaran proses studi pada program studi yang dipilih.
+4. Tidak wajib mengikuti UTBK-SNBT terlebih dahulu untuk mendaftar jalur ini.
+5. Pendaftar yang telah lolos dan daftar ulang pada jalur SNBP/SNBT tidak diperkenankan mendaftar di jalur mandiri UM (sesuai ketentuan Permendikbud No. 62 Tahun 2023).
 
-Masa Sanggah: 20 – 24 Juni 2026.
-Registrasi Online: 20 – 25 Juni 2026.
-Pembayaran IPI dan UKT: 20 – 26 Juni 2026.
-Awal Perkuliahan: 25 Agustus 2026.
-2. Lokasi Pelaksanaan TMBK UM
-Untuk memudahkan peserta, Universitas Negeri Malang menyelenggarakan tes di beberapa titik
-di Indonesia. Peserta disarankan memilih lokasi yang paling dekat dengan domisili saat ini:
-Medan: Bertempat di SMAN 1 Medan.
-Jakarta: Bertempat di SMAN 71 Jakarta.
-Yogyakarta: Bertempat di SMKN 7 Yogyakarta.
-Balikpapan: Bertempat di SMAN 1 Balikpapan.
-Lombok: Bertempat di SMAN 1 Mataram.
-Bandung: Bertempat di SMKN PU Bandung.
-Malang: Bertempat di Kampus Utama Universitas Negeri Malang (UM).
-Catatan Penting untuk Calon Pendaftar:
-Pastikan Anda memperhatikan perbedaan tenggat waktu pendaftaran antar lokasi agar
-tidak terlewat.
-Pemilihan lokasi tes dilakukan pada saat pengisian formulir pendaftaran secara online.
-Pastikan hadir di lokasi tes sesuai dengan jadwal yang tertera pada kartu peserta masing-
-masing.
-4. Berkas yang Diunggah
-Peserta wajib menyiapkan dan mengunggah dokumen digital:
-Ijazah atau Surat Keterangan Lulus (SKL).
-Pasfoto berwarna terbaru.
-Kartu Tanda Penduduk (KTP) atau Kartu Keluarga (KK).
-Sumber:https://seleksi.um.ac.id/sm-tmbk/
-5. Tata Cara Pendaftaran
-1. Pendaftaran Akun: Akses portal seleksi resmi UM.
-2. Pengisian Data: Lengkapi biodata dan unggah berkas.
-3. Pilihan Prodi & Lokasi: Pilih program studi dan lokasi ujian (Kota) yang diinginkan.
-4. Pembayaran: Melalui bank mitra (Mandiri, BNI, BRI, BTN, CIMB Niaga).
-5. Cetak Kartu: Kartu berisi detail Tanggal, Sesi, dan Ruang Ujian.
-Panduan E-Payment:https://support.um.ac.id/topic/epayment/
+### Di mana saja lokasi pelaksanaan ujian Seleksi Mandiri Jalur TMBK UM?
+Untuk memudahkan peserta dari luar daerah, tes TMBK UM diselenggarakan di beberapa titik lokasi ujian:
+1. **Malang:** Kampus Utama Universitas Negeri Malang (UM).
+2. **Jakarta:** SMAN 71 Jakarta.
+3. **Bandung:** SMKN PU Bandung.
+4. **Yogyakarta:** SMKN 7 Yogyakarta.
+5. **Balikpapan:** SMAN 1 Balikpapan.
+6. **Lombok:** SMAN 1 Mataram.
+7. **Medan:** SMAN 1 Medan.
+*Catatan: Pemilihan lokasi tes dilakukan saat pengisian formulir pendaftaran online. Apabila kuota di kota mitra sudah terpenuhi, peserta wajib memilih lokasi ujian di Kampus UM Malang.*
 
-6. Pelaksanaan Seleksi dan Lokasi
-Materi: Tes Potensi Akademik (TPA).
-Verifikasi Lokasi: Peserta harus memilih lokasi ujian saat mendaftar. Jika kuota di kota
-mitra (Jakarta, Bandung, Yogyakarta, Lombok, Balikpapan, atau Medan) sudah terpenuhi,
-peserta wajib memilih lokasi ujian di Kampus UM Malang.
-Ketentuan Teknis:https://seleksi.um.ac.id/faq/
-7. Pilihan Program Studi
-Maksimal 2 (dua) program studi (D3/D4/S1).
-Daftar Prodi:https://seleksi.um.ac.id/sm-tmbk/
-8. Biaya Pendidikan
-Mengacu pada kategori UKT dan IPI yang ditetapkan universitas sesuai kebijakan tahun berjalan.
-Informasi Biaya:https://seleksi.um.ac.id/biaya-pendidikan/
-Catatan Penting untuk AI:
-1. Batas pendaftaran untuk Jakarta, Bandung, Yogyakarta, dan Lombok berakhir paling awal.
-2. Lokasi UM (Malang) memiliki masa pendaftaran terlama.
-3. Pengumuman dan proses registrasi dilakukan serentak di seluruh lokasi pada tanggal yang
-sama.
+### Kapan jadwal pendaftaran dan ujian Seleksi Mandiri Jalur TMBK UM 2026?
+Jadwal pendaftaran dan pelaksanaan ujian TMBK bervariasi sesuai lokasi yang dipilih:
+- **Jakarta & Balikpapan:** Pendaftaran 1 April – 3 Juni 2026 | Ujian 6 – 7 Juni 2026.
+- **Bandung, Lombok, Yogyakarta, & Medan:** Pendaftaran 1 April – 5 Juni 2026 | Ujian 8 – 9 Juni 2026.
+- **Malang (Kampus UM):** Pendaftaran 1 April – 8 Juni 2026 | Ujian 12 – 13 Juni 2026.
+- **Agenda Bersama Seluruh Lokasi:**
+  - Pengumuman Hasil Seleksi: 20 Juni 2026.
+  - Masa Sanggah: 20 – 24 Juni 2026.
+  - Registrasi Online: 20 – 25 Juni 2026.
+  - Pembayaran IPI dan UKT: 20 – 26 Juni 2026.
+  - Awal Perkuliahan Serentak: 25 Agustus 2026.
+
+### Apa saja berkas yang harus disiapkan dan diunggah untuk TMBK UM?
+Peserta wajib mengunggah berkas digital scan dokumen asli (format JPG/PDF, ukuran maksimal 2MB):
+1. Ijazah atau Surat Keterangan Lulus (SKL).
+2. Pasfoto berwarna terbaru (standar ijazah, wajah menghadap depan, ukuran 4x6 cm).
+3. Kartu Tanda Penduduk (KTP) atau Kartu Keluarga (KK).
+4. Surat Keterangan Penghasilan Orang Tua/Daftar Gaji resmi.
+5. Bukti Pembayaran Pajak Bumi dan Bangunan (PBB) terbaru serta foto kondisi rumah.
+6. Surat Pernyataan Kesanggupan Membayar Biaya Pendidikan resmi UM.
+
+### Bagaimana tata cara pendaftaran Seleksi Mandiri Jalur TMBK UM?
+Alur pendaftaran resmi TMBK UM:
+1. Akses portal seleksi resmi UM di https://seleksi.um.ac.id/app/ dan buat akun baru.
+2. Lengkapi biodata diri dan unggah berkas persyaratan sesuai ketentuan.
+3. Pilih program studi dan pilih kota lokasi ujian TMBK yang diinginkan.
+4. Lakukan pembayaran biaya pendaftaran sebesar Rp300.000,00 melalui bank mitra (BRI, BNI, BTN, Mandiri, CIMB Niaga, atau Bank Jatim). Panduan bayar: https://support.um.ac.id/topic/epayment/
+5. Cetak Kartu Tanda Bukti Peserta yang memuat tanggal, sesi waktu, dan ruang ujian.
+
+### Berapa pilihan program studi dan bagaimana ketentuan biaya pendidikan TMBK UM?
+- **Pilihan Program Studi:** Peserta dapat memilih program studi jenjang Sarjana (S1) dan/atau Sarjana Terapan (D4), serta diperbolehkan memilih program studi lintas jurusan dari sekolah asal.
+- **Biaya Pendidikan:** Terdiri dari Uang Kuliah Tunggal (UKT) yang dibayarkan setiap semester dan Iuran Pengembangan Institusi (IPI) yang dibayarkan satu kali di awal perkuliahan sesuai kategori dan program studi. Informasi nominal rincian biaya: https://seleksi.um.ac.id/biaya-pendidikan/
+- Biaya pendaftaran dan biaya pendidikan yang sudah dibayarkan tidak dapat ditarik kembali dengan alasan apapun.
