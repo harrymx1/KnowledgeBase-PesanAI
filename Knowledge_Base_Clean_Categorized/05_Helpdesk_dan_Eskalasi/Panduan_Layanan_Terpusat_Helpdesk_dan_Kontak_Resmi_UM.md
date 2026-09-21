@@ -1,7 +1,7 @@
 # Panduan Layanan Terpusat Helpdesk dan Kontak Resmi Universitas Negeri Malang
 
 > **Kategori:** `helpdesk`  
-> **Department:** `IT Helpdesk`  
+> **Department:** `General Service`  
 > **Target Pengguna:** Calon Mahasiswa Baru, Mahasiswa Aktif, Dosen, Tenaga Kependidikan, Alumni, dan Masyarakat Umum  
 > **Status:** Resmi Aktif  
 > **Sumber Dokumen:** Pusat Layanan Terpadu & Subdirektorat Layanan Pendidikan UM

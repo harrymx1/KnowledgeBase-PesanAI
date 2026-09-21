@@ -1,7 +1,7 @@
 # Profil Universitas Negeri Malang dan Layanan Informasi Publik (PPID)
 
 > **Kategori:** `helpdesk`  
-> **Department:** `IT Helpdesk`  
+> **Department:** `General Service`  
 > **Target Pengguna:** Mahasiswa, Dosen, Peneliti, Media, Lembaga Eksternal, dan Masyarakat Umum  
 > **Status:** Resmi Aktif  
 > **Sumber Dokumen:** Profil Institusi Resmi UM, Portal PPID UM, dan Peraturan Rektor Nomor 12 Tahun 2025
