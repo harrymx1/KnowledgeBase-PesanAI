@@ -1,4 +1,6 @@
-# Pedoman Seleksi Mandiri Jalur Prestasi Universitas Negeri Malang (UM) 2026
+# Optimize Pedoman Seleksi Mandiri Jalur Prestasi UM 2026 with explicit question headings
+
+content = """# Pedoman Seleksi Mandiri Jalur Prestasi Universitas Negeri Malang (UM) 2026
 > **Sumber Dokumen:** `Pedoman+Seleksi+Mandiri+Jalur+Prestasi+UM+2026.pdf`  
 > **Kategori:** `01_PMB_Penerimaan_Mahasiswa_Baru`
 > **Pranala Resmi:** `https://seleksi.um.ac.id/sm-prestasi/`
@@ -43,3 +45,9 @@ Seleksi Mandiri Jalur Prestasi UM dilaksanakan melalui dua tahapan seleksi:
 - **Tahap I (Seleksi Administrasi):** Verifikasi berkas dokumen digital dan portofolio prestasi peserta oleh panitia.
 - **Tahap II (Praktik / Unjuk Prestasi):** Peserta yang lolos administrasi diundang untuk mengikuti tes unjuk keterampilan/prestasi secara langsung (luring) di kampus Universitas Negeri Malang. Hasil unjuk prestasi ini sekaligus menentukan kategori beasiswa yang diperoleh peserta.
 - **Biaya Pendidikan:** Mahasiswa yang diterima dikenakan UKT (Uang Kuliah Tunggal) dan IPI (Iuran Pengembangan Institusi) sesuai ketentuan program studi yang dipilih.
+"""
+
+with open("Knowledge_Base_Clean_Categorized/01_PMB_Penerimaan_Mahasiswa_Baru/Pedoman Seleksi Mandiri Jalur Prestasi UM 2026.md", "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Pedoman Seleksi Mandiri Jalur Prestasi UM 2026 successfully optimized!")
