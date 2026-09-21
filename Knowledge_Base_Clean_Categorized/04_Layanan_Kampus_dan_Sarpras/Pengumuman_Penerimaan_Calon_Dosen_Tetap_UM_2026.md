@@ -24,12 +24,28 @@ Jadwal dan alur seleksi penerimaan Calon Dosen Tetap Universitas Negeri Malang (
 
 ## 2. Persyaratan Kualifikasi Pendidikan, Usia, IPK & Kemampuan Bahasa Inggris
 
+### Apa saja syarat kualifikasi pendidikan untuk pendaftaran Dosen Tetap UM tahun 2026?
+Syarat kualifikasi pendidikan dan kriteria seleksi Calon Dosen Tetap Universitas Negeri Malang (UM) Tahun 2026:
+- **Kualifikasi Pendidikan & Linieritas:**
+  - Jenjang pendidikan pelamar minimal **Magister (S2/Sp-1)** atau **Doktor (S3/Sp-2)** yang linier dengan bidang ilmu formasi yang dilamar.
+  - Lulusan dari Perguruan Tinggi dalam negeri dengan akreditasi institusi dan program studi minimal **A / Unggul**, atau Perguruan Tinggi luar negeri yang ijazahnya telah disetarakan oleh kementerian terkait (Kemendikbudristek).
+- **Syarat IPK Minimal:**
+  - Jenjang S1 / D4: minimal **3,00**
+  - Jenjang S2 / Sp-1: minimal **3,25**
+  - Jenjang S3 / Sp-2: minimal **3,50** (dari skala 4,00).
+- **Batas Usia Maksimal (per 1 April 2026):**
+  - Pelamar dengan kualifikasi lulusan S2/Sp-1 maksimal berusia **35 tahun 0 bulan 0 hari**.
+  - Pelamar dengan kualifikasi lulusan S3/Sp-2 maksimal berusia **45 tahun 0 bulan 0 hari**.
+- **Kemampuan Bahasa Inggris (TOEFL/IELTS):**
+  - Memiliki sertifikat TOEFL minimal **475** atau IELTS minimal **5,5** dari lembaga bahasa kredibel yang masih berlaku.
+  - Khusus pelamar formasi peminatan S1 Pendidikan Bahasa Inggris wajib memiliki skor minimal TOEFL **550** atau IELTS **7,0**.
+- **Kualifikasi Publikasi Ilmiah:** Memiliki minimal 1 (satu) artikel ilmiah sebagai penulis pertama (*first author*) yang diterbitkan pada jurnal nasional terakreditasi minimal **SINTA 3** atau jurnal internasional bereputasi terindeks **Scopus / Web of Science (WoS)**.
+
 ### Berapa batas usia maksimal, syarat IPK, dan minimal TOEFL untuk mendaftar seleksi calon dosen tetap UM?
 Syarat batas usia maksimal, IPK, dan skor TOEFL untuk mendaftar seleksi Calon Dosen Tetap UM via https://rekrutmen.um.ac.id:
-- **Batas Usia Maksimal (per 1 April 2026):** Lulusan S2/Sp-1 maksimal **35 tahun 0 bulan 0 hari**; lulusan S3/Sp-2 maksimal **45 tahun 0 bulan 0 hari**.
-- **Syarat IPK Minimal:** S1/D4 minimal **3,00** | S2/Sp-1 minimal **3,25** | S3/Sp-2 minimal **3,50** dari skala 4,00.
-- **Syarat Minimal TOEFL:** Sertifikat TOEFL minimal **475** atau IELTS minimal **5,5** dari lembaga bahasa kredibel (khusus pelamar peminatan S1 Pendidikan Bahasa Inggris minimal TOEFL 550 atau IELTS 7,0).
-- **Kualifikasi Pendidikan & Publikasi:** Lulusan linear dari PT akreditasi minimal A/Unggul, serta memiliki artikel ilmiah penulis pertama pada jurnal minimal **SINTA 3** atau jurnal internasional terindeks **Scopus/WoS**.
+- **Batas Usia Maksimal:** S2 maksimal 35 tahun, S3 maksimal 45 tahun per 1 April 2026.
+- **IPK Minimal:** S1 minimal 3,00 | S2 minimal 3,25 | S3 minimal 3,50.
+- **Minimal TOEFL:** Skor 475 atau IELTS 5,5 (Bahasa Inggris: TOEFL 550 / IELTS 7,0).
 
 ---
 
