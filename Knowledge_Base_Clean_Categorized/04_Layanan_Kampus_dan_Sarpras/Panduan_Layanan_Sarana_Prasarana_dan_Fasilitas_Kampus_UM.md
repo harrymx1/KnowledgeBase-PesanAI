@@ -10,13 +10,11 @@
 
 ## 1. Asrama Mahasiswa UM (Kampus I, II, dan III)
 
-### Di mana lokasi asrama mahasiswa UM dan bagaimana fasilitas serta layanannya?
-Asrama mahasiswa Universitas Negeri Malang (UM) memiliki kapasitas total 1.481 orang di 3 lokasi kampus:
-- **Kampus I (Jl. Veteran, Kota Malang):** Terdiri dari 7 gedung, yaitu Edelweiss (154 orang), Aster (80 orang), Soka (98 orang), Tulip (273 orang - asrama putri), Lily (132 orang), Dahlia (436 orang), dan Melati (24 orang).
-- **Kampus II (Jl. Ki Ageng Gribig, Sawojajar, Kota Malang):** Asrama Matahari (kapasitas 100 orang).
-- **Kampus III (Jl. Ir. Soekarno No. 1, Kota Blitar):** Asrama Mawar (kapasitas 184 orang).
-- **Fasilitas:** Tempat tidur, lemari, meja belajar, mushola, ruang tamu, ruang makan, televisi, Wi-Fi, area parkir, serta pembinaan keagamaan dan minat bakat.
-- **Ketentuan Sewa:** Selain hunian tahunan untuk mahasiswa reguler, asrama melayani hunian sementara (harian dan bulanan) bagi mahasiswa UM, mahasiswa luar kampus, maupun masyarakat umum. Pengelolaan di bawah Seksi Pengelolaan Asrama, Direktorat Sarana, Prasarana, dan Aset (DSPA) UM.
+### Di mana saja lokasi asrama mahasiswa UM dan apakah masyarakat umum bisa menyewa kamar asrama harian?
+Lokasi asrama mahasiswa Universitas Negeri Malang (UM) dan ketentuan sewa kamar:
+- **Lokasi Asrama:** Berada di 3 kampus dengan kapasitas total 1.481 orang: Kampus I Jl. Veteran Malang (7 asrama: Edelweiss, Aster, Soka, Tulip khusus putri, Lily, Dahlia, Melati); Kampus II Sawojajar (Asrama Matahari); dan Kampus III Kota Blitar (Asrama Mawar).
+- **Fasilitas:** Tempat tidur, lemari, meja belajar, mushola, ruang tamu, ruang makan, TV, Wi-Fi, dan area parkir.
+- **Sewa Kamar Harian Umum:** BISA. Selain hunian tahunan untuk mahasiswa reguler UM, asrama melayani sewa hunian sementara (harian dan bulanan) bagi mahasiswa luar kampus maupun masyarakat umum via Seksi Pengelolaan Asrama DSPA UM.
 
 ---
 
@@ -68,12 +66,12 @@ UM menyediakan kendaraan dinas operasional berupa minibus Hiace, Elf (14–19 ku
 
 ## 7. Sarana Parkir, Gerbang & Car Free Day
 
-### Bagaimana ketentuan parkir di kampus UM dan apakah berbayar?
-Ketentuan perparkiran dan lalu lintas kendaraan di kampus Universitas Negeri Malang:
-- **Tarif Parkir:** Gratis (tidak dipungut biaya) bagi seluruh sivitas akademika dan tamu resmi.
-- **Titik Parkir Utama:** Area selatan Gedung Graha Cakrawala (khusus parkir mobil dan bus besar), basement Gedung Graha Rektorat, Gedung Kuliah Bersama (GKB A19/A20), serta area parkir fakultas.
-- **Akses Gerbang Kampus:** Terdapat 4 gerbang masuk utama (Jl. Semarang, Jl. Surabaya, Jl. Veteran, dan Jl. Ambarawa). Khusus Gerbang Ambarawa hanya diperuntukkan bagi kendaraan roda dua (sepeda motor).
-- **Car Free Day (CFD):** Dilaksanakan setiap hari Jumat di area dalam kampus. Kendaraan bermotor diparkir di kantong parkir dekat pintu masuk kampus.
+### Bagaimana ketentuan parkir kendaraan di kampus UM dan di mana lokasi parkir untuk bus besar?
+Ketentuan parkir kendaraan dan lokasi parkir bus di Universitas Negeri Malang (UM):
+- **Tarif Parkir:** Gratis (tidak dipungut biaya) bagi seluruh sivitas akademika, mahasiswa, dosen, tendik, dan tamu kampus.
+- **Lokasi Parkir Bus Besar:** Seluruh bus besar dan rombongan HANYA diperbolehkan parkir di area kantong parkir utama **selatan Gedung Graha Cakrawala UM**.
+- **Parkir Mobil & Motor:** Tersedia di basement Gedung Graha Rektorat, Gedung Kuliah Bersama (GKB A19/A20), dan area parkir fakultas.
+- **Gerbang Akses Kampus:** 4 gerbang masuk utama (Jl. Semarang, Jl. Surabaya, Jl. Veteran, dan Jl. Ambarawa khusus sepeda motor). Program Car Free Day (CFD) berlaku setiap hari Jumat.
 
 ---
 

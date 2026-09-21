@@ -10,13 +10,13 @@
 
 ## 1. Alur & Prosedur Pengajuan Kerja Sama Mitra
 
-### Bagaimana alur dan tahapan pengajuan kerja sama dengan Universitas Negeri Malang?
-Universitas Negeri Malang (UM) membuka kemitraan kerja sama di bidang pendidikan, penelitian, pengabdian kepada masyarakat, dan program kelembagaan melalui tahapan berikut:
-1. **Menyusun Dokumen Usulan:** Calon mitra menyusun proposal kerja sama yang mencakup profil lembaga, maksud & tujuan, ruang lingkup kegiatan, rencana jadwal pelaksanaan, serta manfaat timbal balik bagi kedua belah pihak.
-2. **Mengirimkan Surat Permohonan Resmi:** Surat resmi ditujukan kepada **Rektor Universitas Negeri Malang** via email `rektor@um.ac.id` atau dikirim fisik via pos/ekspedisi ke Gedung Graha Rektorat UM, Jl. Semarang No. 5, Malang 65145.
-3. **Verifikasi Dokumen:** Subdirektorat Humas dan Kerja Sama UM bersama pimpinan unit/fakultas terkait menelaah kelayakan usulan dan menyesuaikan ruang lingkup kegiatan.
-4. **Penyusunan Naskah Kerja Sama:** Menyusun dokumen resmi berupa MoU (*Memorandum of Understanding*), MoA/PKS (*Perjanjian Kerja Sama*), dan IA (*Implementation Agreement*).
-5. **Penandatanganan Naskah:** Penandatanganan dilakukan secara seremonial atau pertukaran dokumen resmi (*desk-to-desk*).
+### Bagaimana alur dan tahapan pengajuan kerja sama mitra dengan Universitas Negeri Malang via SIKARSA?
+Alur pengajuan dan pengelolaan kemitraan kerja sama di Universitas Negeri Malang (UM) terintegrasi melalui portal resmi **SIKARSA (https://sikarsa.um.ac.id)**:
+1. **Menyusun Dokumen Usulan:** Calon mitra menyusun proposal kerja sama yang mencakup profil lembaga, maksud & tujuan, ruang lingkup kegiatan, rencana pelaksanaan, serta manfaat kedua belah pihak.
+2. **Mengirimkan Surat Permohonan Resmi:** Surat resmi ditujukan kepada **Rektor Universitas Negeri Malang** via email `rektor@um.ac.id` atau fisik via pos ke Gedung Graha Rektorat UM, Jl. Semarang No. 5 Malang 65145.
+3. **Verifikasi Dokumen:** Subdirektorat Humas dan Kerja Sama UM bersama unit/fakultas terkait menelaah kelayakan usulan dan menyesuaikan ruang lingkup kegiatan.
+4. **Penyusunan Naskah Kerja Sama:** Menyusun dokumen resmi berupa MoU (*Memorandum of Understanding*), MoA/PKS (*Perjanjian Kerja Sama*), dan IA (*Implementation Agreement*) yang tercatat di sistem SIKARSA.
+5. **Penandatanganan Naskah:** Dilakukan secara seremonial atau *desk-to-desk*. Rekam jejak dan daftar kerja sama resmi dapat dipantau di https://sikarsa.um.ac.id/report.
 
 ---
 

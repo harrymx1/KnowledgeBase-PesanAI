@@ -24,14 +24,12 @@ Jadwal dan alur seleksi penerimaan Calon Dosen Tetap Universitas Negeri Malang (
 
 ## 2. Persyaratan Kualifikasi Pendidikan, Usia, IPK & Kemampuan Bahasa Inggris
 
-### Apa saja syarat batas usia, IPK minimal, TOEFL, dan publikasi ilmiah calon dosen UM?
-Persyaratan umum dan akademik pelamar Calon Dosen Tetap UM:
-- **Kualifikasi Pendidikan:** Lulusan S1/D4, S2/Sp-1, dan/atau S3/Sp-2 linear dari perguruan tinggi terakreditasi minimal A/Unggul (atau perguruan tinggi luar negeri yang diakui Ditjen Diktisaintek).
-- **Batas Usia (per 1 April 2026):** Pelamar lulusan S2/Sp-1 maksimal **35 tahun 0 bulan 0 hari**; pelamar lulusan S3/Sp-2 maksimal **45 tahun 0 bulan 0 hari**.
-- **Indeks Prestasi Kumulatif (IPK):** S1/D4 minimal 3.00 | S2/Sp-1 minimal 3.25 | S3/Sp-2 minimal 3.50 (skala 4.00).
-- **Kemampuan Bahasa Inggris:** Sertifikat TOEFL minimal **475** atau IELTS minimal **5.5** dari lembaga kredibel (khusus pelamar peminatan S1 Pendidikan Bahasa Inggris minimal TOEFL 550 atau IELTS 7.0).
-- **Publikasi Ilmiah:** Memiliki artikel ilmiah sebagai penulis pertama yang telah dipublikasikan pada Jurnal Nasional terakreditasi minimal **SINTA 3** atau Jurnal Internasional Bereputasi terindeks **Scopus/Web of Science (WoS)**.
-- **Pelamar Terikat Kerja:** Wajib melampirkan surat izin seleksi dan surat kesediaan melepas dari pimpinan instansi asal.
+### Berapa batas usia maksimal, syarat IPK, dan minimal TOEFL untuk mendaftar seleksi calon dosen tetap UM?
+Syarat batas usia maksimal, IPK, dan skor TOEFL untuk mendaftar seleksi Calon Dosen Tetap UM via https://rekrutmen.um.ac.id:
+- **Batas Usia Maksimal (per 1 April 2026):** Lulusan S2/Sp-1 maksimal **35 tahun 0 bulan 0 hari**; lulusan S3/Sp-2 maksimal **45 tahun 0 bulan 0 hari**.
+- **Syarat IPK Minimal:** S1/D4 minimal **3,00** | S2/Sp-1 minimal **3,25** | S3/Sp-2 minimal **3,50** dari skala 4,00.
+- **Syarat Minimal TOEFL:** Sertifikat TOEFL minimal **475** atau IELTS minimal **5,5** dari lembaga bahasa kredibel (khusus pelamar peminatan S1 Pendidikan Bahasa Inggris minimal TOEFL 550 atau IELTS 7,0).
+- **Kualifikasi Pendidikan & Publikasi:** Lulusan linear dari PT akreditasi minimal A/Unggul, serta memiliki artikel ilmiah penulis pertama pada jurnal minimal **SINTA 3** atau jurnal internasional terindeks **Scopus/WoS**.
 
 ---
 
