@@ -1,0 +1,786 @@
+[
+  {
+    "rel_path": "1.+Pengumuman+Pasca+Kegiatan+Pendaftaran+Maba.pdf",
+    "pages": 3,
+    "size_kb": 154.92,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Narasi Jadwal Kegiatan Registrasi Administrasi Calon | Mahasiswa Baru Universitas Negeri Malang (UM) Tahun | Akademik 2026/2027 | Dokumen ini berisi uraian naratif mengenai rangkaian kegiatan pascapendaftaran bagi calon"
+  },
+  {
+    "rel_path": "DAYA+TAMPUNG+PROGRAM+STUDI+&+JADWAL+SELEKSI+MABA+UM+2026.pdf",
+    "pages": 101,
+    "size_kb": 1227.8,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "BAGIAN | I | INFORMASI | SELEKSI"
+  },
+  {
+    "rel_path": "FAQ+_+INFORMASI+DAFTAR+PERTANYAAN+UMUM+YANG+SERING+DISAMPAIKAN.pdf",
+    "pages": 10,
+    "size_kb": 161.27,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "BAGIAN | I | INFORMASI | DAFTAR"
+  },
+  {
+    "rel_path": "Helpdesk+1+Nomor.pdf",
+    "pages": 1,
+    "size_kb": 166.63,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Saat ini Universitas Negeri Malang (UM) menggunakan satu nomor helpdesk terpusat untuk | melayani berbagai pertanyaan, permohonan informasi, dan pengaduan dari sivitas akademika | maupun masyarakat umum. | Apabila ada yang menanyakan nomor helpdesk untuk unit, fakultas, atau layanan tertentu, maka"
+  },
+  {
+    "rel_path": "KNOWLEDGE+BASE+PANDUAN+PENGAJUAN+KERJA+SAMA+DI+UNIVERSITAS+NEGERI+MALANG+(REV).pdf",
+    "pages": 3,
+    "size_kb": 191.91,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "I. KNOWLEDGE BASE PANDUAN PENGAJUAN KERJA SAMA DI | UNIVERSITAS NEGERI MALANG | A. Pendahuluan | Universitas Negeri Malang membuka peluang kerja sama dengan berbagai pihak, baik"
+  },
+  {
+    "rel_path": "knowledger_source_statis.pdf",
+    "pages": 54,
+    "size_kb": 793.5,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "PERATURAN REKTOR UNIVERSITAS NEGERI MALANG | NOMOR 38 TAHUN 2023 | TENTANG | PENGELOLAAN KERJA SAMA"
+  },
+  {
+    "rel_path": "Pengumuman+Penerimaan+Dosen+20+Februari+-++7+April+2026..pdf",
+    "pages": 5,
+    "size_kb": 416.53,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "PENGUMUMAN | Nomor: 19.2.14/UN32/KP/2026 | Tentang | SELEKSI PENERIMAAN CALON DOSEN TETAP"
+  },
+  {
+    "rel_path": "Peniadaan+Car+Free+Day.pdf",
+    "pages": 1,
+    "size_kb": 124.68,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Hal : Meniadakan Car Free Day | Yth. | 1. Para Dosen | 2. Para Tenaga Kependidikan"
+  },
+  {
+    "rel_path": "Sarana+Prasarana+UM.pdf",
+    "pages": 7,
+    "size_kb": 245.37,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SARANA UMUM UNIVERSITAS NEGERI MALANG (UM) AI ASSIST MEKARI QONTAK | Sumber resmi: https://um.ac.id/akademik/sarana-umum/ (berhasil diambil penuh, 13 Agustus 2026). | Sumber TIDAK dapat diakses: KEP NO 2.1.412/UN32.KU/2020 — Tarif Layanan Penggunaan Gedung, | Sarana Olahraga, dan Asrama Mahasiswa UM (PDF hasil scan tanpa lapisan teks, tidak bisa diekstrak)."
+  },
+  {
+    "rel_path": "SKB_Libur_Nasional_dan_Cuti_Bersama_Tahun_2026.pdf",
+    "pages": 4,
+    "size_kb": 1031.92,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": ""
+  },
+  {
+    "rel_path": "Transfer_Knowledge (1).pdf",
+    "pages": 77,
+    "size_kb": 9557.19,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Bahan Chatbot AI Layanan UM | 1. Kampus Inklusif |  https://um.ac.id/gic-2025-semangat-um-wujudkan-kampus-ramah- | disabilitas/"
+  },
+  {
+    "rel_path": "Transfer_Knowledge (2)_compressed.pdf",
+    "pages": 257,
+    "size_kb": 25449.34,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Bahan Chatbot AI Layanan UM | 1. Kampus Inklusif |  https://um.ac.id/gic-2025-semangat-um-wujudkan-kampus-ramah- | disabilitas/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\info s.d 24 Agustus 2026 - Pengumuman Registrasi Administrasi Calon Mahasiswa Baru Universitas Negeri Malang (UM) Jalur SNBP Tahun Akademik 2026-2027.pdf",
+    "pages": 3,
+    "size_kb": 425.25,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Pengumuman Registrasi Administrasi Calon Mahasiswa Baru | Universitas Negeri Malang (UM) Jalur SNBP Tahun Akademik | 2026/2027 | by Registrasi | Mar 31, 2026 | Berita"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Informasi dan Panduan Seleksi Magister dan Doktor tahun 2026.pdf",
+    "pages": 8,
+    "size_kb": 431.57,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Panduan Lengkap Seleksi Mandiri Magister (S2) dan Doktor (S3) | Universitas Negeri Malang (UM) - Semester Gasal 2026/2027 | Universitas Negeri Malang menyelenggarakan Seleksi Mandiri untuk menerima mahasiswa baru | program Magister dan Doktor pada semester Gasal tahun akademik 2026/2027."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Informasi+dan+Panduan+RPL+Sarjana+dan+Magister+Universitas+Negeri+Malang+tahun+2026.pdf",
+    "pages": 11,
+    "size_kb": 541.08,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Seleksi Mandiri Program Rekognisi Pembelajaran Lampau (RPL) | Semester Gasal 2026/2027 | Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang | yang diperoleh dari pendidikan formal, nonformal, informal, dan/atau pengalaman kerja sebagai"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+Akselerasi+Internal+UM.pdf",
+    "pages": 7,
+    "size_kb": 243.05,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | PROGRAM AKSELERASI (FAST-TRACK) INTERNAL UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/akselerasi-internal/ Tanggal acuan data: 10 | Agustus 2026 Catatan penting: Mekari Qontak tidak dapat membaca tanggal secara"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+Evaluasi+PBM+-+Registrasi+-+KRS+2.pdf",
+    "pages": 6,
+    "size_kb": 247.88,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — PENGISIAN EVALUASI PBM (PROSES BELAJAR MENGAJAR) DI SIAKAD AI ASSIST | MEKARI QONTAK — UNIVERSITAS NEGERI MALANG (UM) Segmen: MAHASISWA AKTIF (bukan calon | mahasiswa baru/masyarakat umum) | Sumber:"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+Evaluasi+PBM+-+Registrasi+-+KRS.pdf",
+    "pages": 6,
+    "size_kb": 247.73,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — PENGISIAN EVALUASI PBM (PROSES BELAJAR MENGAJAR) DI SIAKAD AI ASSIST | MEKARI QONTAK — UNIVERSITAS NEGERI MALANG (UM) Segmen: MAHASISWA AKTIF (bukan calon | mahasiswa baru/masyarakat umum) | Sumber:"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+Penurunan+dan+Penarikan+UKT.pdf",
+    "pages": 4,
+    "size_kb": 228.36,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — PANDUAN PEMBEBASAN/PENURUNAN UKT & PENARIKAN UKT-PENDAFTARAN AI | ASSIST MEKARI QONTAK — UNIVERSITAS NEGERI MALANG (UM) Segmen: MAHASISWA AKTIF (bukan | calon mahasiswa baru/masyarakat umum) | Sumber resmi:"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+Proses+Yudisium+-+versi+1.pdf",
+    "pages": 12,
+    "size_kb": 326.31,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — PROSES YUDISIUM PASCA UJIAN AKHIR (SKRIPSI/TESIS/DISERTASI/TUGAS AKHIR) | AI ASSIST MEKARI QONTAK — UNIVERSITAS NEGERI MALANG (UM) Segmen: MAHASISWA AKTIF (bukan | calon mahasiswa baru/masyarakat umum) | Sumber resmi:"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+SM+Doktor+By+Research+UM.pdf",
+    "pages": 11,
+    "size_kb": 289.98,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI DOKTOR PENELITIAN (BY RESEARCH) UNIVERSITAS NEGERI MALANG | (UM) | Sumber resmi: https://seleksi.um.ac.id/sm-doktor-by-research/ Tanggal acuan data: 10"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB+SM+Doktor+Reguler+UM.pdf",
+    "pages": 12,
+    "size_kb": 285.02,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI REGULER DOKTOR UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/sm-doktor-reguler/ Tanggal acuan data: 10 | Agustus 2026 Catatan penting: Mekari Qontak tidak dapat membaca tanggal secara"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\kb_akselerasi_internal.pdf",
+    "pages": 5,
+    "size_kb": 265.69,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | PROGRAM AKSELERASI (FAST-TRACK) INTERNAL UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/akselerasi-internal/ Tanggal acuan data: 9 Juli 2026 Catatan penting: | Mekari Qontak tidak dapat membaca tanggal secara otomatis/dinamis, dan mesin AI Assist tidak dapat"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_FAQ_Umum_KIP_Prosedur.pdf",
+    "pages": 4,
+    "size_kb": 830.25,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Table of Contents | KNOWLEDGE BASE — FAQ UMUM, KIP-K/BEASISWA, PROSEDUR | UMUM & KONTAK | Dokumen Training Source untuk AI Assist Qontak — Helpdesk PMB Universitas Negeri"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_IPI_S1_D4_Deskriptif.pdf",
+    "pages": 2,
+    "size_kb": 11.62,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KB - Bagian B: IPI (Iuran Pengembangan Institusi) S1 & D4 | Dokumen ini menjelaskan besaran Iuran Pengembangan Institusi (IPI) untuk jalur Seleksi Mandiri (SM) UM | tahun 2026, khusus jenjang S1 dan D4. IPI adalah biaya pengembangan institusi yang dibayarkan satu kali oleh | mahasiswa baru jalur mandiri, terpisah dari Uang Kuliah Tunggal (UKT) yang dibayarkan setiap semester. Setiap"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_Jalur_Pendaftaran_SM_2026+(revisi).pdf",
+    "pages": 49,
+    "size_kb": 4438.94,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Table of Contents | KNOWLEDGE BASE — JALUR PENDAFTARAN SELEKSI MANDIRI (SM) | UNIVERSITAS NEGERI MALANG TAHUN 2026 | Dokumen Training Source untuk AI Assist Qontak — Helpdesk PMB Universitas Negeri"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\kb_kemitraan_institusi.pdf",
+    "pages": 6,
+    "size_kb": 266.75,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI JALUR KEMITRAAN INSTITUSI UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/jalur-kemitraan-institusi/ Tanggal acuan data: 7 Juli 2026 Catatan | penting: Mekari Qontak tidak dapat membaca tanggal secara otomatis/dinamis. Seluruh status"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\kb_kemitraan_outbound_mobility.pdf",
+    "pages": 6,
+    "size_kb": 278.72,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI JALUR KEMITRAAN SKEMA OUTBOUND MOBILITY UNIVERSITAS NEGERI | MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/jalur-kemitraan-skema-outbound-mobility/ Tanggal acuan data: 7"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_Legalisir_Ijazah_UM.pdf",
+    "pages": 3,
+    "size_kb": 152.17,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE: LEGALISIR IJAZAH ONLINE (e- | LEGALISIR UM) | A. Tutorial / Tata Cara | Langkah-langkah umum melakukan legalisir ijazah elektronik"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_ProgramStudi_Fakultas_DayaTampung.pdf",
+    "pages": 9,
+    "size_kb": 851.34,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Table of Contents | KNOWLEDGE BASE — PROGRAM STUDI, FAKULTAS & DAYA | TAMPUNG UNIVERSITAS NEGERI MALANG TAHUN 2026 | Dokumen Training Source untuk AI Assist Qontak — Helpdesk PMB Universitas Negeri"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\kb_sm_doktor_by_research.pdf",
+    "pages": 8,
+    "size_kb": 297.12,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI DOKTOR PENELITIAN (BY RESEARCH) UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/sm-doktor-by-research/ Tanggal acuan data: 9 Juli 2026 Catatan | penting: Mekari Qontak tidak dapat membaca tanggal secara otomatis/dinamis, dan mesin AI Assist tidak"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\kb_sm_doktor_reguler.pdf",
+    "pages": 8,
+    "size_kb": 299.46,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — AI ASSIST MEKARI QONTAK | SELEKSI MANDIRI REGULER DOKTOR UNIVERSITAS NEGERI MALANG (UM) | Sumber resmi: https://seleksi.um.ac.id/sm-doktor-reguler/ Tanggal acuan data: 9 Juli 2026 Catatan penting: | Mekari Qontak tidak dapat membaca tanggal secara otomatis/dinamis, dan mesin AI Assist tidak dapat"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Double_Degree_UM.pdf",
+    "pages": 7,
+    "size_kb": 376.49,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — MASTER'S | DOUBLE DEGREE (M.Pd & M.A) | EDUCATIONAL TECHNOLOGY AND | DESIGNING EDUCATION UNIVERSITAS"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Bapres_PPMI_UM.pdf",
+    "pages": 5,
+    "size_kb": 151.31,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri | Jalur Bapres PPMI Universitas Negeri | Malang (UM) Tahun Akademik | 2026/2027"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Kemitraan_Mitra_Asuh_UM.pdf",
+    "pages": 10,
+    "size_kb": 401.77,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | JALUR KEMITRAAN SKEMA ORANG TUA | ASUH (MITRA ASUH) UNIVERSITAS | NEGERI MALANG"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Leadership_UM.pdf",
+    "pages": 9,
+    "size_kb": 401.76,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | (SM) JALUR LEADERSHIP UNIVERSITAS | NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-leadership/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Prestasi_UM_1.pdf",
+    "pages": 12,
+    "size_kb": 419.08,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | (SM) JALUR PRESTASI UNIVERSITAS | NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-prestasi/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Skor_UTBK_UM+(1).pdf",
+    "pages": 15,
+    "size_kb": 299.02,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI (SM) JALUR SKOR UTBK | UNIVERSITAS NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-skor-utbk/ | Tanggal acuan penyusunan: 10 Agustus 2026"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Skor_UTBK_UM++Revisi+gel.+4.pdf",
+    "pages": 13,
+    "size_kb": 479.5,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | (SM) JALUR SKOR UTBK UNIVERSITAS | NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-skor-utbk/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Skor_UTBK_UM.pdf",
+    "pages": 11,
+    "size_kb": 440.33,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | (SM) JALUR SKOR UTBK UNIVERSITAS | NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-skor-utbk/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_Skor_UTBK_UM_+Tambahan+Gelombang+4.pdf",
+    "pages": 13,
+    "size_kb": 479.5,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI | (SM) JALUR SKOR UTBK UNIVERSITAS | NEGERI MALANG | Sumber: https://seleksi.um.ac.id/sm-jalur-skor-utbk/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Jalur_TMBK_UM.pdf",
+    "pages": 6,
+    "size_kb": 162.62,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri | Jalur Tes Masuk Berbasis Komputer | (TMBK) Universitas Negeri Malang | (UM) Tahun Akademik 2026/2027"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Kelas_Internasional_UM.pdf",
+    "pages": 6,
+    "size_kb": 172.38,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri | Kelas Internasional Universitas Negeri | Malang (UM) Tahun Akademik | 2026/2027"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Magister_Reguler_UM (1).pdf",
+    "pages": 11,
+    "size_kb": 4082.51,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri Reguler Magister (S2) Universitas Negeri Malang (UM) | Tahun Akademik 2026/2027 | Sumber utama: https://seleksi.um.ac.id/sm-magister-reguler/ | Acuan tanggal: 10 Agustus 2026"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_Magister_Reguler_UM.pdf",
+    "pages": 7,
+    "size_kb": 169.02,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri | Reguler Magister (S2) Universitas | Negeri Malang (UM) Tahun Akademik | 2026/2027"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_PJJ_Magister_UM.pdf",
+    "pages": 7,
+    "size_kb": 216.75,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI MANDIRI (SM) PROGRAM JARAK JAUH | (PJJ) MAGISTER (S2) UNIVERSITAS NEGERI MALANG (UM) TAHUN | AKADEMIK 2026/2027 | Sumber utama: https://seleksi.um.ac.id/sm-program-jarak-jauh/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_RPL_Magister_UM+(1).pdf",
+    "pages": 8,
+    "size_kb": 254.59,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri Rekognisi Pembelajaran Lampau | (RPL) untuk Magister (S2) Universitas Negeri Malang (UM) Tahun | Akademik 2026/2027 | Sumber utama: https://seleksi.um.ac.id/rekognisi-pembelajaran-lampau/"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SM_RPL_Magister_UM.pdf",
+    "pages": 5,
+    "size_kb": 148.16,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Mandiri | Rekognisi Pembelajaran Lampau (RPL) | untuk Magister (S2) Universitas Negeri | Malang (UM) Tahun Akademik"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SNBP_UM.pdf",
+    "pages": 5,
+    "size_kb": 159.69,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base — Seleksi Nasional | Berdasarkan Prestasi (SNBP) | Universitas Negeri Malang (UM) | Tahun Akademik 2026/2027"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SNBT_UM+(1).pdf",
+    "pages": 9,
+    "size_kb": 288.48,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI NASIONAL BERDASARKAN TES | (SNBT/UTBK) UNIVERSITAS NEGERI MALANG | Sumber: https://seleksi.um.ac.id/seleksi-nasional-berdasarkan-test/ , https://snpmb.id/ , | https://snpmb.id/faq"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_SNBT_UM.pdf",
+    "pages": 9,
+    "size_kb": 405.62,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — SELEKSI | NASIONAL BERDASARKAN TES | (SNBT/UTBK) UNIVERSITAS NEGERI | MALANG"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KB_Status_Aksi_Template_6Juli2026.pdf",
+    "pages": 7,
+    "size_kb": 4058.95,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KB — STATUS JALUR, AKSI/KEGIATAN & TEMPLATE | JAWABAN (PER TANGGAL ACUAN: 6 JULI 2026) | Dokumen Training Source untuk AI Assist Qontak — Helpdesk PMB Universitas Negeri Malang. Versi ini | melengkapi versi sebelumnya dengan dua tambahan penting: (1) status disusun per AKSI/kegiatan (bukan hanya"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Knowledge Source New Revisi 1.pdf",
+    "pages": 59,
+    "size_kb": 800.51,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | 1. Pengisian PBM yang terlambat | Pengisian PBM dilakukan sesuai Jadwal Kegiatan Akhir Semester, Mis semester Gasal | 2025/2026 dilakukan tanggal 16 Desember 2025 – 05 Januari 2026."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KNOWLEDGE+BASE+CHATBOT++Semester+Antara+atau+pendek+di+Universitas+Negeri+Malang+(UM)++Intent-+penjelasan_semester_antara+atau+pendek.docx.pdf",
+    "pages": 8,
+    "size_kb": 169.17,
+    "has_intent": true,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE | BASE | CHATBOT | Semester"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Knowledge+Base+FAQ+REGISTRASI+MAHASISWA+BARU.docx.pdf",
+    "pages": 4,
+    "size_kb": 126.76,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge | Base | FAQ | Pendaftaran"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Knowledge+Base+FAQ+REGISTRASI+MAHASISWA+BARU.pdf",
+    "pages": 4,
+    "size_kb": 249.98,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base FAQ Pendaftaran Mahasiswa Baru | Universitas Negeri Malang | Dokumen ini digunakan sebagai basis pengetahuan (knowledge base)  untuk chatbot | Helpdesk dalam menjawab pertanyaan calon mahasiswa terkait proses pendaftaran di"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Knowledge+Base+Registrasi+Mahasiswa+Baru+Universitas+Negeri+Malang.docx.pdf",
+    "pages": 5,
+    "size_kb": 122.13,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge | Base | Registrasi | Mahasiswa"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Knowledge+Base+Registrasi+SNBP+UM.pdf",
+    "pages": 3,
+    "size_kb": 79.61,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Basis | Pengetahuan | Registrasi | Mahasiswa"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\knowledge+source+dinamis+kemahasiswaan-REV+1 (2).pdf",
+    "pages": 24,
+    "size_kb": 435.52,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | A. Pengisian PBM yang Terlambat | Pengisian PBM dilakukan sesuai dengan Jadwal Kegiatan Akhir Semester, misalnya"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\knowledge+source+dinamis+kemahasiswaan.pdf",
+    "pages": 23,
+    "size_kb": 732.68,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | A. Pengisian PBM yang Terlambat | Pengisian PBM dilakukan sesuai dengan Jadwal Kegiatan Akhir Semester, misalnya"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\knowledge-source+new.pdf",
+    "pages": 84,
+    "size_kb": 1377.93,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | 1. Pengisian PBM yang terlambat | Pengisian PBM dilakukan sesuai Jadwal Kegiatan Akhir Semester, Mis semester Gasal | 2025/2026 dilakukan tanggal 16 Desember 2025 – 05 Januari 2026."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\knowledge-source_19-01-2026.pdf",
+    "pages": 86,
+    "size_kb": 1690.44,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PERTANYAAN DAN JAWABAN SEKITAR KRS DAN PBM | 1. Pengisian PBM yang terlambat | Pengisian PBM dilakukan sesuai Jadwal Kegiatan Akhir Semester, Misal semester Gasal | 2025/2026 dilakukan tanggal 16 Desember 2025 – 05 Januari 2026."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\KNOWLEDGE_BASE_ALL_PENERIMAAN_MABA (TRIASE).pdf",
+    "pages": 7,
+    "size_kb": 4032.22,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — PROGRAM AKSELERASI (FAST-TRACK) INTERNAL UNIVERSITAS NEGERI MALANG | Sumber resmi: https://seleksi.um.ac.id/akselerasi-internal/ | Tanggal acuan penyusunan KB: 13 Agustus 2026 | Tujuan: Bahan jawaban AI Assist Mekari Qontak — Helpdesk 1 Nomor UM"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Panduan Registrasi 1 Atap SNBP 2026.pdf",
+    "pages": 2,
+    "size_kb": 199.86,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Panduan Basis Pengetahuan (Knowledge Base) Chatbot SNBP UM | 2026 | Dokumen ini berfungsi sebagai instruksi sistem (system prompt) dan pangkalan data untuk | chatbot kecerdasan buatan (AI) guna melayani informasi registrasi calon mahasiswa baru"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Panduan+Registrasi+Mahasiswa+Baru+Jalur+Masuk+SNBP.pdf",
+    "pages": 6,
+    "size_kb": 257.04,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Panduan Registrasi Mahasiswa Baru Jalur Masuk SNBP (Prestasi) | Universitas Negeri Malang | Panduan ini disusun sebagai acuan informasi bagi calon mahasiswa yang akan melakukan | proses pendaftaran di Universitas Negeri Malang. Informasi dalam panduan ini juga"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pedoman Seleksi Mandiri Jalur Tes Masuk Berbasis Komputer (TMBK).pdf",
+    "pages": 3,
+    "size_kb": 155.72,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Pedoman Pengetahuan: Seleksi Mandiri Jalur Tes Masuk Berbasis | Komputer (TMBK) UM | Pedoman ini disusun sebagai sumber informasi formal bagi AI mengenai mekanisme Seleksi | Mandiri Jalur TMBK di Universitas Negeri Malang (UM)."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pedoman+Seleksi+Mandiri+Jalur+Leadership+UM+2026.pdf",
+    "pages": 6,
+    "size_kb": 246.43,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "I. METADATA IDENTIFIKASI JALUR SELEKSI KHUSUS PEDOMAN | PENGETAHUAN: SELEKSI MANDIRI JALUR KEPEMIMPINAN | (SMLEADERSHIP) TAHUN 2026 | METADATA SELEKSI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pedoman+Seleksi+Mandiri+Jalur+Prestasi+UM+2026.pdf",
+    "pages": 3,
+    "size_kb": 158.34,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Pedoman Knowledge AI: Seleksi Mandiri Jalur Prestasi Universitas | Negeri Malang (UM) | Dokumen ini disusun sebagai basis pengetahuan (knowledge base) untuk AI mengenai | mekanisme Seleksi Mandiri (SM) Jalur Prestasi di Universitas Negeri Malang."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pedoman+Seleksi+Mandiri+Jalur+Skor+UTBK+UM+2026.pdf",
+    "pages": 6,
+    "size_kb": 272.45,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "A. METADATA IDENTIFIKASI JALUR SELEKSI KHUSUS PEDOMAN | PENGETAHUAN SELEKSI MANDIRI UNIVERSITAS NEGERI MALANG | (UM) | METADATA DOKUMEN (Parameter AI)"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pedoman+Seleksi+Mandiri+Kemitraan+UM.pdf",
+    "pages": 3,
+    "size_kb": 185.91,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Pedoman Seleksi Mandiri Jalur Kemitraan Institusi - Universitas | Negeri Malang (UM) 2026 | Dokumen ini berisi ringkasan informasi resmi untuk memudahkan pemahaman AI terhadap | prosedur Seleksi Mandiri (SM) Jalur Kemitraan Institusi di Universitas Negeri Malang."
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Pengumuman+Registrasi+Administrasi+Calon+Mahasiswa+Baru+Sarjana+.pdf",
+    "pages": 2,
+    "size_kb": 66.59,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Pengumuman | Registrasi | Administrasi | Calon"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Registrasi+Administrasi+Calon+Mahasiswa+Baru+Universitas+Negeri+Malang+(UM)+Calon+Penerima+Beasiswa+KIP-K+Jalur+SNBT+Tahun+Akademik+2026_2027.pdf",
+    "pages": 3,
+    "size_kb": 61.65,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Registrasi | Administrasi | Calon | Mahasiswa"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\Registrasi+Administrasi+Calon+Mahasiswa+Baru+Universitas+Negeri+Malang+(UM)+Jalur+SNBT+Tahun+Akademik+2026_2027.pdf",
+    "pages": 3,
+    "size_kb": 75.29,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Registrasi | Administrasi | Calon | Mahasiswa"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+MANDIRI+JALUR+PRESTASI.pdf",
+    "pages": 28,
+    "size_kb": 319.78,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "BAGIAN | I | INFORMASI | SELEKSI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+MANDIRI+JALUR+SKOR+UTBK+V4.pdf",
+    "pages": 11,
+    "size_kb": 170.67,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "BAGIAN | I | SELEKSI | MANDIRI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+MANDIRI+JALUR+SKOR+UTBK.pdf",
+    "pages": 23,
+    "size_kb": 218.76,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "BAGIAN | I | SELEKSI | MANDIRI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+MANDIRI+JALUR+TES+MASUK+BERBASIS+KOMPUTER.pdf",
+    "pages": 17,
+    "size_kb": 163.29,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "BAGIAN | I | INFORMASI | SELEKSI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+MANDIRI+KELAS+INTERNASIONAL.pdf",
+    "pages": 28,
+    "size_kb": 268.23,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "BAGIAN | I | SELEKSI | MANDIRI"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SELEKSI+PROGRAM+SARJANA+DI+UNIVERSITAS+NEGERI+MALANG+TAHUN+2026.pdf",
+    "pages": 9,
+    "size_kb": 559.46,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PEDOMAN SELEKSI PROGRAM SARJANA | DI UNIVERSITAS NEGERI MALANG | TAHUN 2026 | Seleksi Nasional Penerimaan Mahasiswa Baru (SNPMB)"
+  },
+  {
+    "rel_path": "Informasi Penerimaan Maba\\SM_Jalur_Skor_UTBK_UM.pdf",
+    "pages": 21,
+    "size_kb": 326.63,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "SM Jalur Skor UTBK | Universitas Negeri Malang | Persyaratan | 1. Persyaratan Seleksi"
+  },
+  {
+    "rel_path": "Panduan Siakad\\1) Panduan Aktifasi Akun Siakad UM untuk Mahasiswa Baru UM.pdf",
+    "pages": 3,
+    "size_kb": 144.77,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base: Login SIAKAD UM untuk Mahasiswa Baru (Maba) | Metadata & Keywords | Kategori: Akademik / Teknologi Informasi Target Audiens: Mahasiswa Baru (Maba) Universitas | Negeri Malang (UM) Kata Kunci Utama: Login SIAKAD, NIM Maba, Password SIAKAD, Registrasi"
+  },
+  {
+    "rel_path": "Panduan Siakad\\1) Panduan Siakad Mahasiswa.pdf",
+    "pages": 3,
+    "size_kb": 150.44,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base: Penggunaan SIAKAD UM (Fitur Akademik & | Kemahasiswaan) | Metadata & Keywords | Kategori: Panduan Layanan Akademik Target Audiens: Mahasiswa Aktif Universitas Negeri"
+  },
+  {
+    "rel_path": "Panduan Siakad\\2) Panduan Aktifasi Akun Siakad UM untuk Mahasiswa Baru UM (1).pdf",
+    "pages": 3,
+    "size_kb": 159.97,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base: Login SIAKAD UM untuk Mahasiswa Baru (Maba) | - Teroptimasi | Metadata & Keywords | Kategori: Akademik / Helpdesk ITTarget Audiens: Mahasiswa Baru (Maba) Universitas Negeri"
+  },
+  {
+    "rel_path": "Panduan Siakad\\2) Panduan Aktifasi Akun Siakad UM untuk Mahasiswa Baru UM.pdf",
+    "pages": 3,
+    "size_kb": 159.97,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Knowledge Base: Login SIAKAD UM untuk Mahasiswa Baru (Maba) | - Teroptimasi | Metadata & Keywords | Kategori: Akademik / Helpdesk ITTarget Audiens: Mahasiswa Baru (Maba) Universitas Negeri"
+  },
+  {
+    "rel_path": "Panduan Siakad\\2) Panduan Siakad Mahasiswa.pdf",
+    "pages": 3,
+    "size_kb": 161.69,
+    "has_intent": true,
+    "has_qa": true,
+    "snippet": "Knowledge Base: Penggunaan SIAKAD Universitas Negeri Malang | (UM) | 1. Metadata & Konteks Indexing | Kategori: Layanan Akademik / Sistem Informasi Target Audiens: Mahasiswa Aktif (Semester 1 -"
+  },
+  {
+    "rel_path": "Panduan Siakad\\3) Panduan Aktifasi Akun Siakad UM untuk Mahasiswa Baru UM.pdf",
+    "pages": 3,
+    "size_kb": 145.09,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Panduan Lengkap Login SIAKAD UM untuk Mahasiswa Baru | Selamat datang di kampus cakrawala, Universitas Negeri Malang (UM)! Sebagai langkah awal | memulai kehidupan akademik, Anda wajib memiliki akses ke SIAKAD (Sistem Informasi | Akademik). Sistem ini akan digunakan untuk pengisian KRS, melihat nilai, hingga memantau"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Informasi dan Panduan Biaya Pendidikan Universitas Negeri Malang tahun 2026.pdf",
+    "pages": 12,
+    "size_kb": 708.05,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "BIAYA PENDIDIKAN JALUR MASUK PROGRAM SARJANA (S1) , | MAGISTER (S2), DOKTOR (S3) TAHUN 2026 | Pengantar | A. Program Sarjana (S1) dan Sarjana Terapan (D4)"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\KB_Biaya_UKT_IPI_Pembayaran.pdf",
+    "pages": 14,
+    "size_kb": 4251.47,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Table of Contents | KNOWLEDGE BASE — BIAYA PENDIDIKAN: UKT & IPI UNIVERSITAS | NEGERI MALANG TAHUN 2026 | Dokumen Training Source untuk AI Assist Qontak — Helpdesk PMB Universitas Negeri"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\KB_Registrasi_Akun_SIAKAD_DaftarUlang.pdf",
+    "pages": 4,
+    "size_kb": 4102.09,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Table of Contents | KNOWLEDGE BASE — REGISTRASI AKUN, LOGIN SIAKAD, DAFTAR ULANG & KENDALA | TEKNIS WEBSITE ................................ ................................ ................................ ................................ .................. 1 | 1. Tentang Dokumen Ini ................................ ................................ ................................ ................................  1"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\KB_Registrasi_Mahasiswa_Semester_Gasal_2026_2027_UM+(1).pdf",
+    "pages": 5,
+    "size_kb": 196.99,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — REGISTRASI MAHASISWA (LAMA) SEMESTER | GASAL TAHUN AKADEMIK 2026/2027 UNIVERSITAS NEGERI MALANG | (UM) | Sumber: Surat Edaran Wakil Rektor I UM Nomor 24.6.58/UN32.I/KM/2026, tanggal 24 Juni"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\KB_Registrasi_Mahasiswa_Semester_Gasal_2026_2027_UM+(2).pdf",
+    "pages": 7,
+    "size_kb": 242.92,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE BASE — REGISTRASI MAHASISWA (LAMA) SEMESTER | GASAL TAHUN AKADEMIK 2026/2027 UNIVERSITAS NEGERI MALANG | (UM) | Sumber: Surat Edaran Wakil Rektor I UM Nomor 24.6.58/UN32.I/KM/2026, tanggal 24 Juni"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\knowledge+source+dinamis+keuangan.pdf",
+    "pages": 7,
+    "size_kb": 923.26,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Pertanyaan Umum dan Jawaban Seputar Keuangan | 1. Pertanyaan: Bagaimana cara bayar tiket event di UM? | Jawaban: tata caranya pembayaran event ada didalam web event.um.ac.id pada | menu panduan"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Panduan+Pembayaran+UKT+Mahasiswa+UM+-+(diluar+tanggal+batas+pembayaran)+.pdf",
+    "pages": 2,
+    "size_kb": 185.02,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "Panduan Pembayaran UKT di Luar Tanggal yang Telah Ditentukan | Dokumen ini berisi prosedur khusus dan penanganan masalah bagi mahasiswa Universitas | Negeri Malang yang terlambat melakukan registrasi atau pembayaran UKT. Panduan ini disusun | agar mudah dipahami oleh sistem informasi dan asisten AI."
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Panduan+Permasalahan+Pembayaran+UKT.pdf",
+    "pages": 1,
+    "size_kb": 171.12,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "1. Apabila pembayaran UKT dilakukan di luar tanggal yang telah ditentukan, | maka mahasiswa perlu mengikuti prosedur khusus sebagai berikut: | a) Meminta surat rekomendasi terlebih dahulu ke bagian akademik fakultas | masing-masing terkait permohonan pembayaran UKT yang terlambat."
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Pembatalan+Mata+Kuliah++Intent-+pembatalan_KRS+dan++Biaya+SKS+semester_antara+atau+pendek.docx.pdf",
+    "pages": 1,
+    "size_kb": 67.08,
+    "has_intent": true,
+    "has_qa": true,
+    "snippet": "Pembatalan | Mata | Kuliah | Intent:"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Registrasi+-+Layanan+di+Loket+Administrasi+Sub+Direktorat+Layanan+Pendidikan.pdf",
+    "pages": 2,
+    "size_kb": 515.4,
+    "has_intent": false,
+    "has_qa": false,
+    "snippet": "Layanan di Loket Administrasi Sub Direktorat Layanan Pendidikan | Loket: | ⮚ Loket ⁠ A :Cetak KHS, Pengambilan Ijazah, Ralat Ijazah dan, Penerbitan Ijazah dalam | Bahasa Inggris"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Registrasi+Gasal+2026.pdf",
+    "pages": 5,
+    "size_kb": 251.67,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "PEDOMAN REGISTRASI MAHASISWA | SEMESTER GASAL TAHUN AKADEMIK | 2026/2027 | Universitas Negeri Malang (UM)"
+  },
+  {
+    "rel_path": "Registrasi UKT dan KRS\\Revisi - Knowledge Base Keuangan UM.pdf",
+    "pages": 9,
+    "size_kb": 152.76,
+    "has_intent": false,
+    "has_qa": true,
+    "snippet": "KNOWLEDGE | BASE: | PERTANYAAN | UMUM"
+  }
+]
