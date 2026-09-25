@@ -16,9 +16,26 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **6. Layanan Akun, Email & IT Kampus** | 20 | 11 | 7 | 2 | **90%** |
 | **7. Kelulusan, Yudisium & Wisuda** | 18 | 13 | 3 | 2 | **89%** |
 | **8. Administrasi, Surat & Sarana Kampus** | 18 | 14 | 2 | 2 | **89%** |
-| **TOTAL KESELURUHAN** | **188** | **137** | **33** | **18** | **90.4%** |
+| **TOTAL KESELURUHAN** | **188** | **137** | **36** | **15** | **92%** |
 
 ---
+
+## 🔎 CATATAN AUDIT WEB RESMI 2026
+
+Status pada tabel **tidak berarti semua jawaban telah diverifikasi web**. `KB_EXISTING` berarti jawaban tersedia di Knowledge Base internal. `WEB_VERIFIED` berarti jawaban telah diperiksa terhadap sumber resmi UM yang tersedia. `NEEDS_REVIEW` berarti jawaban lama tidak boleh dipakai sebagai jawaban final sampai ada sumber resmi yang cukup.
+
+Koreksi penting hasil verifikasi:
+- **PMB-028:** PKKMB 2026 berlangsung **10–14 Agustus 2026**, bukan sekadar “pertengahan Agustus”.
+- **KEU-006:** daftar bank pembayaran diperbarui mengikuti FAQ ULT UM; jangan mengunci daftar hanya pada 5 bank lama.
+- **KEU-014:** cicilan UKT dapat diajukan melalui helpdesk UKT fakultas, maksimal **2 kali/semester dengan skema 50:50**.
+- **ADM-009:** prosedur dan biaya cetak ulang KTM diperbarui menjadi **Rp30.000 hilang / Rp15.000 rusak**, melalui Loket C/D.
+- **ADM-013 dan ADM-015:** klaim absolut “gratis” diturunkan menjadi `NEEDS_REVIEW` karena bukti resmi yang tersedia tidak cukup untuk menjamin seluruh kondisi 2026.
+- **ADM-014:** jam Perpustakaan diperbarui berdasarkan pengumuman/laman resmi terbaru.
+- **WSD-013:** 2 pendamping dikonfirmasi untuk Wisuda Periode 137; jangan menganggap angka itu permanen untuk semua periode.
+- **IT-016:** kanal PTIK diperbarui menggunakan kontak resmi PTIK saat ini.
+- **KEU-024:** kanal keuangan diperbarui mengikuti halaman ULT UM; nomor harus dianggap sebagai kontak layanan yang dapat berubah.
+
+**Sumber resmi yang menjadi rujukan koreksi:** Pedoman Pendidikan UM 2026, Kalender Akademik UM 2026/2027, Simaba UM 2026, ULT UM, UPT Perpustakaan UM, dan PTIK UM.
 
 ## 1. Domain: Penerimaan Mahasiswa Baru (PMB) & Registrasi Maba
 
@@ -51,7 +68,7 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **PMB-025** | Dokumen apa yang diunggah jika ortu tidak punya slip gaji (wiraswasta/petani)? | `KB_EXISTING` | `02_Keuangan/.../FAQ_Pembayaran_Biaya_Slip_Gaji_dan_KIPK.md` | Surat Keterangan Penghasilan resmi dari Kepala Desa / Kelurahan setempat bermaterai. |
 | **PMB-026** | Kapan Nomor Induk Mahasiswa (NIM) diterbitkan setelah registrasi ulang? | `KB_EXISTING` | `01_PMB/.../1. Pengumuman Pasca Kegiatan Pendaftaran Maba.md` | Diterbitkan otomatis di portal registrasi setelah pembayaran UKT terverifikasi (H+1 s.d H+3). |
 | **PMB-027** | Bagaimana cara mendapatkan Kartu Tanda Mahasiswa (KTM) bagi maba? | `KB_EXISTING` | `01_PMB/.../1. Pengumuman Pasca Kegiatan Pendaftaran Maba.md` | KTM Digital dapat diunduh di SIAKAD, sedangkan KTM Fisik (Co-Branding Bank BNI/BRI) dibagikan saat PKKMB. |
-| **PMB-028** | Kapan jadwal dan rangkaian kegiatan PKKMB (Orientasi Maba) UM dilaksanakan? | `WEB_VERIFIED` | Portal `um.ac.id/pkkmb` & Kalender Akademik | Dilaksanakan pertengahan Agustus sebelum perkuliahan perdana dimulai. |
+| **PMB-028** | Kapan jadwal dan rangkaian kegiatan PKKMB (Orientasi Maba) UM dilaksanakan? | `WEB_VERIFIED` | Kalender Akademik UM 2026/2027 | Untuk 2026/2027, PKKMB dijadwalkan **10–14 Agustus 2026**; awal perkuliahan Gasal **24 Agustus 2026**. |
 | **PMB-029** | Apakah atribut PKKMB harus dibeli di kampus atau boleh membawa sendiri? | `WEB_VERIFIED` | Panduan PKKMB UM | Baju putih dan celana/rok hitam formal dapat disiapkan sendiri, pita/tanda pengenal sesuai pedoman panitia. |
 | **PMB-030** | Jika sudah bayar UKT tapi diterima di kedinasan/PTN lain, apakah uang bisa ditarik? | `KB_EXISTING` | `02_Keuangan/.../Panduan Pengajuan Keringanan Penurunan dan Penarikan Refund UKT UM.md` | Biaya UKT dan pendaftaran yang telah dibayarkan **TIDAK DAPAT DITARIK KEMBALI** (*non-refundable*). |
 | **PMB-031** | Bagaimana alur verifikasi berkas fisik (via pos atau diserahkan langsung)? | `KB_EXISTING` | `01_PMB/.../Knowledge Base Registrasi Mahasiswa Baru ... .md` | 100% online di portal registrasi; berkas fisik hanya ditunjukkan saat ada verifikasi acak (*sampling*). |
@@ -71,7 +88,7 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **KEU-003** | Apakah mahasiswa jalur SNBP dan SNBT dikenakan IPI/Uang Pangkal? | `KB_EXISTING` | `02_Keuangan/.../Informasi dan Panduan Biaya Pendidikan ... .md` | **TIDAK**. Mahasiswa jalur SNBP dan SNBT hanya membayar UKT per semester (bebas IPI). |
 | **KEU-004** | Berapa nominal minimal dan maksimal IPI untuk jalur Mandiri di UM? | `KB_EXISTING` | `02_Keuangan/.../Informasi dan Panduan Biaya Pendidikan ... .md` | Disesuaikan dengan pilihan kategori IPI (Kategori 1 s.d 4) mulai dari Rp 10.000.000 s.d Rp 100.000.000 (Kedokteran). |
 | **KEU-005** | Kapan jadwal pengumuman penetapan kelompok UKT mahasiswa baru? | `KB_EXISTING` | `01_PMB/.../Pengumuman Registrasi Administrasi ... .md` | 3–5 hari kerja setelah batas akhir pengunggahan dokumen sosio-ekonomi selesai. |
-| **KEU-006** | Bank mitra apa saja yang bekerjasama untuk pembayaran UKT UM? | `KB_EXISTING` | `02_Keuangan/.../Panduan Pembayaran UKT Mahasiswa UM ... .md` | 5 Bank Mitra: **Bank Mandiri, BRI, BNI, BTN, dan Bank Jatim**. |
+| **KEU-006** | Bank mitra apa saja yang bekerjasama untuk pembayaran UKT UM? | `WEB_VERIFIED` | Sumber resmi UM 2026 / ULT UM | Pembayaran dapat dilakukan melalui bank mitra UM. FAQ ULT saat ini mencantumkan **BNI, BRI, BTN, Bank Mandiri, Bank Jatim, CIMB Niaga, BTN Syariah, dan BSI**. Ketentuan kanal dapat berubah, sehingga gunakan laman ULT/registrasi UM terbaru sebagai rujukan. |
 | **KEU-007** | Bagaimana cara membayar UKT melalui Mobile Banking bank mitra? | `KB_EXISTING` | `02_Keuangan/.../Panduan Pembayaran UKT Mahasiswa UM ... .md` | Masuk menu Bayar/Pendidikan -> Pilih Universitas Negeri Malang (Kode 032/nama UM) -> Masukkan NIM / Nomor Billing. |
 | **KEU-008** | Mengapa muncul keterangan "Tagihan Tidak Ditemukan" saat bayar di ATM/M-Banking? | `KB_EXISTING` | `02_Keuangan/.../Panduan Permasalahan Pembayaran UKT.md` | Masa pembayaran belum dibuka, nomor billing salah, atau tagihan sudah berstatus lunas. |
 | **KEU-009** | Sudah transfer dan saldo terpotong tapi status SIAKAD masih "Belum Lunas", solusinya? | `KB_EXISTING` | `02_Keuangan/.../Panduan Permasalahan Pembayaran UKT.md` | Tunggu rekonsiliasi bank (1x24 jam) atau unggah bukti transfer ke Helpdesk Bagian Keuangan UM. |
@@ -79,7 +96,7 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **KEU-011** | Kapan jadwal pengajuan penyesuaian / penurunan kelompok UKT bagi mahasiswa lama? | `WEB_VERIFIED` | Surat Edaran Rektor / Kalender Akademik | Dibuka 1 bulan sebelum masa pembayaran UKT semester baru dimulai (Juli untuk Gasal, Desember untuk Genap). |
 | **KEU-012** | Apa syarat dokumen untuk mengajukan banding/penurunan UKT? | `KB_EXISTING` | `02_Keuangan/.../Panduan Pengajuan Keringanan Penurunan ... .md` | Surat Kematian ortu, SK PHK / Pensiun, Surat Keterangan Sakit Kritis, atau SKTM dari Kelurahan terbaru. |
 | **KEU-013** | Apakah UM menyediakan fasilitas penundaan pembayaran UKT jika belum ada biaya? | `KB_EXISTING` | `02_Keuangan/.../Panduan Pengajuan Keringanan Penurunan ... .md` | Ya, melalui pengajuan Surat Permohonan Penundaan UKT kepada Wakil Rektor II dengan persetujuan Dekan Fakultas. |
-| **KEU-014** | Bagaimana prosedur dan batas waktu pengajuan cicilan pembayaran UKT? | `GAP_UM` | Bagian Keuangan Rektorat UM | *Perlu konfirmasi mekanisme teknis cicilan UKT (berapa termin dan tanggal jatuh tempo).* |
+| **KEU-014** | Bagaimana prosedur dan batas waktu pengajuan cicilan pembayaran UKT? | `WEB_VERIFIED` | FAQ Unit Layanan Terpadu UM | Pengajuan angsuran UKT dilakukan melalui **helpdesk UKT fakultas** dan maksimal **2 kali pembayaran dalam 1 semester dengan skema 50:50**. Dokumen tidak menetapkan tanggal jatuh tempo tiap termin, sehingga bagian tanggal tetap harus mengikuti billing/persetujuan fakultas. |
 | **KEU-015** | Apakah mahasiswa tingkat akhir yang hanya ambil Skripsi mendapat potongan UKT 50%? | `WEB_VERIFIED` | Permendikbudristek & SK Rektor UM | **YA**, mahasiswa S1 semester 9 ke atas atau D4 semester 9 ke atas yang hanya mengambil mata kuliah tugas akhir/skripsi (≤ 6 SKS) berhak diskon 50%. |
 | **KEU-016** | Berapa SKS maksimal yang diambil agar berhak mendapat potongan UKT 50%? | `WEB_VERIFIED` | SK Rektor UM tentang Keringanan UKT | Maksimal **6 SKS** (hanya Skripsi/Tugas Akhir). |
 | **KEU-017** | Jika lulus di awal semester sebelum perkuliahan dimulai, apakah UKT bisa dibebaskan? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Jika yudisium disahkan sebelum hari pertama perkuliahan kalender akademik, mahasiswa dibebaskan dari UKT semester baru. |
@@ -206,7 +223,7 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **IT-013** | Mengapa WiFi *UM-Hotspot* sering meminta login ulang (*login loop*)? | `WEB_VERIFIED` | PTIK UM | Matikan fitur *Randomized MAC Address* / *Private MAC* pada pengaturan WiFi perangkat Anda. |
 | **IT-014** | Bagaimana cara menggunakan VPN UM untuk akses e-journal dari luar kampus? | `WEB_VERIFIED` | `ptik.um.ac.id/layanan/vpn` | Unduh aplikasi OpenVPN Client, unduh file konfigurasi VPN UM di laman PTIK, dan login dengan akun SSO. |
 | **IT-015** | Di mana letak kantor UPT PTIK UM? | `KB_EXISTING` | `05_Helpdesk/.../Panduan_Layanan_Terpusat_Helpdesk_dan_Kontak_Resmi_UM.md` | Gedung B5 Lantai 2, Kampus I Universitas Negeri Malang, Jl. Semarang 5 Malang. |
-| **IT-016** | Berapa nomor kontak Helpdesk IT atau kanal pelaporan server? | `KB_EXISTING` | `05_Helpdesk/.../Panduan_Layanan_Terpusat_Helpdesk_dan_Kontak_Resmi_UM.md` | Email: `ptik@um.ac.id`, Telepon: (0341) 551312 ext. 1145, Helpdesk: `helpdesk.um.ac.id`. |
+| **IT-016** | Berapa nomor kontak Helpdesk IT atau kanal pelaporan server? | `WEB_VERIFIED` | Pusat TIK UM | Kontak yang dipublikasikan PTIK saat ini: **Helpdesk (+62) 812-1736-6676**, kantor PTIK Gedung B1 UM. Gunakan laman PTIK untuk kanal terbaru. |
 | **IT-017** | Bagaimana cara mengunduh software berlisensi kampus (SPSS, MATLAB)? | `GAP_UM` | UPT PTIK UM | *Perlu katalog software berlisensi kampus yang dapat diakses mahasiswa.* |
 | **IT-018** | Bagaimana cara menghubungkan akun SIAKAD dengan aplikasi mobile UM? | `KB_EXISTING` | `03_Akademik/.../Panduan_Penggunaan_Fitur_SIAKAD_Mahasiswa_Aktif.md` | Login langsung di aplikasi mobile resmi UM menggunakan akun SSO terdaftar. |
 | **IT-019** | Mengapa SIAKAD lambat saat jam puncak KRS dan apa solusinya? | `KB_EXISTING` | `03_Akademik/.../Panduan_Penggunaan_Fitur_SIAKAD_Mahasiswa_Aktif.md` | Karena tingginya trafik serentak. Disarankan akses secara berkala, bersihkan cache browser, atau gunakan jaringan stabil. |
@@ -230,7 +247,7 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **WSD-010** | Berapa biaya pendaftaran wisuda di UM? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Untuk program Sarjana reguler, biaya wisuda sudah termasuk dalam komponen UKT/pembayaran kelulusan. |
 | **WSD-011** | Kapan dan di mana jadwal pengambilan atribut wisuda (toga & undangan)? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Diambil di Subag Akademik/Kemahasiswaan Fakultas H-7 sampai H-2 sebelum hari pelaksanaan wisuda. |
 | **WSD-012** | Apakah wisuda dilaksanakan secara luring di Graha Cakrawala UM? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | **YA**, prosesi wisuda diselenggarakan luring di Gedung Graha Cakrawala UM. |
-| **WSD-013** | Berapa orang pendamping/orang tua yang diizinkan masuk ke Graha Cakrawala? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Setiap wisudawan mendapatkan **2 undangan resmi** untuk kedua orang tua/pendamping. |
+| **WSD-013** | Berapa orang pendamping/orang tua yang diizinkan masuk ke Graha Cakrawala? | `WEB_VERIFIED` | Pengumuman Wisuda UM Periode 137 Tahun 2026 | Pada Periode 137, setiap wisudawan memperoleh **2 undangan pendamping**. Jumlah dapat berubah menurut periode, jadi gunakan pengumuman wisuda periode terkait. |
 | **WSD-014** | Kapan ijazah asli dan transkrip nilai fisik bisa diambil setelah wisuda? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Pada hari H wisuda atau mulai H+1 kerja di loket pelayanan BAKPIK / Fakultas. |
 | **WSD-015** | Apa syarat pengambilan ijazah asli (bisakah diwakilkan)? | `KB_EXISTING` | `03_Akademik/.../Panduan_Proses_Yudisium_Kelulusan_dan_Wisuda.md` | Menunjukkan bukti bebas tanggungan. Pengambilan diwakilkan wajib menyertakan Surat Kuasa bermaterai Rp 10.000 dan fotokopi KTP kedua belah pihak. |
 | **WSD-016** | Bagaimana cara mendapatkan Ijazah Digital dan Transkrip Digital bertanda tangan elektronik (TTE)? | `KB_EXISTING` | `03_Akademik/.../Panduan_Layanan_Legalisir_Ijazah_Online_UM.md` | Diunduh langsung melalui akun alumni di SIAKAD dengan sertifikat digital Peruri / Balai Sertifikasi Elektronik (BSrE). |
@@ -251,38 +268,34 @@ Dokumen ini merupakan direktori kerja komprehensif 188 pertanyaan mahasiswa Univ
 | **ADM-006** | Bagaimana prosedur resmi pengunduran diri sebagai mahasiswa UM? | `KB_EXISTING` | `05_Helpdesk/.../Panduan_Layanan_Loket_Administrasi_dan_Persuratan_SIAKAD_UM.md` | Mengisi formulir pengunduran diri bermaterai disetujui orang tua dan DPA, diserahkan ke BAKPIK untuk SK Pemberhentian. |
 | **ADM-007** | Apakah mahasiswa UM bisa mengajukan pindah program studi (alih prodi)? | `GAP_UM` | BAKPIK UM | *Perlu konfirmasi SOP syarat IPK minimal dan kuota perpindahan program studi internal UM.* |
 | **ADM-008** | Bagaimana syarat transfer / pindah kuliah dari universitas lain ke UM? | `KB_EXISTING` | `01_PMB/.../KB_SM_Jalur_Kemitraan_Mitra_Asuh_UM.md` | Berasal dari PTN/PTS terakreditasi minimal setara, bukan karena putus studi (DO), dan prodi tujuan memiliki kuota. |
-| **ADM-009** | Bagaimana cara mengurus penggantian KTM yang hilang atau rusak? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Membawa Surat Kehilangan dari Kepolisian ke Bank Mitra (BNI/BRI kantor cabang kampus UM) untuk cetak ulang fisik. |
+| **ADM-009** | Bagaimana cara mengurus penggantian KTM yang hilang atau rusak? | `WEB_VERIFIED` | Unit Layanan Terpadu UM | Penggantian diproses di **Loket C/D, Sub Direktorat Layanan Pendidikan**. KTM hilang memerlukan Surat Keterangan Kehilangan dari Kepolisian; KTM rusak memerlukan fotokopi KTM lama jika masih ada. Biaya: **Rp30.000 (hilang)** dan **Rp15.000 (rusak)**. |
 | **ADM-010** | Prosedur peminjaman gedung / ruangan perkuliahan / sarpras olahraga? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Mengajukan surat permohonan ke Seksi Rumah Tangga DSPA UM di Graha Rektorat atau via portal SIBMN UM. |
 | **ADM-011** | Apa syarat dan alur pendaftaran tinggal di Asrama Mahasiswa UM? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Mengajukan permohonan via Pengelola Asrama DSPA (Kampus 1 Veteran, Kampus 2 Sawojajar, Kampus 3 Blitar). |
 | **ADM-012** | Layanan kesehatan apa saja yang tersedia di Klinik Pratama UM? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Poli Umum & Gawat Darurat, Poli Gigi, Poli KIA/KB, dan Instalasi Farmasi di Jl. Semarang No. 5 Malang. |
-| **ADM-013** | Apakah berobat di Klinik UM gratis dengan menunjukkan KTM? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | **GRATIS** untuk pemeriksaan dasar dan konsultasi kesehatan bagi mahasiswa dan pegawai aktif UM. |
-| **ADM-014** | Di mana lokasi dan jam operasional Perpustakaan Pusat UM? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Gedung Perpustakaan Pusat Kampus I, buka Senin–Jumat 07.30–16.00 WIB (keanggotaan otomatis terintegrasi KTM). |
-| **ADM-015** | Bagaimana aturan parkir dan tarif parkir di lingkungan UM? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | **GRATIS 100%** bagi sivitas akademika. Parkir bus besar khusus di selatan Graha Cakrawala. |
+| **ADM-013** | Apakah berobat di Klinik UM gratis dengan menunjukkan KTM? | `NEEDS_REVIEW` | Sumber resmi UM yang tersedia | Ketentuan biaya layanan kesehatan harus mengikuti ketentuan layanan UM terbaru. Sumber resmi yang ditemukan tidak cukup untuk menjamin klaim **gratis untuk seluruh layanan** pada 2026; jangan gunakan jawaban absolut ini sebelum ada ketentuan terbaru yang spesifik. |
+| **ADM-014** | Di mana lokasi dan jam operasional Perpustakaan Pusat UM? | `WEB_VERIFIED` | UPT Perpustakaan UM | Jam layanan yang dipublikasikan saat ini: **Senin–Kamis 07.00–18.00 WIB; Jumat 07.30–11.00 dan 13.00–15.00 WIB; Sabtu 07.00–14.00 WIB; Minggu tutup**. Layanan dapat berubah mengikuti pengumuman terbaru. |
+| **ADM-015** | Bagaimana aturan parkir dan tarif parkir di lingkungan UM? | `NEEDS_REVIEW` | Sumber resmi UM belum cukup spesifik untuk seluruh kondisi 2026 | Klaim **gratis 100%** tidak boleh dipakai sebagai jawaban umum tanpa sumber tarif/aturan parkir UM yang berlaku saat ini. Detail lokasi parkir juga perlu mengikuti informasi fasilitas terbaru. |
 | **ADM-016** | Layanan konseling psikologi bagi mahasiswa yang mengalami masalah pribadi? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Kemahasiswaan_dan_Layanan_Umum_UM.md` | Layanan Konseling Mahasiswa di UPT Bimbingan Konseling / Fakultas Psikologi UM. |
 | **ADM-017** | Prosedur pelaporan kehilangan barang (*lost and found*) di kampus? | `KB_EXISTING` | `04_Layanan/.../Panduan_Layanan_Sarana_Prasarana_dan_Fasilitas_Kampus_UM.md` | Melapor ke Pos Satpam / Keamanan Kampus terdekat atau Seksi Ketertiban DSPA Graha Rektorat. |
 | **ADM-018** | Alur pengaduan jika terjadi kekerasan seksual atau perundungan ke Satgas PPKS? | `GAP_UM` | Satgas PPKS UM | *Perlu hotline resmi WhatsApp dan portal pengaduan rahasia Satgas PPKS UM.* |
 
 ---
 
-## 📋 DAFTAR GAP LIST UNTUK DIAJUKAN KE PIHAK ADMIN UM (18 Poin)
+## 📋 DAFTAR GAP LIST UNTUK DIAJUKAN KE PIHAK ADMIN UM (14 Poin)
 
 Daftar pertanyaan berikut membutuhkan konfirmasi data angka, SOP operasional internal, atau nomor kontak resmi dari Pimpinan/Admin Helpdesk UM:
 
 1. **[PMB-033]** *Jadwal & Lokasi Pengambilan Jas Almamater:* Di mana dan kapan jadwal resmi pembagian jas almamater bagi mahasiswa baru tahun 2026?
-2. **[KEU-014]** *SOP Cicilan UKT:* Bagaimana ketentuan rinci cicilan UKT (berapa maksimal termin angsuran dan tanggal jatuh tempo tiap termin)?
-3. **[KEU-019]** *Biaya Administrasi Cuti:* Berapa tarif resmi biaya pemeliharaan status/administrasi cuti kuliah per semester bagi mahasiswa yang disetujui cuti?
-4. **[AKD-025]** *Alur Konversi MBKM di SIAKAD:* Siapa pejabat/admin yang bertugas menginput konversi nilai 20 SKS MBKM ke sistem transkrip SIAKAD?
-5. **[KUL-015]** *Dokumen Konversi Nilai Magang/MBKM:* Format dan template logbook apa yang disyaratkan departemen untuk pengakuan nilai magang?
-6. **[KUL-022]** *Batas Skor TOEFL/UKBI Kelulusan:* Berapa skor minimal sertifikat TOEFL/UKBI yang diwajibkan untuk syarat pendaftaran ujian skripsi/yudisium per fakultas?
-7. **[MHS-008]** *Ketentuan Cuti Mahasiswa KIP-Kuliah:* Apakah penerima KIP-Kuliah diperbolehkan cuti akademik karena sakit berat tanpa membatalkan status beasiswa dari kementerian?
-8. **[MHS-017]** *Portal Prestasi Mahasiswa:* Apa nama domain/aplikasi resmi yang saat ini digunakan Ditmawa UM untuk pelaporan portofolio prestasi mahasiswa (SIPRES/SIAKAD)?
-9. **[MHS-019]** *Standar Poin SKPI Minimal:* Berapa batas akumulasi poin minimal keaktifan kemahasiswaan/SKPI sebagai prasyarat kelulusan?
-10. **[IT-009]** *Kebijakan Akun Email Alumni:* Apakah akun email `@students.um.ac.id` tetap aktif selamanya atau memiliki masa kedaluwarsa setelah wisuda?
-11. **[IT-017]** *Katalog Software Berlisensi Kampus:* Software berlisensi apa saja (misal SPSS, MATLAB, NVivo) yang dapat diunduh gratis oleh mahasiswa dan di mana link portalnya?
-12. **[WSD-009]** *Kuota Wisudawan per Periode:* Berapa kuota maksimal peserta wisuda luring di Graha Cakrawala untuk setiap periode wisuda?
-13. **[WSD-018]** *Tarif & SLA Legalisir Ijazah Fisik:* Berapa biaya legalisir fisik per lembar dan berapa estimasi waktu pengerjaan di loket BAKPIK?
-14. **[ADM-007]** *Syarat Pindah Program Studi Internal UM:* Bagaimana SOP dan syarat IPK minimal bagi mahasiswa yang ingin pindah prodi di lingkungan UM?
-15. **[ADM-018]** *Hotline Satgas PPKS UM:* Berapa nomor kontak resmi (WhatsApp/Email) dan tautan form pengaduan Satgas PPKS UM untuk penanganan kasus kekerasan seksual/perundungan?
-16. **[PMB-028]** *Kontak Helpdesk Registrasi Maba:* Berapa nomor WhatsApp resmi Tim Helpdesk Registrasi Mahasiswa Baru UM untuk eskalasi kendala NIK/data?
-17. **[KEU-024]** *Hotline Loket Keuangan UM:* Berapa nomor WhatsApp Helpdesk Bagian Keuangan Rektorat UM untuk kendala verifikasi pembayaran UKT?
-18. **[IT-016]** *Hotline WhatsApp UPT PTIK UM:* Apakah UPT PTIK memiliki nomor WhatsApp Helpdesk langsung untuk bantuan darurat reset akun mahasiswa?
+2. **[KEU-019]** *Biaya Administrasi Cuti:* Berapa tarif resmi biaya pemeliharaan status/administrasi cuti kuliah per semester bagi mahasiswa yang disetujui cuti?
+3. **[AKD-025]** *Alur Konversi MBKM di SIAKAD:* Siapa pejabat/admin yang bertugas menginput konversi nilai 20 SKS MBKM ke sistem transkrip SIAKAD?
+4. **[KUL-015]** *Dokumen Konversi Nilai Magang/MBKM:* Format dan template logbook apa yang disyaratkan departemen untuk pengakuan nilai magang?
+5. **[KUL-022]** *Batas Skor TOEFL/UKBI Kelulusan:* Berapa skor minimal sertifikat TOEFL/UKBI yang diwajibkan untuk syarat pendaftaran ujian skripsi/yudisium per fakultas?
+6. **[MHS-008]** *Ketentuan Cuti Mahasiswa KIP-Kuliah:* Apakah penerima KIP-Kuliah diperbolehkan cuti akademik karena sakit berat tanpa membatalkan status beasiswa dari kementerian?
+7. **[MHS-017]** *Portal Prestasi Mahasiswa:* Apa nama domain/aplikasi resmi yang saat ini digunakan Ditmawa UM untuk pelaporan portofolio prestasi mahasiswa (SIPRES/SIAKAD)?
+8. **[MHS-019]** *Standar Poin SKPI Minimal:* Berapa batas akumulasi poin minimal keaktifan kemahasiswaan/SKPI sebagai prasyarat kelulusan?
+9. **[IT-009]** *Kebijakan Akun Email Alumni:* Apakah akun email `@students.um.ac.id` tetap aktif selamanya atau memiliki masa kedaluwarsa setelah wisuda?
+10. **[IT-017]** *Katalog Software Berlisensi Kampus:* Software berlisensi apa saja (misal SPSS, MATLAB, NVivo) yang dapat diunduh gratis oleh mahasiswa dan di mana link portalnya?
+11. **[WSD-009]** *Kuota Wisudawan per Periode:* Berapa kuota maksimal peserta wisuda luring di Graha Cakrawala untuk setiap periode wisuda?
+12. **[WSD-018]** *Tarif & SLA Legalisir Ijazah Fisik:* Berapa biaya legalisir fisik per lembar dan berapa estimasi waktu pengerjaan di loket BAKPIK?
+13. **[ADM-007]** *Syarat Pindah Program Studi Internal UM:* Bagaimana SOP dan syarat IPK minimal bagi mahasiswa yang ingin pindah prodi di lingkungan UM?
+14. **[ADM-018]** *Hotline Satgas PPKS UM:* Berapa nomor kontak resmi (WhatsApp/Email) dan tautan form pengaduan Satgas PPKS UM untuk penanganan kasus kekerasan seksual/perundungan?
